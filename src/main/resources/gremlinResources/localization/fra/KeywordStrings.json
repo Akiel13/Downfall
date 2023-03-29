@@ -19,18 +19,18 @@
   {
     "NAMES": [
       "écho",
-      "echo",
-      "echoes"
+      "echo"
     ],
     "PROPER_NAME": "Écho",
-    "DESCRIPTION": "Un écho est une copie d'une carte avec Éthérée et Épuisement."
+    "DESCRIPTION": "Un #yécho est une copie d'une carte avec Éthérée et Épuisement."
   },
   {
     "NAMES": [
-      "Échos"
+      "échos",
+      "echoes"
     ],
     "PROPER_NAME": "Échos",
-    "DESCRIPTION": "Des échos sont des copies d'une carte avec Éthérée et Épuisement."
+    "DESCRIPTION": "Des #yéchos sont des copies d'une carte avec Éthérée et Épuisement."
   },
   {
     "NAMES": [
@@ -56,10 +56,12 @@
     "NAMES": [
       "diablotin fou",
       "diablotin_fou",
+      "diablotin enragé",
+      "diablotin_enragé",
       "mad gremlin",
       "mad_gremlin"
     ],
-    "PROPER_NAME": "Diablotin fou",
+    "PROPER_NAME": "Diablotin enragé",
     "DESCRIPTION": "Gagnez #b2 de #yForce #yTemporaire quand vous êtes attaqué."
   },
   {
@@ -104,6 +106,6 @@
       "steal"
     ],
     "PROPER_NAME": "Vol",
-    "DESCRIPTION": "La cible perd une quantité spécifiée de ressources. Vous gagnez le montant qui a été perdu."
+    "DESCRIPTION": "La cible perd une quantité spécifiée de ressources. Vous en gagnez un montant égal à ce qui a été perdu."
   }
 ]
