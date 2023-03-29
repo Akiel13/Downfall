@@ -196,27 +196,27 @@
     "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée du deck de départ d'un personnage."
   },
   "sneckomod:Unknown0Cost": {
-    "NAME": "??? Coûtant 0",
+    "NAME": "??? coûtant 0",
     "DESCRIPTION": "Carte *Inconnue coûtant 0.",
     "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée coûtant 0."
   },
   "sneckomod:Unknown1Cost": {
-    "NAME": "??? Coûtant 1",
+    "NAME": "??? coûtant 1",
     "DESCRIPTION": "Carte *Inconnue coûtant 1.",
     "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée coûtant 1."
   },
   "sneckomod:Unknown2Cost": {
-    "NAME": "??? Coûtant 2",
+    "NAME": "??? coûtant 2",
     "DESCRIPTION": "Carte *Inconnue coûtant 2.",
     "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée coûtant 2."
   },
   "sneckomod:Unknown3Cost": {
-    "NAME": "??? Coûtant 3",
+    "NAME": "??? coûtant 3",
     "DESCRIPTION": "Carte *Inconnue coûtant 3.",
     "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée coûtant 3."
   },
   "sneckomod:UnknownBlock": {
-    "NAME": "???",
+    "NAME": "??? Armure",
     "DESCRIPTION": "Carte *Inconnue d'Armure.",
     "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée d'Armure."
   },
@@ -306,17 +306,17 @@
     "UPGRADE_DESCRIPTION": "Carte Compétence *Inconnue Améliorée Peu Commune."
   },
   "sneckomod:UnknownVulnerable": {
-    "NAME": "??? Vulnérable",
+    "NAME": "??? Vulnérabimité",
     "DESCRIPTION": "Carte *Inconnue qui donne de la Vulnérabilité.",
     "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui donne de la Vulnérabilité."
   },
   "sneckomod:UnknownWeak": {
-    "NAME": "??? Faible",
+    "NAME": "??? Faiblesse",
     "DESCRIPTION": "Carte *Inconnue qui donne de la Faiblesse.",
     "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée qui donne de la Faiblesse."
   },
   "sneckomod:UnknownX": {
-    "NAME": "??? Coûtant X",
+    "NAME": "??? coûtant X",
     "DESCRIPTION": "Carte *Inconnue coûtant X.",
     "UPGRADE_DESCRIPTION": "Carte *Inconnue Améliorée coûtant X."
   },
