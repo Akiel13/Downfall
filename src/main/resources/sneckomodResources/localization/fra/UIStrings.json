@@ -19,10 +19,10 @@
       "???",
       "Carte ",
       " *Inconnue.",
-      "de ce Personnage",
-      " ",
+      " aaa",
+      " bbb",
       "Vous n'auriez jamais dû voir ça. Reportez ceci à Vex",
-      "Version amélioreée d'une "
+      "Version #yAmélioreée d'une NL"
     ]
   },
   "sneckomod:UpgradedUnknownReward": {
@@ -61,7 +61,7 @@
       "",
       "",
       "Les cartes Inconnues peuvent devenir des cartes de ",
-      " cette run.",
+      " cette partie.",
       "Choisissez."
     ]
   }
