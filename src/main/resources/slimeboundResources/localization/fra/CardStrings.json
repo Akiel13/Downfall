@@ -94,7 +94,7 @@
   },
   "Slimebound:GoopTackle": {
     "NAME": "Tacle combo",
-    "DESCRIPTION": "Infligez !D! dégâts. Subissez !SlimeboundSelfharm! dégâts. NL Ajoutez une carte \"Tacle\" aléatoire à votre main. Elle coûte 0 ce tour-ci."
+    "DESCRIPTION": "Infligez !D! dégâts. Subissez !SlimeboundSelfharm! dégâts. NL Ajoutez une carte \"Tacle\" aléatoire à votre main. Elle coûte 0 ce tour-ci.",
     "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. Subissez !SlimeboundSelfharm! dégâts. NL Ajoutez une carte \"Tacle\" aléatoire Améliorée à votre main. Elle coûte 0 ce tour-ci."
   },
   "Slimebound:Grow": {
