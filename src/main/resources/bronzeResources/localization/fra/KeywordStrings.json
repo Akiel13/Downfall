@@ -1,6 +1,6 @@
 [
   {
-    "PROPER_NAME": "Encode",
+    "PROPER_NAME": "Encodage",
     "NAMES": [
       "encode",
       "encodé",
@@ -8,9 +8,10 @@
       "encodées",
       "encodez",
       "encoder",
+      "encodage",
       "encoded"
     ],
-    "DESCRIPTION": "Ajoutez la carte à la Séquence. NL Quand 3 cartes sont dans la Séquence, leurs effets (autre que Encode) sont fusionnés en une Fonction dont le coût est égal au coût de la carte la plus chère."
+    "DESCRIPTION": "Ajoutez la carte à la Séquence. NL Quand 3 cartes sont dans la Séquence, leurs effets (sauf Encodage) sont fusionnés en une Fonction qui coûte #b1 [REMOVE_SPACE]."
   },
   {
     "PROPER_NAME": "Compilation",
@@ -20,7 +21,7 @@
       "compile",
       "compiled"
     ],
-    "DESCRIPTION": "Un effet additionnel qui se déclenche lorsque cette carte, alors qu'elle est dans cette Séquence, est combinée dans une Fonction. NL Peut être un effet négatif, qui est référré en tant qu''Erreur'."
+    "DESCRIPTION": "Un effet additionnel qui se déclenche lorsque cette carte est combinée en une Fonction. NL Peut être un effet négatif, désigné comme 'Erreur'."
   },
   {
     "PROPER_NAME": "Flou",
