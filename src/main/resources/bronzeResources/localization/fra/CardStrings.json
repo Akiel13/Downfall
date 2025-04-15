@@ -1,6 +1,6 @@
 {
   "bronze:Allocate": {
-    "NAME": "Ventilation",
+    "NAME": "Allocation",
     "DESCRIPTION": "Gagnez [E] pour chaque Statut de votre pioche.",
     "EXTENDED_DESCRIPTION": [
       " NL (Gagnez ",
@@ -8,44 +8,44 @@
     ]
   },
   "bronze:AlphaBuild": {
-    "NAME": "Early Access",
-    "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Insérez un Statut aléatoire. NL bronze:Compilation - bronze:Insérez *Beta *Build.",
-    "UPGRADE_DESCRIPTION": "Inné. NL \u00A0 Infligez !D! dégâts. NL bronze:Insérez un Statut aléatoire. NL bronze:Compilation - bronze:Insérez *Beta *Build.",
+    "NAME": "Accès anticipé",
+    "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Insérez un Statut aléatoire. NL bronze:Compilation - bronze:Insérez *Version *Bêta.",
+    "UPGRADE_DESCRIPTION": "Inné. NL \u00A0 Infligez !D! dégâts. NL bronze:Insérez un Statut aléatoire. NL bronze:Compilation - bronze:Insérez *Version *Bêta.",
     "EXTENDED_DESCRIPTION": [
-      "rough",
+      "ébauche  ",
       "Alpha"
     ]
   },
   "bronze:Assembly": {
     "NAME": "Assemblage",
-    "DESCRIPTION": "Scrutez !M!. NL bronze:Encodez toutes les cartes avec bronze:Encodez qui ont été défaussées dans l'ordre choisi. NL Exhaust."
+    "DESCRIPTION": "Scrutez !M!. NL bronze:Encodez toutes les cartes avec bronze:Encodage qui ont été défaussées dans l'ordre choisi. NL Épuisement."
   },
   "bronze:Backtrace": {
-    "NAME": "Backtrace",
-    "DESCRIPTION": "Inné. NL \u00A0 Infligez !D! dégâts. NL bronze:Compilation *Erreur - La Fonction gagne Épuisement.",
+    "NAME": "Retour arrière",
+    "DESCRIPTION": "Inné. NL \u00A0 Infligez !D! dégâts. NL *Erreur *de bronze:Compilation - La Fonction gagne Épuisement.",
     "EXTENDED_DESCRIPTION": [
-      "sneaky",
+      "sournoise",
       "Trace"
     ]
   },
   "bronze:BetaBuild": {
-    "NAME": "Beta Build",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL bronze:Insérez un Statut aléatoire. NL bronze:Compilation - bronze:Insérez *Full *Release.",
+    "NAME": "Version Bêta",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL bronze:Insérez un Statut aléatoire. NL bronze:Compilation - bronze:Insérez un *Logiciel *stable.",
     "EXTENDED_DESCRIPTION": [
-      "early",
-      "Beta"
+      "prototype",
+      "Bêta"
     ]
   },
   "bronze:BitShift": {
     "NAME": "Décalage binaire",
-    "DESCRIPTION": "Choisissez une carte Encodée à retourner dans votre main. NL Elle gagne Retenue. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Retenue. NL Choisissez une carte Encodée à retourner dans votre main. NL Elle gagne Retenue. NL Épuisement."
+    "DESCRIPTION": "Choisissez une carte Encodée à renvoyer dans votre main. NL Elle gagne Retenue. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Retenue. NL Choisissez une carte Encodée à renvoyer dans votre main. NL Elle gagne Retenue. NL Épuisement."
   },
   "bronze:Boost": {
     "NAME": "Boost",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL bronze:Compilation - Gagnez !M! de Force.",
     "EXTENDED_DESCRIPTION": [
-      "boosted",
+      "boosté",
       "Boost"
     ]
   },
@@ -53,26 +53,26 @@
     "NAME": "Branche",
     "DESCRIPTION": "Infligez !D! dégâts ou gagnez !B! d'Armure. NL L'option non choisie est bronze:Encodée. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
-      "Branch: Attaque",
+      "Branche : Attaque",
       "Infligez !D! dégâts.",
-      "Branch: Défense",
+      "Branche : Défense",
       "Gagnez !B! d'Armure."
     ]
   },
   "bronze:Break": {
     "NAME": "Fissure",
-    "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Compilation *Erreur - bronze:Insérez une *Brûlure, une *Blessure et un *Englué.",
+    "DESCRIPTION": "Infligez !D! dégâts. NL *Erreur *de bronze:Compilation - bronze:Insérez une *Brûlure, une *Plaie et un *Englué.",
     "EXTENDED_DESCRIPTION": [
-      "broken",
-      "Smash"
+      "brisé",
+      "Fracas"
     ]
   },
   "bronze:BronzeArmor": {
     "NAME": "Armure de Bronze",
-    "DESCRIPTION": "Gagnez !bauto! d'Artéfact. NL bronze:Compilation *Erreur - TOUS les ennemis gagnent !M! d'Artifact.",
+    "DESCRIPTION": "Gagnez !bauto! d'Artéfact. NL *Erreur *de bronze:Compilation - TOUS les ennemis gagnent !M! d'Armure.",
     "EXTENDED_DESCRIPTION": [
       "bronze",
-      "Armor"
+      "Armure"
     ]
   },
   "bronze:BronzeOrb": {
@@ -158,7 +158,7 @@
   },
   "bronze:DarkDash": {
     "NAME": "Ruée obscure",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégâts. NL bronze:Compilation *Erreur - bronze:Insérez un *Néant.",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégâts. NL *Erreur *de bronze:Compilation - bronze:Insérez un *Néant.",
     "EXTENDED_DESCRIPTION": [
       "dark",
       "Dash"
@@ -199,7 +199,7 @@
   },
   "bronze:DigitalCarnage": {
     "NAME": "Carnage digital",
-    "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Compilation *Erreur - La Fonction est Ethérée.",
+    "DESCRIPTION": "Infligez !D! dégâts. NL *Erreur *de bronze:Compilation - La Fonction est Ethérée.",
     "EXTENDED_DESCRIPTION": [
       "digital",
       "Carnage"
@@ -269,11 +269,11 @@
     ]
   },
   "bronze:FullRelease": {
-    "NAME": "Full Release",
+    "NAME": "Logiciel stable",
     "DESCRIPTION": "bronze:Compilation - La Fonction devient un Pouvoir qui active ses effets au début de chaque tour.",
     "EXTENDED_DESCRIPTION": [
-      "full",
-      "Release",
+      "version",
+      "Complète",
       "1.0"
     ]
   },
@@ -352,7 +352,7 @@
   },
   "bronze:NullPointer": {
     "NAME": "Pointeur zéro",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Gagnez !B! d'Armure. NL bronze:Compilation *Erreur - La Fonction est Injouable.",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Gagnez !B! d'Armure. NL *Erreur *de bronze:Compilation - La Fonction est Injouable.",
     "EXTENDED_DESCRIPTION": [
       "null",
       "Pointer"
@@ -360,7 +360,7 @@
   },
   "bronze:OilSpill": {
     "NAME": "Flaque d'huile",
-    "DESCRIPTION": "Infligez !D! dégâts et appliquez !M! de Poison. NL bronze:Compilation *Erreur - bronze:Insérez un *Englué.",
+    "DESCRIPTION": "Infligez !D! dégâts et appliquez !M! de Poison. NL *Erreur *de bronze:Compilation - bronze:Insérez un *Englué.",
     "EXTENDED_DESCRIPTION": [
       "oily",
       "Spill"
@@ -372,7 +372,7 @@
   },
   "bronze:Overheat": {
     "NAME": "Surchauffe",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Retirez la prochaine bronze:Compilation *Erreur que vous auriez bronze:Encodé."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Retirez la prochaine *Erreur *de bronze:Compilation que vous auriez bronze:Encodé."
   },
   "bronze:Overload": {
     "NAME": "Copier coller",
@@ -381,7 +381,7 @@
   },
   "bronze:Philosophize": {
     "NAME": "Philosopher",
-    "DESCRIPTION": "Gagnez !bauto! de Force. NL bronze:Compilation *Erreur - TOUS les ennemis gagnent !M! de Force.",
+    "DESCRIPTION": "Gagnez !bauto! de Force. NL *Erreur *de bronze:Compilation - TOUS les ennemis gagnent !M! de Force.",
     "EXTENDED_DESCRIPTION": [
       "smart",
       "Idea"
@@ -428,7 +428,7 @@
   },
   "bronze:Safeguard": {
     "NAME": "Sauvegarde",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL bronze:Compilation *Erreur - Obtenez !M! de Fragilité.",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL *Erreur *de bronze:Compilation - Obtenez !M! de Fragilité.",
     "EXTENDED_DESCRIPTION": [
       "safe",
       "Guard"
@@ -569,7 +569,7 @@
   },
   "bronze:DazingPulse": {
     "NAME": "Onde Étrange",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégâts. NL bronze:Compilation *Erreur - bronze:Insérez !M! *Hébétement.",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégâts. NL *Erreur *de bronze:Compilation - bronze:Insérez !M! *Hébétement.",
     "EXTENDED_DESCRIPTION": [
       "dazing",
       "Pulse"
@@ -577,7 +577,7 @@
   },
   "bronze:Debug": {
     "NAME": "Debug",
-    "DESCRIPTION": "Retirez tous les effets des bronze:Compilation *Erreur des cartes Encodées. NL Épuisement."
+    "DESCRIPTION": "Retirez tous les effets des *Erreurs *de bronze:Compilation des cartes Encodées. NL Épuisement."
   },
   "bronze:DecaBeam": {
     "NAME": "Proto-Bouclier",
@@ -602,7 +602,7 @@
   },
   "bronze:Explode": {
     "NAME": "Explosion",
-    "DESCRIPTION": "Appliquez !M! de hexamod:Brûlure à TOUS les ennemis. NL bronze:Compilation *Erreur - bronze:Insérez !bauto! *Brûlure.",
+    "DESCRIPTION": "Appliquez !M! de hexamod:Brûlure à TOUS les ennemis. NL *Erreur *de bronze:Compilation - bronze:Insérez !bauto! *Brûlure.",
     "EXTENDED_DESCRIPTION": [
       "unstable",
       "Bomb"
