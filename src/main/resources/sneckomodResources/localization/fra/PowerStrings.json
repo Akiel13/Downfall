@@ -1,18 +1,29 @@
 {
+  "sneckomod:BlunderGuardPower": {
+    "NAME": "Tsunami",
+    "DESCRIPTIONS": [
+      "Les effets de #yDépassement donnent aussi #b",
+      " #yd'Armure [REMOVE_SPACE].",
+      " #yd'Armure [REMOVE_SPACE]."
+    ]
+  },
   "sneckomod:CheapStockPower": {
     "NAME": "Stock bon marché",
     "DESCRIPTIONS": [
-      "Au début de votre tour, réduisez le coût de la carte #yHors-classe coûtant le plus de #b1.",
-      "Au début de votre tour, réduisez le coût de la carte #yHors-classe coûtant de #b1 #b",
+      "Au début de votre tour, #yConfondez la carte la plus chère de votre main.",
+      "Au début de votre tour, #yConfondez la carte la plus chère de votre main, #b",
       " fois."
     ]
   },
   "sneckomod:CheatPower": {
     "NAME": "Triche",
     "DESCRIPTIONS": [
-      "Ce tour, les cartes qui génèrent un nombre aléatoire pour leurs effets choisissent le nombre maximum possible.",
+      "This turn, cards that have an #yOverflow effect always activate it when played.",
+      "For the next #b",
+      " turns, cards that have an #yOverflow effect always activate it when played."
+      "Ce tour, les effets de #yDépassement s'activent toujours.",
       "Pour les #b",
-      " prochains tours, les cartes qui génèrent un nombre aléatoire pour leurs effets choisissent le nombre maximum possible."
+      " prochains tours, les effets de #yDépassement s'activent toujours."
     ]
   },
   "sneckomod:MuddleDrawnCardsPower": {
@@ -31,19 +42,45 @@
       " #yd'Armure."
     ]
   },
-  "sneckomod:SerpentMindPower": {
-    "NAME": "Esprit serpentin",
+  "sneckomod:OverwhelmingPresencePower": {
+    "NAME": "Présence écrasante",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte #yHors-classe, piochez #b",
-      " carte.",
+      "Chaque tour, la première fois que vous mélangez votre pioche, gagnez [E] et piochez #b1 carte.",
+      "Chaque tour, la première fois que vous mélangez votre pioche, gagnez ",
+      " [E] et piochez #b",
       " cartes."
+    ]
+  },
+  "sneckomod:SerpentsNestPower": {
+    "NAME": "Nid du serpent",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez un #yPouvoir, infligez #b1 dégât à TOUS les ennemis.",
+      "Lorsque vous jouez un #yPouvoir, infligez #b",
+      " dégâts à TOUS les ennemis."
+    ]
+  },
+  "sneckomod:SerpentMindPower": {
+    "NAME": "Forme exotique",
+    "DESCRIPTIONS": [
+      "À la fin de votre tour, gagnez #b",
+      " de #yForce pour chaque couleur de carte jouée ce tour.",
+      " de #yForce pour chaque couleur de carte jouée ce tour."
+    ]
+  },
+  "sneckomod:SnakeEyesPower": {
+    "NAME": "Yeux du serpent",
+    "DESCRIPTIONS": [
+      "La prochaine carte #yHors-Classe que vous jouez ce tour est jouée deux fois",
+      "Les #b",
+      " prochaines cartes #yHors-Classe que vous jouez ce tour sont jouées deux fois"
     ]
   },
   "sneckomod:UnendingSupplyPower": {
     "NAME": "Source inépuisable",
     "DESCRIPTIONS": [
-      "Au début de chaque tour, ajoutez #b",
-      " carte(s) #yHors-classe dans votre main."
+      "Au début de chaque tour, ajoutez à votre main #b",
+      "Au début de chaque tour, ajoutez à votre main un #yÉcho d'une carte #yHors-Classe aléatoire.",
+      " #yÉchos de cartes #yHors-Classe aléatoires."
     ]
   },
   "sneckomod:UnknownUpgradedPostCombatPower": {
@@ -51,20 +88,109 @@
     "DESCRIPTIONS": [
       "À la fin du combat, obtenez #b",
       " cartes #yInconnues #yAméliorées supplémentaires.",
-      " carte #yInconnue #yAméliorée supplémentaire."
+      " carte #yInconnue #yAméliorée supplémentaire.",
+      "NOTE FOR LOC: NOT USED DO NOT TRANSLATE."
     ]
   },
   "sneckomod:UnlimitedRollsPower": {
     "NAME": "Lancers illimités",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez un #yLancer #de #yl'âme dans votre main avec Éthérée et Épuisement."
+      "Au début de votre tour, ajoutez à votre main un #yLancer #de #yl'âme+ avec #yÉpuisement."
     ]
   },
   "sneckomod:Transmogrifying": {
     "NAME": "Transfigurant",
     "DESCRIPTIONS": [
       " est transformée en une autre relique ",
-      " ."
+      " .",
+      "NOTE FOR LOC: NOT USED DO NOT TRANSLATE."
+    ]
+  },
+  "sneckomod:ToxicPersonalityPower": {
+    "NAME": "Toxic Personality",
+    "DESCRIPTIONS": [
+      "Whenever you apply a debuff to an enemy, apply #b",
+      " #yVenom [REMOVE_SPACE].",
+      "NOTE FOR LOC: NOT USED DO NOT TRANSLATE."
+    ]
+  },
+  "sneckomod:TyphoonPower": {
+    "NAME": "Typhon",
+    "DESCRIPTIONS": [
+      "Ce tour, lorsque qu'un #yDépassement s'active [REMOVE_SPACE], jouez une copie de #yCroc #du #ytyphon [REMOVE_SPACE].",
+      "Ce tour, lorsque qu'un #yDépassement s'active [REMOVE_SPACE], jouez #b",
+      " copies de #yCroc #du #ytyphon [REMOVE_SPACE]."
+    ]
+  },
+  "sneckomod:TyphoonPlusPower": {
+    "NAME": "Typhon+",
+    "DESCRIPTIONS": [
+      "Ce tour, lorsque qu'un #yDépassement s'active [REMOVE_SPACE], jouez une copie de #yCroc #du #ytyphon+ [REMOVE_SPACE].",
+      "Ce tour, lorsque qu'un #yDépassement s'active [REMOVE_SPACE], jouez #b",
+      " copies de #yCroc #du #ytyphon+ [REMOVE_SPACE]."
+    ]
+  },
+  "sneckomod:SerpentineSleuthPower": {
+    "NAME": "Détective serpentin",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez un #yPouvoir, gagnez #b",
+      " [E] .",
+      " [E] ."
+    ]
+  },
+  "sneckomod:BigGunsStrengthPower": {
+    "NAME": "Gros calibre",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez une carte qui coûte au moins 3, gagnez #b",
+      " de #yForce [REMOVE_SPACE].",
+      " de #yForce [REMOVE_SPACE]."
+    ]
+  },
+    "sneckomod:BigGunsBlockPower": {
+      "NAME": "Pas de bêtises",
+      "DESCRIPTIONS": [
+        "Lorsque vous jouez une carte qui coûte au moins 3, gagnez #b",
+        " #yd'Armure [REMOVE_SPACE].",
+        " #yd'Armure [REMOVE_SPACE]."
+      ]
+    },
+  "sneckomod:AceOfWandsPower": {
+    "NAME": "Reine des Pentacles",
+    "DESCRIPTIONS": [
+      "Lorsque vous appliquez un débuff à un ennemi, gagnez #b",
+      " #yd'Armure [REMOVE_SPACE].",
+      " #yd'Armure [REMOVE_SPACE]."
+    ]
+  },
+  "sneckomod:LacerateDebuff": {
+    "NAME": "Lacération",
+    "DESCRIPTIONS": [
+      "Ce tour, lorsque vous appliquez un débuff à cette créature, infligez-lui aussi #b",
+      " de #yVenin.",
+      " de #yVenin."
+    ]
+  },
+  "sneckomod:FountainPower": {
+    "NAME": "Fontaine",
+    "DESCRIPTIONS": [
+      "Les effets de #yDépassement appliquent aussi #b",
+      " de #yVenin à un ennemi aléatoire.",
+      " de #yVenin à un ennemi aléatoire."
+    ]
+  },
+  "sneckomod:TrashCanPower": {
+    "NAME": "Poubelle",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, vous pouvez #Épuisez une carte de votre main.",
+      "Au début de votre tour, vous pouvez #Épuisez jusqu'à #b",
+      " cartes de votre main."
+    ]
+  },
+  "sneckomod:VenomDebuff": {
+    "NAME": "Venin",
+    "DESCRIPTIONS": [
+      "Lorsque cette créature subit un débuff différent, elle perd #b",
+      " PV."
     ]
   }
 }
