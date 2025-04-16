@@ -236,8 +236,8 @@
   },
   "bronze:ForLoop": {
     "NAME": "Boucle bouclée",
-    "DESCRIPTION": "La prochaine carte que vous bronze:Encodez provoque X copies additionnelles d'être aussi bronze:Encodées. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "La prochaine carte que vous bronze:Encodez provoque X+1 copies additionnelles d'être aussi bronze:Encodées. NL Épuisement."
+    "DESCRIPTION": "La prochaine fois que vous bronze:Encodez une carte, bronze:Encodez aussi X copies de la carte. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "La prochaine fois que vous bronze:Encodez une carte, bronze:Encodez aussi X+1 copies de la carte. NL Épuisement."
   },
   "bronze:Format": {
     "NAME": "Formatage",
@@ -248,7 +248,7 @@
     "NAME": "Fragment",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégâts.",
     "EXTENDED_DESCRIPTION": [
-      "clean",
+      "propre",
       "Fragment"
     ]
   },
@@ -256,16 +256,16 @@
     "NAME": "Fortification",
     "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Compilation - Gagnez !M! de Dexterité.",
     "EXTENDED_DESCRIPTION": [
-      "solid",
-      "Fortress"
+      "solide",
+      "Forteresse"
     ]
   },
   "bronze:Frontload": {
     "NAME": "Remparts",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL bronze:Compilation - La Fonction gagne Retenue.",
     "EXTENDED_DESCRIPTION": [
-      "sturdy",
-      "Wall"
+      "robuste",
+      "Muraille"
     ]
   },
   "bronze:FullRelease": {
@@ -279,20 +279,20 @@
   },
   "bronze:GetLatest": {
     "NAME": "Dernière version",
-    "DESCRIPTION": "Ajoutez une carte aléatoire avec bronze:Encodez dans votre main. NL Elle coûte 0. NL Épuisement."
+    "DESCRIPTION": "Ajoutez une carte aléatoire avec bronze:Encodage à votre main. NL Elle coûte 0 tant qu'elle n'a pas été jouée. NL Épuisement."
   },
   "bronze:Goto": {
     "NAME": "Goto",
     "DESCRIPTION": "Piochez !M! carte. NL bronze:Compilation - Au prochain tour, piochez !M! carte.",
     "UPGRADE_DESCRIPTION": "Draw !M! cartes. NL bronze:Compilation - Au prochain tour, piochez !M! cartes.",
     "EXTENDED_DESCRIPTION": [
-      "running",
+      "course",
       "Sprint"
     ]
   },
   "bronze:Hardcode": {
-    "NAME": "Hardcode",
-    "DESCRIPTION": "La prochaine fois que vous créez une Fonction, ajoutez-la à votre deck. NL Retirez toutes les cartes qui composent la Fonction (Cela inclut également cette carte)."
+    "NAME": "Hardcodage",
+    "DESCRIPTION": "La prochaine fois que vous créez une Fonction, ajoutez-la à votre deck. NL Retirez toutes les cartes qui composent la Fonction (dont cette carte)."
   },
   "bronze:HardenedForm": {
     "NAME": "Invocation d'orbe",
@@ -300,7 +300,7 @@
   },
   "bronze:HyperBeam": {
     "NAME": "ULTRALASER",
-    "DESCRIPTION": "Retenue. NL Infligez !D! dégâts à TOUS les ennemis. NL Mettez 5 *Néant en haut de votre pioche. NL Quand Retenue, baissez son coût de 1 pour ce combat."
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL Placez 5 *Néant en haut de votre pioche."
   },
   "bronze:InfiniteBeams": {
     "NAME": "Lasers infinis",
