@@ -11,7 +11,7 @@
       "encodage",
       "encoded"
     ],
-    "DESCRIPTION": "Ajoutez la carte à la Séquence. NL Quand 3 cartes sont dans la Séquence, leurs effets (sauf Encodage) sont fusionnés en une Fonction qui coûte #b1 [REMOVE_SPACE]."
+    "DESCRIPTION": "Encodez une carte. NL Quand 3 cartes sont Encodées, elles sont combinées en une carte de Fonction qui a tous leurs effets (sauf Encodage) et coûte #b1 [REMOVE_SPACE]."
   },
   {
     "PROPER_NAME": "Compilation",
