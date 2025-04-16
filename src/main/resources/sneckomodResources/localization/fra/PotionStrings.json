@@ -1,18 +1,18 @@
 {
   "sneckomod:DiceRollPotion": {
-    "NAME": "Potion potentiellement puissante",
+    "NAME": "Carte dans une bouteille",
     "DESCRIPTIONS": [
-      "Infligez #b",
-      "-",
-      " dégâts."
+      "À la fin du combat, obtenez #b",
+      " récompense supplémentaire, de #b3 cartes #yHors-Classe #yAméliorées.",
+      " récompenses supplémentaires, de #b3 cartes #yHors-Classe #yAméliorées."
     ]
   },
   "sneckomod:CheatPotion": {
     "NAME": "Chance liquide",
     "DESCRIPTIONS": [
-      "Ce tour, les cartes qui choisissent un nombre aléatoire pour leurs effets choisissent le nombre maximum possible.",
-      "Pour #b",
-      " tours, les cartes qui choisissent un nombre aléatoire pour leurs effets choisissent le nombre maximum possible."
+      "Pendant un tour, les effets de #yDépassement s'activent toujours.",
+      "Pendant #b",
+      " tours, les effets de #yDépassement s'activent toujours."
     ]
   },
   "sneckomod:MuddlingPotion": {
