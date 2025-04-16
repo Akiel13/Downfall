@@ -68,7 +68,7 @@
     ]
   },
   "bronze:BronzeArmor": {
-    "NAME": "Armure de Bronze",
+    "NAME": "Armure de bronze",
     "DESCRIPTION": "Gagnez !bauto! d'Artéfact. NL *Erreur *de bronze:Compilation - TOUS les ennemis gagnent !M! d'Armure.",
     "EXTENDED_DESCRIPTION": [
       "bronze",
@@ -77,30 +77,30 @@
   },
   "bronze:BronzeOrb": {
     "NAME": "Orbe de bronze",
-    "DESCRIPTION": "Inné. NL Infligez !D! dégâts. NL bronze:Encodez une carte aléatoire avec bronze:Encodez dans votre pioche. NL Épuisement."
+    "DESCRIPTION": "Inné. NL Infligez !D! dégâts. NL bronze:Encodez une carte aléatoire de votre pioche avec bronze:Encodage. NL Épuisement."
   },
   "bronze:BugBarrage": {
-    "NAME": "Barrage buggé",
-    "DESCRIPTION": "Ajoutez 1 *Blessure dans votre main. NL bronze:Cyclez chaque Statut dans votre main, infligeant !D! de dégâts pour chacune.",
-    "UPGRADE_DESCRIPTION": "Ajoutez !M! *Blessures dans votre main. NL bronze:Cyclez chaque Statut dans votre main, infligeant !D! de dégâts pour chacune.",
+    "NAME": "Déluge de bugs",
+    "DESCRIPTION": "Ajoutez !M! *Plaies à votre main. NL Infligez !D! de dégâts pour chaque Statut dans votre main, et bronze:Cyclez les.",
+    "UPGRADE_DESCRIPTION": "Ajoutez !M! *Plaies à votre main. NL Infligez !D! de dégâts pour chaque Statut dans votre main, et bronze:Cyclez les.",
     "EXTENDED_DESCRIPTION": [
       " NL (Frappe ",
       " fois.)"
     ]
   },
   "bronze:BuggyMess": {
-    "NAME": "Désordre de bugs",
+    "NAME": "Bugs en pagaille",
     "DESCRIPTION": "bronze:Insérez un *Hébètement. NL Gagnez !M! [E] .",
     "EXTENDED_DESCRIPTION": [
-      "buggy",
-      "Mess"
+      "bugs",
+      "Désordre"
     ]
   },
   "bronze:BurnOut": {
-    "NAME": "Burnout",
-    "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour tous vos Statuts, puis Épuisez-les. NL Épuisement.",
+    "NAME": "Consumation",
+    "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour TOUS vos Statuts, puis Épuisez-les. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
-      "Infligez !D! dégâts à un ennemi aléatoire pour TOUTES vos cartes Statut (",
+      "Infligez !D! dégâts à un ennemi aléatoire pour TOUS vos Statut (",
       "), puis Épuisez-les. NL Épuisement."
     ]
   },
@@ -116,7 +116,7 @@
     "NAME": "Frappe de cultiste",
     "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Compilation - Augmentez les dégâts de cette carte de !M! de façon permanente.",
     "EXTENDED_DESCRIPTION": [
-      "cultist",
+      "cultiste",
       "Caw"
     ]
   },
@@ -125,76 +125,76 @@
     "DESCRIPTION": "Les !M! prochaines fois que vous créez une Fonction, bronze:Encodez une copie de la première carte de celle-ci"
   },
   "bronze:CleanCode": {
-    "NAME": "Code Clean",
+    "NAME": "Code propre",
     "DESCRIPTION": "Retirez les !M! prochaines *Erreurs de bronze:Compilation que vous auriez bronze:Encodé.",
     "UPGRADE_DESCRIPTION": "Inné. Retirez les !M! prochaines *Erreurs de bronze:Compilation que vous auriez bronze:Encodé."
   },
   "bronze:CloningBeam": {
-    "NAME": "Conflit fusionnel",
+    "NAME": "Conflit de fusion",
     "DESCRIPTION": "Infligez !D! dégâts. NL La prochaine fois que vous bronze:Encodez une carte, bronze:Encodez une copie de celle-ci. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL La prochaine fois que vous bronze:Encodez une carte, bronze:Encodez une copie de celle-ci."
   },
   "bronze:Constructor": {
     "NAME": "Constructeur",
-    "DESCRIPTION": "Gagnez !B! d'Armure. π NL Quand bronze:Encodée, si elle est la première carte de la Séquence, augmentez son Armure de !M!.",
+    "DESCRIPTION": "Gagnez !B! d'Armure. \u202F NL Si cette carte est bronze:Encodée en première position, augmentez son Armure de !M!.",
     "EXTENDED_DESCRIPTION": [
-      "build",
-      "Sadness",
-      "Greatness"
+      "construire",
+      "Tristesse",
+      "Grandeur"
     ]
   },
   "bronze:CopyPaste": {
     "NAME": "Copier-coller",
-    "DESCRIPTION": "Ce tour-ci, votre prochaine Fonction sera jouée 2 fois.",
-    "UPGRADE_DESCRIPTION": "Retenue. NL Ce tour-ci, votre prochaine Fonction sera jouée 2 fois."
+    "DESCRIPTION": "Ce tour, votre prochaine Fonction est jouée 2 fois.",
+    "UPGRADE_DESCRIPTION": "Retenue. NL Ce tour, votre prochaine Fonction est jouée 2 fois."
   },
   "bronze:CutThrough": {
-    "NAME": "Couper à travers",
+    "NAME": "Coupe à travers",
     "DESCRIPTION": "Infligez !D! dégâts. NL Scrutez !M!. NL bronze:Compilation - Piochez !bauto! carte.",
     "EXTENDED_DESCRIPTION": [
-      "cutting",
-      "Cut"
+      "couper",
+      "Coupe"
     ]
   },
   "bronze:DarkDash": {
-    "NAME": "Ruée obscure",
+    "NAME": "Esquive obscure",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégâts. NL *Erreur *de bronze:Compilation - bronze:Insérez un *Néant.",
     "EXTENDED_DESCRIPTION": [
-      "dark",
-      "Dash"
+      "obscure",
+      "Esquive"
     ]
   },
   "bronze:Defend": {
     "NAME": "Défense",
     "DESCRIPTION": "Gagnez !B! d'Armure.",
     "EXTENDED_DESCRIPTION": [
-      "basic",
-      "Defend"
+      "basique",
+      "Défense"
     ]
   },
   "bronze:DelayedGuard": {
     "NAME": "Garde différée",
     "DESCRIPTION": "Au prochain tour, gagnez !B! d'Armure.",
     "EXTENDED_DESCRIPTION": [
-      "delayed",
-      "Guard"
+      "différée",
+      "Garde"
     ]
   },
   "bronze:DelayedSlice": {
     "NAME": "Robo-Tranche",
     "DESCRIPTION": "Infigez !D! dégâts. NL Au prochain tour, piochez !M! carte supplémentaire.",
-    "UPGRADE_DESCRIPTION": "Infigez !D! dégâts. NL Au prochain tour, piochez !M! carte supplémentaires.",
+    "UPGRADE_DESCRIPTION": "Infigez !D! dégâts. NL Au prochain tour, piochez !M! cartes supplémentaires.",
     "EXTENDED_DESCRIPTION": [
-      "delayed",
-      "Slice"
+      "différée",
+      "Tranche"
     ]
   },
   "bronze:Deprecate": {
-    "NAME": "Désapprouvement",
+    "NAME": "Dépréciation",
     "DESCRIPTION": "Appliquez !M! de Faiblesse.",
     "EXTENDED_DESCRIPTION": [
-      "old",
-      "Insult"
+      "vieille",
+      "Insulte"
     ]
   },
   "bronze:DigitalCarnage": {
@@ -207,7 +207,7 @@
   },
   "bronze:FindAndReplace": {
     "NAME": "Trouver et Remplacer",
-    "DESCRIPTION": "Récupérez une carte de votre pioche ou de votre défausse. NL Ajoutez un *Hébétement là où vous avez pris votre carte. NL Épuisement.",
+    "DESCRIPTION": "Récupérez une carte de votre pioche ou de votre défausse. NL Ajoutez un *Hébétement là où elle était. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Récupérez une carte de votre pioche ou de votre défausse. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
       "Choisissez."
@@ -215,15 +215,15 @@
   },
   "bronze:FineTuning": {
     "NAME": "Réglage Précis",
-    "DESCRIPTION": "Augmentez tous les nombres des cartes Encodées de !M!, excepté le coût. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Retenue. NL Augmentez tous les nombres des cartes Encodées de !M!, excepté le coût. NL Épuisement."
+    "DESCRIPTION": "Augmentez tous les nombres sur les cartes Encodées de !M!, excepté le coût. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Retenue. NL Augmentez tous les nombres sur les cartes Encodées de !M!, excepté le coût. NL Épuisement."
   },
   "bronze:Flail": {
     "NAME": "Fléau",
     "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis !bauto! fois. NL Gagnez !M! d'Artéfact. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
-      "flailing",
-      "Flail"
+      "agité",
+      "Fléau"
     ]
   },
   "bronze:FollowUp": {
@@ -534,7 +534,7 @@
   },
   "bronze:WildStrike": {
     "NAME": "Frappe sauvage",
-    "DESCRIPTION": "Infligez !D! dégâts. π NL bronze:Insérez 1 *Blessure."
+    "DESCRIPTION": "Infligez !D! dégâts. π NL bronze:Insérez 1 *Plaie."
   },
 
 
