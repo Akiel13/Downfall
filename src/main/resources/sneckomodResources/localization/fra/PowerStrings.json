@@ -18,9 +18,6 @@
   "sneckomod:CheatPower": {
     "NAME": "Triche",
     "DESCRIPTIONS": [
-      "This turn, cards that have an #yOverflow effect always activate it when played.",
-      "For the next #b",
-      " turns, cards that have an #yOverflow effect always activate it when played."
       "Ce tour, les effets de #yDépassement s'activent toujours.",
       "Pour les #b",
       " prochains tours, les effets de #yDépassement s'activent toujours."
