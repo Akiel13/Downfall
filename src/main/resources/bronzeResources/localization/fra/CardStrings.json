@@ -546,8 +546,8 @@
 
   "bronze:Batch": {
     "NAME": "Regroupement",
-    "DESCRIPTION": "Créez immédiatement une Fonction à partir des cartes de la Séquence. NL Epuisement.",
-    "UPGRADE_DESCRIPTION": "Créez immédiatement une Fonction à partir des cartes de la Séquence."
+    "DESCRIPTION": "Créez immédiatement une Fonction à partir des cartes Encodées. NL Epuisement.",
+    "UPGRADE_DESCRIPTION": "Créez immédiatement une Fonction à partir des cartes Encodées."
   },
   "bronze:BranchBlock": {
     "NAME": "Branche: Armure",
@@ -586,36 +586,36 @@
     "NAME": "Proto-Bouclier",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL bronze:Compilation - Gagnez !M! d'Armure Plaquée et bronze:Insérez !bauto! *Hébétement.",
     "EXTENDED_DESCRIPTION": [
-      "jagged",
-      "Barrier"
+      "dentelée",
+      "Barrière"
     ]
   },
   "bronze:Decompile": {
     "NAME": "Décompilation",
-    "DESCRIPTION": "Épuisez toutes les cartes Encodées. Gagnez [E] et piochez une carte pour chaque carte Épuisée. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Retenue. NL Épuisez toutes les cartes Encodées. Gagnez [E] et piochez une carte pour chaque carte Épuisée. NL Épuisement."
+    "DESCRIPTION": "Épuisez toutes les cartes Encodées. Gagnez [E] et piochez une carte pour chacune d'elles. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Retenue. NL Épuisez toutes les cartes Encodées. Gagnez [E] et piochez une carte pour chacune d'elles. NL Épuisement."
   },
   "bronze:DonuBeam": {
     "NAME": "Proto-Laser",
     "DESCRIPTION": "Infligez !D! dégâts !M! fois. NL bronze:Compilation - Gagnez !M! de Force.",
     "EXTENDED_DESCRIPTION": [
-      "smooth",
-      "Blast"
+      "lisse",
+      "Détonation"
     ]
   },
   "bronze:Explode": {
     "NAME": "Explosion",
     "DESCRIPTION": "Appliquez !M! de hexamod:Brûlure à TOUS les ennemis. NL *Erreur *de bronze:Compilation - bronze:Insérez !bauto! *Brûlure.",
     "EXTENDED_DESCRIPTION": [
-      "unstable",
-      "Bomb"
+      "instable",
+      "Bombe"
     ]
   },
   "bronze:FunctionCard": {
     "NAME": "()",
     "DESCRIPTION": "",
     "EXTENDED_DESCRIPTION": [
-      "function()",
+      "fonction()",
       "Perfection()",
       "()"
     ]
@@ -624,20 +624,20 @@
     "NAME": "Minilaser",
     "DESCRIPTION": "Infligez !D! dégâts.",
     "EXTENDED_DESCRIPTION": [
-      "minor",
-      "Scratch"
+      "mineure",
+      "Éraflure"
     ]
   },
   "bronze:Spike": {
     "NAME": "Picot",
     "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Compilation - Gagnez !M! d'Épines.",
     "EXTENDED_DESCRIPTION": [
-      "spiky",
-      "Spike"
+      "épineuse",
+      "Bogue"
     ]
   },
   "bronze:Ignite": {
-    "NAME": "Flambage",
+    "NAME": "Allumage",
     "DESCRIPTION": "Appliquez !M! de hexamod:Brûlure. NL À la fin de votre tour, prenez 2 dégâts.",
     "UPGRADE_DESCRIPTION": "Appliquez !M! de hexamod:Brûlure. NL À la fin de votre tour, prenez 4 dégâts.."
   },
@@ -650,7 +650,7 @@
     "DESCRIPTION": "Piochez !M! cartes. NL Épuisement."
   },
   "bronze:GrievousWound": {
-    "NAME": "Blessure grave",
+    "NAME": "Plaie ouverte",
     "DESCRIPTION": "Appliquez !M! de Vulnérabilité."
   },
   "bronze:Daze": {
@@ -658,7 +658,7 @@
     "DESCRIPTION": "Éthérée. NL Appliquez !M! de Faiblesse. NL Épuisement."
   },
   "bronze:UnknownStatus": {
-    "NAME": "Perplexe",
+    "NAME": "Perplexité",
     "DESCRIPTION": "Gagnez !B! d'Armure."
   }
 }
