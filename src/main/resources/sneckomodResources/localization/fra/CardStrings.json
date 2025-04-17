@@ -102,6 +102,7 @@
   "sneckomod:Nope": {
     "NAME": "Nope",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une carte de votre main. NL Si c'était une carte d'un Personnage, remplacez-la par une carte aléatoire de la même classe.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une carte de votre main. NL Si c'était une carte d'un Personnage, remplacez-la par une carte aléatoire de la même classe.",
     "EXTENDED_DESCRIPTION": [
       " à Épuiser pour Nope."
     ]
