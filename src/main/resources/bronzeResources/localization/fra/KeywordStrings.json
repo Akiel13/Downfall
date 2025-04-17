@@ -37,7 +37,7 @@
       "insérez",
       "insert"
     ],
-    "DESCRIPTION": "Placez et mélangez une carte dans votre pioche."
+    "DESCRIPTION": "Ajoutez une carte à votre pioche, à un emplacement aléatoire."
   },
   {
     "PROPER_NAME": "Cycle",
