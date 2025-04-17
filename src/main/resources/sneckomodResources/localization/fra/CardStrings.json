@@ -1,6 +1,6 @@
 {
   "sneckomod:Blunderbus": {
-    "NAME": "Blunderbus",
+    "NAME": "Tromblon",
     "DESCRIPTION": "Infligez !D! dégâts à tous les ennemis. NL Répétez cet effet pour chaque carte de votre main qui coûte au moins 3."
   },
   "sneckomod:Tsunami": {
@@ -249,7 +249,7 @@
   },
   "sneckomod:SoulRoll": {
     "NAME": "Lancer de l'âme",
-    "DESCRIPTION": "Retenue. NL Gagnez !B! d'Armure. NLsneckomod:Confondez une carte de votre main."
+    "DESCRIPTION": "Retenue. NL Gagnez !B! d'Armure. NL sneckomod:Confondez une carte de votre main."
   },
   "sneckomod:Strike": {
     "NAME": "Frappe",
