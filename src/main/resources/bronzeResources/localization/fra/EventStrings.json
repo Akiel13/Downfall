@@ -2,7 +2,7 @@
   "bronze:ShapeFactory": {
     "NAME": "Usine de drones",
     "DESCRIPTIONS": [
-      "Vous tombez face à une usine de drones de l'Exorde en ruines - surprenamment, les machines fonctionnent toujours. Si vous améliorez et démontez ces drones, vous pourriez hériter de certaines de leur armes.",
+      "Vous tombez sur l'usine de drones de l'Exorde - elle est en ruines, mais surprenamment, les machines fonctionnent toujours. Si vous rechargiez et démontiez ces drones, vous pourriez hériter de certaines de leur armes.",
       "Aucun de ces drones n'a ce que vous désirez."
     ],
     "OPTIONS": [
@@ -19,8 +19,8 @@
   "bronze:AncientFactory": {
     "NAME": "Usine antique",
     "DESCRIPTIONS": [
-      "Alors que vous continuez votre descente, infatiguable, vous faites face à l'usine ~originelle~. Vous vous souvenez d'être ici pour votre assemblage, quand vous avez rencontré votre ~Créateur~ pour la première fois. NL Chacun des anciens robots qu'ils ont créé sont aussi #yparfaits que vous. Il y a des parties d'anciens prototypes qui pourraient vous être utiles, mais cela requiert que vous les activiez.",
-      "Même pour des projets non-terminés, ils sont tout de même redoutables - pas besoin de prendre des risques qui ne sont pas nécessaires."
+      "Alors que vous continuez votre descente, infatiguable, vous tombez sur l'usine ~originelle~. Vous vous souvenez de votre assemblage ici-même, quand vous avez rencontré votre ~Créateur~ pour la première fois. NL Chacun des anciens robots de sa confection sont aussi #yparfaits que vous. Il y a des parties d'anciens prototypes qui pourraient vous être utiles, mais cela requiert que vous les activiez.",
+      "Même pour des projets inachevés, ils sont redoutables - pas besoin de prendre des risques qui ne sont pas nécessaires."
     ],
     "OPTIONS": [
       "[Combattre un prototype de Donu] #gGagnez #gProto-laser.",
@@ -30,42 +30,42 @@
     ]
   },
   "bronze:BackToBasics": {
-    "NAME": "Retour aux bases",
+    "NAME": "",
     "DESCRIPTIONS": [
       "Il n'y a pas de force sans unité."
     ],
     "OPTIONS": [
-      "[Unification] Toutes les #gFrappes et #gDéfenses gagnent #gEncode.",
+      "[Unification] Toutes les #gFrappes et #gDéfenses gagnent #gEncodage.",
       "[Verrouillé] Requiert une Frappe ou une Défense."
     ]
   },
   "bronze:AccursedBlacksmith": {
-    "NAME": "Forge maudite",
+    "NAME": "",
     "DESCRIPTIONS": [
       "Vous décidez d'utiliser la forge et... NL #y@CLANG@ #y@CLAAANG@ #y@CLANG!@ NL ...d'améliorer votre arsenal avec des nouvelles mises à jour et servos."
     ],
     "OPTIONS": [
-      "[Bricoler] #gAméliorez #g3 #gCartes #gAléatoires #gavec #gEncode.",
-      "[Verrouillé] Requiert une carte non-améliorée avec Encode."
+      "[Bricoler] #gAméliorez #g3 #gCartes #gAléatoires #gavec #gEncodage.",
+      "[Verrouillé] Requiert une carte non-améliorée avec Encodage."
     ]
   },
   "bronze:CrystalForge": {
-    "NAME": "Forge sombre",
+    "NAME": "Forge sinistre",
     "DESCRIPTIONS": [
       "À travers des passages connus seulement des sentinelles de la Tour, vous entrez dans une chambre faite pour la maintenance et la réparation des Automates. Les outils disponibles ici pourraient vous être utiles.",
       "Avec les pinces magiques, vous intégrez délicatement une arme dans votre propre noyau. #y@Bzzzt!@ On dirait que se coder soi-même n'est pas si facile que ça en a l'air...",
-      "Utilisant l'enclume enchantée, vous détruisez une pièce d'équipement précieuse, pour ensuite la forger en une explosion d'énergie pure. Elle ~se~  ~fond~ ~en~ ~vous~ , vous remplissant de chaleur et de force.",
-      "La capacité de la Forge à transmettre la matière est utilisée immédiatement alors que vous jetez une pièce d'équipement inutile. Quelques instants plus tard, le matériel se dissout et se compresse en une nouvelle amélioration pour votre armure.",
-      "Vous vous échappez à travers le même passage par lequel vous êtes entré, laissant la Forge Sombre derrière vous. Votre voyage continue, vous dirigeant vers le haut de la Tour.",
+      "Utilisant l'enclume enchantée, vous détruisez une pièce d'équipement précieuse, pour ensuite la forger en une explosion d'énergie pure. Elle ~se~ ~fond~ ~en~ ~vous~ , vous remplissant de chaleur et de force.",
+      "La capacité de la Forge à transmuter la matière s'active aussitôt que vous jetez une pièce d'équipement inutile. Quelques instants plus tard, le matériau se dissout et se compresse en une nouvelle amélioration pour votre armure.",
+      "Vous repartez par le passage qui vous a conduit ici, laissant la Forge sinistre derrière vous. Votre voyage continue, vers l'Aube au sommet de la Tour.",
       "Choisissez une carte à Retirer."
     ],
     "OPTIONS": [
-      "[Fabriquer] #gGagnez #gCode #gEmbouteillé. #rPerdez #r10 #rPV #rMax.",
-      "[Transmettre] #rRetirez une Carte. Gagnez une #gCarte aléatoire #gavec #gEncode.",
+      "[Fabriquer] #gGagnez #gCode #gen #gbouteille. #rPerdez #r10 #rPV #rMax.",
+      "[Transmuter] #rRetirez une Carte. Gagnez une #gCarte aléatoire #gavec #gEncodage.",
       "[Reforger] #rRetirez une Carte #yRare. #gGagnez #g10 #gPV #gMax #get #gSoignez-vous #gentièrement.",
       "[Verrouillé] Déjà utilisé.",
-      "[Quitter]",
-      "[Verrouillé] Requiert une carte avec Encodez.",
+      "[Partir]",
+      "[Verrouillé] Requiert une carte avec Encodage.",
       "[Verrouillé] Requiert une carte Rare.",
       "Choisissez une carte à Retirer."
     ]
