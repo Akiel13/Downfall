@@ -589,7 +589,9 @@
   "sneckomod:LastStrike": {
     "NAME": "Frappe finale",
     "DESCRIPTION": "Infligez !D! dégâts. NL Répétez cet effet pour chaque Frappe différente jouée ce combat. NL sneckomod:Cadeau : Frappe.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Répétez cet effet pour chaque Frappe différente jouée ce combat. NL sneckomod:Cadeau : Frappe.",
     "DESCRIPTION_BATTLE": "Infligez !D! dégâts. NL Répétez cet effet pour chaque Frappe différente jouée ce combat.",
+    "UPGRADE_DESCRIPTION_BATTLE": "Infligez !D! dégâts. NL Répétez cet effet pour chaque Frappe différente jouée ce combat.",
     "EXTENDED_DESCRIPTION": [
       " NL (frappe ",
       " fois supplémentaires.)"
