@@ -24,7 +24,7 @@
     "NAME": "Anneau du geko",
     "FLAVOR": "Indéchiffrable, illisible, à rendre pour jeudi.",
     "DESCRIPTIONS": [
-      "Lorsque vous activez #b3 effets de #ysneckomod:Dépassement, appliquez #b1 de #yFaiblesse et de #yVulnérable à un ennemi aléatoire."
+      "Lorsque vous activez #b3 effets de #ysneckomod:Dépassement [REMOVE_SPACE], appliquez #b1 de #yFaiblesse et de #yVulnérable à un ennemi aléatoire."
     ]
   },
   "sneckomod:CrystallizedMud": {
@@ -38,14 +38,14 @@
     "NAME": "Dé pipé",
     "FLAVOR": "Garantit d'arnaquer les plus naïfs.",
     "DESCRIPTIONS": [
-      "Chaque fois qu'une carte est #ysneckomod:Confondue, gagnez #b1 #yd'Armure."
+      "Chaque fois qu'une carte est #ysneckomod:Confondue [REMOVE_SPACE], gagnez #b1 #yd'Armure."
     ]
   },
   "sneckomod:RareBoosterPack": {
     "NAME": "Boîte de cartes rares",
     "FLAVOR": "En excellent état.",
     "DESCRIPTIONS": [
-      "Lorsque vous l'obtenez, obtenez une carte #yRare #ysneckomod:Hors-Classe."
+      "Lorsque vous l'obtenez, obtenez une carte #ysneckomod:Hors-Classe #yRare [REMOVE_SPACE]."
     ]
   },
   "sneckomod:SleevedAce": {
@@ -59,7 +59,7 @@
     "NAME": "Œuf inconnu",
     "FLAVOR": "Qu'en sortira-t-il ? Payez 1000€ pour le voir.",
     "DESCRIPTIONS": [
-      "Lorsque vous l'obtenez, NL #yAméliorez #b2 cartes #ysneckomod:Hors-Classe aléatoires. NL Quand vous obtenez une carte #ysneckomod:Hors-Classe, #yAméliorez-la."
+      "Lorsque vous l'obtenez, NL #yAméliorez #b2 cartes #ysneckomod:Hors-Classe aléatoires. NL Quand vous obtenez une carte #ysneckomod:Hors-Classe [REMOVE_SPACE], #yAméliorez-la."
     ]
   },
   "sneckomod:SuperSneckoEye": {
@@ -87,10 +87,10 @@
     "NAME": "Octaèdre mystique",
     "FLAVOR": "Il semble pencher d'un côté.",
     "DESCRIPTIONS": [
-      "Lorsque vous l'obtenez, choisissez une carte de votre deck avec #ysneckomod:Dépassement. Lorsque vous jouez la carte choisie, gagnez #b4 #yd'Armure, et son effet de #ysneckomod:Dépassement s'active peu importe votre nombre de cartes en main.",
+      "Lorsque vous l'obtenez, choisissez une carte de votre deck avec #ysneckomod:Dépassement [REMOVE_SPACE]. Lorsque vous jouez la carte choisie, gagnez #b4 #yd'Armure [REMOVE_SPACE], et son effet de #ysneckomod:Dépassement s'active peu importe votre nombre de cartes en main.",
       "Choisissez une carte pour ",
       "Lorsque ",
-      " est jouée, gagnez #b4 #yd'Armure, et son effet de #ysneckomod:Dépassement s'active peu importe votre nombre de cartes en main."
+      " est jouée, gagnez #b4 #yd'Armure [REMOVE_SPACE], et son effet de #ysneckomod:Dépassement s'active peu importe votre nombre de cartes en main."
     ]
   },
   "sneckomod:BabySnecko": {
