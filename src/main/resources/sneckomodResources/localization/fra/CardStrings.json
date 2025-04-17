@@ -102,7 +102,7 @@
   "sneckomod:Nope": {
     "NAME": "Nope",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une carte de votre main. NL Si c'était une carte d'un Personnage, remplacez-la par une carte aléatoire de la même classe.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une carte de votre main. NL Si c'était une carte d'un Personnage, remplacez-la par une carte aléatoire de la même classe.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une carte de votre main. NL Si c'était une carte d'un Personnage, remplacez-la par une carte aléatoire de la même classe. NL Test.",
     "EXTENDED_DESCRIPTION": [
       " à Épuiser pour Nope."
     ]
@@ -514,7 +514,8 @@
   },
   "sneckomod:BlunderGuard": {
     "NAME": "Pas de bêtises",
-    "DESCRIPTION": "Lorsque vous jouez une carte qui coûte au moins 3, gagnez !qqq! d'Armure et !M! de Force."
+    "DESCRIPTION": "Lorsque vous jouez une carte qui coûte au moins 3, gagnez !qqq! d'Armure et !M! de Force.",
+    "UPGRADE_DESCRIPTION": "Lorsque vous jouez une carte qui coûte au moins 3, gagnez !qqq! d'Armure et !M! de Force. NL Test."
   },
   "sneckomod:WideAngle": {
     "NAME": "Grand angle",
@@ -612,7 +613,7 @@
   },
   "sneckomod:Lacerate": {
     "NAME": "Lacération",
-    "DESCRIPTION": "Infligez !D! dégâts. Ce tour, chaque fois que la cible subit un débuff, appliquez-lui !M! de sneckomod:Venin. sneckomod:Cadeau : *Nuage *Paralysant.",
+    "DESCRIPTION": "Infligez !D! dégâts. Ce tour, chaque fois que la cible subit un débuff, appliquez-lui !M! de sneckomod:Venin. NL sneckomod:Cadeau : *Nuage *Paralysant.",
     "DESCRIPTION_BATTLE": "Infligez !D! dégâts. Ce tour, chaque fois que la cible subit un débuff, appliquez-lui !M! de sneckomod:Venin."
   },
   "sneckomod:SerpentineSleuth": {
