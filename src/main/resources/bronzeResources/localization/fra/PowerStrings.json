@@ -2,53 +2,51 @@
   "bronze:Cloning": {
     "NAME": "Fusion",
     "DESCRIPTIONS": [
-      "La prochaine fois que vous ajoutez une carte dans la Séquence, ajoutez-en une copie supplémentaire de celle-ci.",
-      "La prochaine fois que vous ajoutez une carte dans la Séquence, ajoutez-en #b",
-      " copies supplémentaires de celle-ci."
+      "La prochaine fois que vous #yEncodez une carte, #Encodez une copie de celle-ci.",
+      "La prochaine fois que vous #yEncodez une carte, #Encodez #b",
+      " copies de celle-ci."
     ]
   },
   "bronze:Default": {
     "NAME": "Classe par défaut",
     "DESCRIPTIONS": [
-      "Ajoutez une copie de ",
-      " à la prochaine Séquence.",
-      " aux #b",
-      " prochaines Séquences."
+      "La prochaine fois que vous créez une Fonction, #yEncodez une copie de la première carte qui la compose.",
+      "Les #b",
+      " prochaines fois que vous créez une Fonction, #yEncodez une copie de la première carte qui la compose."
     ]
   },
   "bronze:Feature": {
     "NAME": "C'est une Feature",
     "DESCRIPTIONS": [
-      "Lorsque vous piochez une #rMalédiction ou une carte #yStatut, gagnez #b",
-      " de #yForce temporaire et #b",
-      " de #yDextérité temporaire."
+      "Lorsque vous piochez ou #yÉpuisez un #yStatut, gagnez #b",
+      " #yd'Armure"
     ]
   },
   "bronze:InfiniteBeams": {
     "NAME": "Lasers infinis",
     "DESCRIPTIONS": [
-      "Au début de votre tour, add #b1 #yMinilaser dans votre main.",
-      "Au début de votre tour, add #b1 #yMinilaser+ dans votre main.",
-      "Au début de votre tour, add #b",
-      " #yMinilaser dans votre main.",
+      "Au début de votre tour, ajoutez #b1 #yMinilaser à votre main.",
+      "Au début de votre tour, ajoutez #b1 #yMinilaser+ à votre main.",
       "Au début de votre tour, ajoutez #b",
-      " #yMinilaser+ dans votre main."
+      " #yMinilaser à votre main.",
+      "Au début de votre tour, ajoutez #b",
+      " #yMinilaser+ à votre main."
     ]
   },
   "bronze:Optimize": {
     "NAME": "Optimisation",
     "DESCRIPTIONS": [
-      "#yAméliorez la prochaine carte que vous #yEncodez et qui peut être #yAméliorée.",
+      "#yAméliorez la prochaine carte que vous #yEncodez qui peut être #yAméliorée.",
       "#yAméliorez les #b",
-      " prochaines cartes que vous #yEncodez et qui peuvent être #yAméliorées."
+      " prochaines cartes que vous #yEncodez qui peuvent être #yAméliorées."
     ]
   },
   "bronze:MaxOutput": {
     "NAME": "Rendement max",
     "DESCRIPTIONS": [
-      "Piochez #b1 carte additionnelle et ajoutez #b1 #yHébétement dans votre pioche chaque tour.",
+      "Piochez #b1 carte supplémentaire et insérez #b1 #yHébétement dans votre pioche chaque tour.",
       "Piochez #b",
-      " cartes additionnelles et ajoutez #b",
+      " cartes supplémentaires et insérez #b",
       " #yHébétement dans votre pioche chaque tour."
     ]
   },
@@ -63,15 +61,15 @@
   "bronze:Library": {
     "NAME": "Bibliothèque",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez une carte aléatoire avec #yEncode dans votre main. NL Elle coûte #b0.",
+      "Au début de votre tour, ajoutez une carte aléatoire avec #yEncodage à votre main. NL Elle coûte #b0 tant qu'elle n'a pas été jouée.",
       "Au début de votre tour, ajoutez #b",
-      " cartes aléatoires avec #yEncode dans votre main. NL Elles coûtent #b0."
+      " cartes aléatoires avec #yEncodage à votre main. NL Elles coûtent #b0 tant qu'elles n'ont pas été jouées."
     ]
   },
   "bronze:LibraryMod": {
     "NAME": "Bibliothèque externe",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez une carte aléatoire avec #yEncode dans votre main. Celle-ci est Ethérée."
+      "Au début de votre tour, ajoutez une carte aléatoire avec #yEncodage à votre main. Elle devient Ethérée."
     ]
   },
   "bronze:BronzeHeatsink": {
@@ -91,19 +89,19 @@
     ]
   },
   "bronze:Hardcode": {
-    "NAME": "Hardcoding",
+    "NAME": "Hardcodage",
     "DESCRIPTIONS": [
-      "La prochaine fois que vous créez une Fonction, elle va directement dans votre deck au lieu de votre main, retirant toutes les cartes utilisées pour celle-ci.",
+      "La prochaine fois que vous créez une Fonction, ajoutez-la à votre deck de façon permanente, #yInsérez-la dans votre pioche, et retirez de votre deck toutes les cartes qui la composent.",
       "Les #b",
-      " prochaines fois que vous créez une Fonction, elle va directement dans votre deck au lieu de votre main, retirant toutes les cartes utilisées pour celle-ci."
+      " prochaines fois que vous créez une Fonction, ajoutez-la à votre deck de façon permanente, #yInsérez-la dans votre pioche, et retirez de votre deck toutes les cartes qui la composent."
     ]
   },
   "bronze:Verify": {
-    "NAME": "Forme sentinelle",
+    "NAME": "Forme sentiente",
     "DESCRIPTIONS": [
-      "La prochaine fois que vous piochez ou créez une Fonction, augmentez tous les nombres dessus de #b1.",
-      "Les #b",
-      " prochaines fois que vous piochez ou créez une Fonction, augmentez tous les nombres dessus de #b1."
+      "Lorsque vous piochez une Fonction, augmentez tous les nombres dessus de #b1 (sauf son coût).",
+      "Lorsque vous piochez une Fonction, augmentez tous les nombres dessus de #b",
+      " (sauf son coût)."
     ]
   },
   "bronze:FreeFunction": {
@@ -115,11 +113,11 @@
     ]
   },
   "bronze:CleanCode": {
-    "NAME": "Clean Code",
+    "NAME": "Code propre",
     "DESCRIPTIONS": [
-      "Retirez tous les effets des Erreurs de #yCompilation des cartes de la Séquence. Dure pour #b1 Fonction de plus.",
-      "Retirez tous les effets des Erreurs de #yCompilation des cartes de la Séquence. Dure pour #b",
-      " Fonctions."
+      "Retirez toutes les #yErreurs #yde #yCompilation de la prochaine Fonction.",
+      "Retirez toutes les #yErreurs #yde #yCompilation des #b",
+      " prochaines Fonctions."
     ]
   },
   "bronze:CopyPaste": {
@@ -131,17 +129,17 @@
     ]
   },
   "bronze:FullRelease": {
-    "NAME": "Sortie complète",
+    "NAME": "Version stable",
     "DESCRIPTIONS": [
       "Au début de votre tour, NL "
     ]
   },
   "bronze:RemoveNextError": {
-    "NAME": "Retrait des Erreurs",
+    "NAME": "Retrait des erreurs",
     "DESCRIPTIONS": [
       "Retirez la prochaine #yErreur de #yCompilation #yEncodée.",
       "Retirez les #b",
-      "prochaines #yErreurs de #yCompilation #yEncodées."
+      " prochaines #yErreurs de #yCompilation #yEncodées."
     ]
   }
 }
