@@ -292,7 +292,7 @@
   },
   "bronze:Hardcode": {
     "NAME": "Hardcodage",
-    "DESCRIPTION": "La prochaine fois que vous créez une Fonction, ajoutez-la à votre deck de façon permanente, et mélangez-la dans votre pioche. NL Retirez toutes les cartes qui composent la Fonction (dont cette carte)."
+    "DESCRIPTION": "La prochaine fois que vous créez une Fonction, ajoutez-la à votre deck de façon permanente, et bronze:Insérez-la dans votre pioche. NL Retirez toutes les cartes qui composent la Fonction (dont cette carte)."
   },
   "bronze:HardenedForm": {
     "NAME": "Invocation d'orbe",
