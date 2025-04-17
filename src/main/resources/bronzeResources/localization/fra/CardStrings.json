@@ -529,15 +529,15 @@
   },
   "bronze:WildBeam": {
     "NAME": "Purification",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Épuisez une carte Statut aléatoire de votre pioche.",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Épuisez un Statut aléatoire de votre pioche.",
     "EXTENDED_DESCRIPTION": [
-      "wild",
-      "Beam"
+      "purge",
+      "Large"
     ]
   },
   "bronze:WildStrike": {
     "NAME": "Frappe sauvage",
-    "DESCRIPTION": "Infligez !D! dégâts. π NL bronze:Insérez 1 *Plaie."
+    "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Insérez 1 *Plaie."
   },
 
 
@@ -546,7 +546,7 @@
 
   "bronze:Batch": {
     "NAME": "Regroupement",
-    "DESCRIPTION": "Créez immédiatement une Fonction à partir des cartes Encodées. NL Epuisement.",
+    "DESCRIPTION": "Créez immédiatement une Fonction à partir des cartes Encodées. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Créez immédiatement une Fonction à partir des cartes Encodées."
   },
   "bronze:BranchBlock": {
@@ -567,8 +567,8 @@
   },
   "bronze:ByteShift": {
     "NAME": "Décalage d'octet",
-    "DESCRIPTION": "Remettez toutes les cartes Encodées dans votre main. NL Elles gagnent Retenue. NL Epuisement.",
-    "UPGRADE_DESCRIPTION": "Retenue. NL Remettez toutes les cartes Encodées dans votre main. NL Elles gagnent Retenue. NL Epuisement."
+    "DESCRIPTION": "Reprenez toutes les cartes Encodées en main. NL Elles gagnent Retenue. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Retenue. NL Reprenez toutes les cartes Encodées en main. NL Elles gagnent Retenue. NL Épuisement."
   },
   "bronze:DazingPulse": {
     "NAME": "Onde Étrange",
@@ -639,7 +639,7 @@
   "bronze:Ignite": {
     "NAME": "Allumage",
     "DESCRIPTION": "Appliquez !M! de hexamod:Brûlure. NL À la fin de votre tour, prenez 2 dégâts.",
-    "UPGRADE_DESCRIPTION": "Appliquez !M! de hexamod:Brûlure. NL À la fin de votre tour, prenez 4 dégâts.."
+    "UPGRADE_DESCRIPTION": "Appliquez !M! de hexamod:Brûlure. NL À la fin de votre tour, prenez 4 dégâts."
   },
   "bronze:IntoTheVoid": {
     "NAME": "Dans le Néant",
