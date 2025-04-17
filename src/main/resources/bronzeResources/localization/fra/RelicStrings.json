@@ -38,7 +38,7 @@
     "NAME": "Balle argentée",
     "FLAVOR": "Les loups de la tour se sont enfuis.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, ajoutez une copie de #yTir #yperçant à votre main. Elle coûte #b0."
+      "Au début de chaque combat, ajoutez une copie de #ySalve #yperçante à votre main. Elle coûte #b0."
     ]
   },
   "bronze:MakeshiftBattery": {
