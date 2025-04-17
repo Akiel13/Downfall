@@ -126,7 +126,7 @@
   },
   "bronze:CleanCode": {
     "NAME": "Code propre",
-    "DESCRIPTION": "Retirez les !M! prochaines *Erreurs de bronze:Compilation que vous auriez bronze:Encodé.",
+    "DESCRIPTION": "Retirez les !M! prochaines *Erreurs *de bronze:Compilation que vous auriez bronze:Encodé.",
     "UPGRADE_DESCRIPTION": "Inné. Retirez les !M! prochaines *Erreurs de bronze:Compilation que vous auriez bronze:Encodé."
   },
   "bronze:CloningBeam": {
@@ -452,7 +452,7 @@
   },
   "bronze:Shield": {
     "NAME": "Bouclier collant",
-    "DESCRIPTION": "Retenue. Gagnez !B! d'Armure. NL bronze:Insérez un *Englué.",
+    "DESCRIPTION": "Retenue. NL Gagnez !B! d'Armure. NL bronze:Insérez un *Englué.",
     "EXTENDED_DESCRIPTION": [
       "cuirasse",
       "Collante"
