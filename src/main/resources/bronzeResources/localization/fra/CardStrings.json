@@ -468,8 +468,8 @@
   },
   "bronze:SpaghettiCode": {
     "NAME": "Code en spaghetti",
-    "DESCRIPTION": "Choisissez 1 de 3 cartes aléatoires à bronze:Encoder. Répétez cet effet jusqu'à la création d'une Fonction. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Choisissez 1 de 3 cartes aléatoires à bronze:Encoder. Répétez cet effet jusqu'à la création d'une Fonction."
+    "DESCRIPTION": "Choisissez 1 carte aléatoire parmi 3 à bronze:Encoder. Répétez cet effet jusqu'à la création d'une Fonction. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Choisissez 1 carte aléatoire parmi 3 à bronze:Encoder. Répétez cet effet jusqu'à la création d'une Fonction."
   },
   "bronze:Strike": {
     "NAME": "Frappe",
