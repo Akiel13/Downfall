@@ -489,7 +489,7 @@
   },
   "bronze:ThunderWave": {
     "NAME": "Vague électrique",
-    "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire pour chaque Fonction créée durant ce combat.",
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL Gagnez 1 de guardianmod:Tampon. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
       " NL (Frappe ",
       " fois.)"
@@ -511,8 +511,8 @@
   },
   "bronze:Verify": {
     "NAME": "Forme sentiente",
-    "DESCRIPTION": "Éthérée. NL La première fois que vous créez ou piochez une Fonction chaque tour, augmentez tous les nombres dessus de 1 (sauf son coût).",
-    "UPGRADE_DESCRIPTION": "La première fois que vous créez ou piochez une Fonction chaque tour, augmentez tous les nombres dessus de 1 (sauf son coût)."
+    "DESCRIPTION": "Éthérée. NL Lorsque vous piochez une Fonction, augmentez tous les nombres dessus de 1 (sauf son coût).",
+    "UPGRADE_DESCRIPTION": "Lorsque vous piochez une Fonction, augmentez tous les nombres dessus de 1 (sauf son coût)."
   },
   "bronze:Virus": {
     "NAME": "Virus",
