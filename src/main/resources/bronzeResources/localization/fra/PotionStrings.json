@@ -1,34 +1,34 @@
 {
   "bronze:FreeFunctionsPotion": {
-    "NAME": "Huile de Machine",
+    "NAME": "Huile de machine",
     "DESCRIPTIONS": [
-      "Augmentez tous les nombres des cartes de la Séquence de #b",
-      "."
+      "Augmentez tous les nombres sur les cartes #yEncodées de #b",
+      " (sauf le coût)."
     ]
   },
   "bronze:CleanCodePotion": {
     "NAME": "Élixir alchylique",
     "DESCRIPTIONS": [
-      "Retirez tous les effets des *Erreurs de Compilation de la prochaine Fonction qur vous créez. Réduisez son coût à #b0 jusqu'à ce qu'elle soit jouée",
-      "Retirez tous les effets des *Erreurs de Compilation pour les #b",
-      "prochaines Fonctions que vous créez.  Réduisez leur coût à #b0 jusqu'à ce qu'elles soient jouées ."
+      "Retirez toutes les #yErreurs #yde #yCompilation de la prochaine #yFonction qur vous créez. Réduisez son coût à #b0 jusqu'à ce qu'elle soit jouée",
+      "Retirez toutes les #yErreurs #yde #yCompilation des #b",
+      " prochaines #yFonctions que vous créez. Réduisez leur coût à #b0 jusqu'à ce qu'elles soient jouées ."
     ]
   },
   "bronze:BurnAndBuffPotion": {
-    "NAME": "Préparation Épuisante",
+    "NAME": "Préparation épuisante",
     "DESCRIPTIONS": [
       "Gagnez #b",
-      " de Force et #b",
-      " de Dexterité. NL Ajoutez deux #yBrûlures+ à votre défausse ."
+      " de #yForce et #b",
+      " de #yDexterité. NL Ajoutez deux #yBrûlures+ à votre défausse ."
     ]
   },
   "bronze:BuildAFunctionPotion": {
     "NAME": "Savant mélange de Kio",
     "DESCRIPTIONS": [
-      "Jusqu'à ce que la séquence soit complète, choisissez #b1 parmi #b3 cartes aléatoires à #yEncoder.",
-      "Jusqu'à ce que la séquence soit complète, choisissez #b1 parmi #b3 cartes aléatoires à #yEncoder. Ajoutez #b",
-      " copies de la Fonction créée à votre main .",
-      " copies de la Fonction créée à votre main."
+      "Choisissez 1 carte aléatoire parmi 3 à #yEncoder. Répétez cet effet jusqu'à la création d'une Fonction.",
+      "Choisissez 1 carte aléatoire parmi 3 à bronze:Encoder. Répétez cet effet jusqu'à la création d'une Fonction. Ajoutez-en #b",
+      " copies à votre main .",
+      " copies à votre main."
     ]
   }
 }
