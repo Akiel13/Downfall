@@ -22,7 +22,7 @@
   },
   "bronze:Backtrace": {
     "NAME": "Retour arrière",
-    "DESCRIPTION": "Inné. NL \u00A0 Infligez !D! dégâts. NL bronze:Compilation *Erronée - La Fonction gagne Épuisement.",
+    "DESCRIPTION": "Inné. NL \u00A0 Infligez !D! dégâts. NL bronze:Compilation - *Erreur : La Fonction gagne Épuisement.",
     "EXTENDED_DESCRIPTION": [
       "trace",
       "Sournoise"
@@ -61,7 +61,7 @@
   },
   "bronze:Break": {
     "NAME": "Fissure",
-    "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Compilation *Erronée - bronze:Insérez une *Brûlure, une *Plaie et un *Englué.",
+    "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Compilation - *Erreur : bronze:Insérez une *Brûlure, une *Plaie et un *Englué.",
     "EXTENDED_DESCRIPTION": [
       "fêlure",
       "Brisée"
@@ -69,7 +69,7 @@
   },
   "bronze:BronzeArmor": {
     "NAME": "Armure de bronze",
-    "DESCRIPTION": "Gagnez !bauto! d'Artéfact. NL bronze:Compilation *Erronée - TOUS les ennemis gagnent !M! d'Armure.",
+    "DESCRIPTION": "Gagnez !bauto! d'Artéfact. NL bronze:Compilation - *Erreur : TOUS les ennemis gagnent !M! d'Armure.",
     "EXTENDED_DESCRIPTION": [
       "armure",
       "DeBronze"
@@ -158,7 +158,7 @@
   },
   "bronze:DarkDash": {
     "NAME": "Esquive obscure",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégâts. NL bronze:Compilation *Erronée - bronze:Insérez un *Néant.",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégâts. NL bronze:Compilation - *Erreur : bronze:Insérez un *Néant.",
     "EXTENDED_DESCRIPTION": [
       "esquive",
       "Obscure"
@@ -199,7 +199,7 @@
   },
   "bronze:DigitalCarnage": {
     "NAME": "Carnage digital",
-    "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Compilation *Erronée - La Fonction est Ethérée.",
+    "DESCRIPTION": "Infligez !D! dégâts. NL bronze:Compilation - *Erreur : La Fonction est Ethérée.",
     "EXTENDED_DESCRIPTION": [
       "tuerie",
       "Digitale"
@@ -351,7 +351,7 @@
   },
   "bronze:NullPointer": {
     "NAME": "Pointeur invalide",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Gagnez !B! d'Armure. NL bronze:Compilation *Erronée - La Fonction est Injouable.",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Gagnez !B! d'Armure. NL bronze:Compilation - *Erreur : La Fonction est Injouable.",
     "EXTENDED_DESCRIPTION": [
       "référence",
       "Invalide"
@@ -359,7 +359,7 @@
   },
   "bronze:OilSpill": {
     "NAME": "Flaque d'huile",
-    "DESCRIPTION": "Infligez !D! dégâts et appliquez !M! de Poison. NL bronze:Compilation *Erronée - bronze:Insérez un *Englué.",
+    "DESCRIPTION": "Infligez !D! dégâts et appliquez !M! de Poison. NL bronze:Compilation - *Erreur : bronze:Insérez un *Englué.",
     "EXTENDED_DESCRIPTION": [
       "fuite",
       "Huileuse"
@@ -371,7 +371,7 @@
   },
   "bronze:Overheat": {
     "NAME": "Surchauffe",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Retirez la prochaine bronze:Compilation *Erronée que vous auriez *Encodé."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Retirez la prochaine *Erreur *de bronze:Compilation que vous auriez *Encodé."
   },
   "bronze:Overload": {
     "NAME": "Copier coller",
@@ -380,7 +380,7 @@
   },
   "bronze:Philosophize": {
     "NAME": "Philosopher",
-    "DESCRIPTION": "Gagnez !bauto! de Force. NL bronze:Compilation *Erronée - TOUS les ennemis gagnent !M! de Force.",
+    "DESCRIPTION": "Gagnez !bauto! de Force. NL bronze:Compilation - *Erreur : TOUS les ennemis gagnent !M! de Force.",
     "EXTENDED_DESCRIPTION": [
       "idée",
       "Intelligente"
@@ -572,7 +572,7 @@
   },
   "bronze:DazingPulse": {
     "NAME": "Onde Étrange",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégâts. NL bronze:Compilation *Erronée - bronze:Insérez !M! *Hébétement.",
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Infligez !D! dégâts. NL bronze:Compilation - *Erreur : bronze:Insérez !M! *Hébétement.",
     "EXTENDED_DESCRIPTION": [
       "onde",
       "Étrange"
@@ -605,7 +605,7 @@
   },
   "bronze:Explode": {
     "NAME": "Explosion",
-    "DESCRIPTION": "Appliquez !M! de hexamod:Brûlure à TOUS les ennemis. NL bronze:Compilation *Erronée - bronze:Insérez !bauto! *Brûlure.",
+    "DESCRIPTION": "Appliquez !M! de hexamod:Brûlure à TOUS les ennemis. NL bronze:Compilation - *Erreur : bronze:Insérez !bauto! *Brûlure.",
     "EXTENDED_DESCRIPTION": [
       "bombe",
       "Instable"
