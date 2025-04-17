@@ -96,13 +96,13 @@
     ]
   },
   "sneckomod:LuckyBreak": {
-    "NAME": "Lucky Break",
+    "NAME": "Coup de chance",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Piochez !M! carte pour chaque carte de votre main qui coûte au moins 2."
   },
   "sneckomod:Nope": {
     "NAME": "Nope",
     "DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une carte de votre main. NL Si c'était une carte d'un Personnage, remplacez-la par une carte aléatoire de la même classe.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une carte de votre main. NL Si c'était une carte d'un Personnage, remplacez-la par une carte aléatoire de la même classe. NL Test.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Épuisez une carte de votre main. NL Si c'était une carte d'un Personnage, remplacez-la par une carte aléatoire de la même classe.",
     "EXTENDED_DESCRIPTION": [
       " à Épuiser pour Nope."
     ]
@@ -152,11 +152,11 @@
   },
   "sneckomod:OverwhelmingPresence": {
     "NAME": "Présence écrasante",
-    "DESCRIPTION": "Chaque tour, la première fois que vous mélangez votre pioche, gagnez [E] et piochez !M! carte."
+    "DESCRIPTION": "Chaque tour, la première fois que vous mélangez votre pioche, piochez !M! carte et gagnez [E]."
   },
   "sneckomod:RiskySword": {
     "NAME": "Épée périlleuse",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Lorsque cette carte est sneckomod:Confondue, ses dégâts sont augmentés de !M! pour ce combat."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Lorsque cette carte est sneckomod:Confondue [REMOVE_SPACE], ses dégâts sont augmentés de !M! pour ce combat."
   },
   "sneckomod:PoisonParadise": {
     "NAME": "Fontaine de venin",
@@ -164,7 +164,7 @@
   },
   "sneckomod:PureSnecko": {
     "NAME": "Shift",
-    "DESCRIPTION": "Piochez !M! cartes et sneckomod:Confondez-les."
+    "DESCRIPTION": "Piochez !M! cartes et sneckomod:Confondez-les [REMOVE_SPACE]."
   },
   "sneckomod:QuickBite": {
     "NAME": "Coupe du serpent",
@@ -265,7 +265,7 @@
   },
   "sneckomod:TyphoonFang": {
     "NAME": "Croc du typhon",
-    "DESCRIPTION": "Infligez !D! dégâts. NL sneckomod:Dépassement : Ce tour, lorsque qu'un #yDépassement s'active, jouez une copie de cette carte."
+    "DESCRIPTION": "Infligez !D! dégâts. NL sneckomod:Dépassement : Ce tour, lorsque qu'un sneckomod:Dépassement s'active, jouez une copie de cette carte."
   },
   "sneckomod:Yearn": {
     "NAME": "Yearn",
@@ -482,8 +482,8 @@
   },
   "sneckomod:Cower": {
     "NAME": "Retraite",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez un *Hole *Up à votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez un *Hole *Up+ à votre main. NL Épuisement."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une *Planque à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Ajoutez une *Planque+ à votre main. NL Épuisement."
   },
   "sneckomod:WideSting": {
     "NAME": "Piqûre profonde",
@@ -515,7 +515,7 @@
   "sneckomod:BlunderGuard": {
     "NAME": "Pas de bêtises",
     "DESCRIPTION": "Lorsque vous jouez une carte qui coûte au moins 3, gagnez !qqq! d'Armure et !M! de Force.",
-    "UPGRADE_DESCRIPTION": "Lorsque vous jouez une carte qui coûte au moins 3, gagnez !qqq! d'Armure et !M! de Force. NL Test."
+    "UPGRADE_DESCRIPTION": "Lorsque vous jouez une carte qui coûte au moins 3, gagnez !qqq! d'Armure et !M! de Force."
   },
   "sneckomod:WideAngle": {
     "NAME": "Grand angle",
@@ -551,7 +551,7 @@
     "DESCRIPTION_BATTLE": "Infligez !D! dégâts. Si l'ennemi a au moins !M! débuffs, piochez !qqq! cartes."
   },
   "sneckomod:LatchOn": {
-    "NAME": "Latch On",
+    "NAME": "Agrippage",
     "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis. NL Ajoutez une *Essence *de *Vipère à votre main."
   },
   "sneckomod:ComboString": {
@@ -570,7 +570,7 @@
   },
   "sneckomod:RoundaboutSwing": {
     "NAME": "Balancement indirect",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Placez une carte de votre main sur le haut de votre pioche. NL Piochez !M! cartes supplémentaires au prochain tour."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Placez une carte de votre main sur le haut de votre pioche. NL Au prochain tour, piochez !M! cartes supplémentaires."
   },
   "sneckomod:MarkedCard": {
     "NAME": "Carte marquée",
@@ -579,8 +579,8 @@
   },
   "sneckomod:InertBlade": {
     "NAME": "Lame inerte",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Si cette carte coûte NL Au moins 1 : Piochez !M! cartes. NL Au moins 2 : Gagnez !M! de Force. NL Au moins 3 : Gagnez [E].",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Si cette carte coûte NL Au moins 1 : Piochez !M! cartes. NL Au moins 2 : Gagnez !M! de Force. NL Au moins 3 : Gagnez [E] [E]."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Si cette carte coûte : NL Au moins 1 : Piochez !M! cartes. NL Au moins 2 : Gagnez !M! de Force. NL Au moins 3 : Gagnez [E].",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Si cette carte coûte : NL Au moins 1 : Piochez !M! cartes. NL Au moins 2 : Gagnez !M! de Force. NL Au moins 3 : Gagnez [E] [E]."
   },
   "sneckomod:PerpetualSerpent": {
     "NAME": "Serpent perpétuel",
