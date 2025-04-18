@@ -14,7 +14,7 @@
     "NAME": "Rituel obscur",
     "DESCRIPTIONS": [
       "Gagnez #b",
-      " de #yForce si l'ennemi ciblé ne compte pas attaquer."
+      " de #yForce si aucun ennemi ne vous attaque."
     ]
   },
   "expansioncontent:AwakenDeathPower": {
