@@ -9,17 +9,18 @@
   "bronze:UnplayableMod": {
     "TEXT": [
       "Injouable. NL ",
-      "ERR_NULL_PTR"
+      "ERR_NULL_PTR",
+      "Pour la carte Pointeur Invalide."
     ]
   },
   "bronze:EncodeAndShuffleMod": {
     "TEXT": [
-      " NL bronze:Encodez, puis ajoutez une copie de ceci dans votre défausse."
+      " NL bronze:Encodez cette carte, puis ajoutez une copie de celle-ci à votre défausse.",
     ]
   },
   "bronze:DoublePlayModifier": {
     "TEXT": [
-      " NL Jouez ceci une seconde fois."
+      " NL Jouez cette carte une seconde fois."
     ]
   },
   "bronze:MiscStrings": {
@@ -28,7 +29,7 @@
       " - Augmentez les dégâts de #yFrappe #yCultiste de #b",
       " de façon permanente.",
       "ERR: SEQUENCE_EMPTY",
-      " - Ajoutez une copie de #yBoucle #yInfinie dans votre main avec #b",
+      " - Ajoutez à votre main une copie de #yBoucle #yInfinie avec #b",
       " de dégâts supplémentaires.",
       " à Muter.",
       " à Encoder.",
@@ -39,16 +40,16 @@
     "TEXT": [
       " NL bronze:Compilation",
       "bronze:Compilation",
-      " NL bronze:Encodez.",
-      "bronze:Encodez. NL ",
-      "\u202F Quand bronze:Encodée,",
+      " NL bronze:Encodage.",
+      "bronze:Encodage. NL ",
+      "\u202F Quand cette carte est bronze:Encodée,",
       "LOCALIZATION NOTE: The text above must be equal to the start of Replicate's extra description line.",
       "ERR - NO_DUPE_FULL_RELEASES"
     ]
   },
   "bronze:CompileDisplayPanel": {
     "TEXT": [
-      "Quand Compilé:",
+      "Quand Compilée :",
       "bronze:Compilation"
     ]
   }
