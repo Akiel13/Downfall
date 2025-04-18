@@ -10,7 +10,7 @@
     "NAME": "Huile de lustrage",
     "DESCRIPTIONS": [
       "Gagnez #b",
-      " #yd'Armure [REMOVE_SPACE]. Entrez en #yMode #Défensif [REMOVE_SPACE]."
+      " #yd'Armure [REMOVE_SPACE]. Entrez en #yMode #yDéfensif [REMOVE_SPACE]."
     ]
   },
   "Guardian:BlockOnCardUsePotion": {
