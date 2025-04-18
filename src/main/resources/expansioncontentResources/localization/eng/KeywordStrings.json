@@ -1,9 +1,10 @@
 [
   {
-    "PROPER_NAME": "Blur",
+    "PROPER_NAME": "Flou",
     "ID": "blur",
     "NAMES": [
-      "blur"
+      "blur",
+      "flou"
     ],
     "DESCRIPTION": "#yBlock is not removed at the start of your turn."
   },
@@ -22,16 +23,19 @@
     "DESCRIPTION": "NOT USED DO NOT TL"
   },
   {
-    "PROPER_NAME": "Regen",
+    "PROPER_NAME": "Régénération",
     "NAMES": [
-      "regen"
+      "regen",
+      "régénération"
     ],
     "DESCRIPTION": "At the end of your turn, heal HP equal to your #yRegen then reduce #yRegen by #b1 [REMOVE_SPACE]."
   },
   {
     "PROPER_NAME": "Plated Armor",
     "NAMES": [
-      "plated"
+      "plated",
+      "d'armure plaquée",
+      "d'armure_plaquée"
     ],
     "DESCRIPTION": "At the end of your turn, gain Block equal to your #yPlated #yArmor [REMOVE_SPACE]. Taking unblocked attack damage reduces #yPlated #yArmor by #b1 [REMOVE_SPACE]."
   },
@@ -43,62 +47,75 @@
     "DESCRIPTION": "You may only play #b1 #yBoss card in a turn."
   },
   {
-    "PROPER_NAME": "Echo",
+    "PROPER_NAME": "Écho",
     "ID": "echo",
     "NAMES": [
-      "echo"
+      "echo",
+      "écho"
     ],
     "DESCRIPTION": "Add a copy of a card to you hand, it is #yEthereal and #yExhausts [REMOVE_SPACE]. NL Echoes cannot be Echoed."
   },
   {
-    "PROPER_NAME": "Exhume",
+    "PROPER_NAME": "Exhumation",
     "ID": "exhume",
     "NAMES": [
-      "exhume"
+      "exhume",
+      "exhumez",
+      "exhumée",
+      "exhumer"
     ],
     "DESCRIPTION": "Put a card from your exhaust pile into your hand."
   },
   {
-    "PROPER_NAME": "Invincible",
+    "PROPER_NAME": "Invincibilité",
     "NAMES": [
-      "invincible"
+      "invincible",
+      "invincibilité"
     ],
     "DESCRIPTION": "You cannot lose more than a given amount of HP in a single turn. NL At the end of any round in which Invincible prevented HP loss, remove it."
   },
   {
-    "PROPER_NAME": "Reclaim",
+    "PROPER_NAME": "Réanimation",
     "NAMES": [
-      "reclaim"
+      "reclaim",
+      "réanimez",
+      "réanimée"
     ],
     "DESCRIPTION": "Put a card from your exhaust pile into your discard pile."
   },
   {
-    "PROPER_NAME": "Goop",
+    "PROPER_NAME": "Bave",
     "NAMES": [
-      "goop"
+      "goop",
+      "bave",
+      "morve"
     ],
     "DESCRIPTION": "The next attack deals #b1 more damage per #yGoop [REMOVE_SPACE], removing all #yGoop and triggering any #yConsume effects."
   },
   {
-    "PROPER_NAME": "Shackled",
+    "PROPER_NAME": "Chaînes",
     "NAMES": [
-      "shackled"
+      "shackled",
+      "chaînes"
     ],
     "DESCRIPTION": "Shackled creatures lose #yStrength for a turn."
   },
   {
-    "PROPER_NAME": "Temporary HP",
+    "PROPER_NAME": "PV temporaires",
     "ID": "temp_hp",
     "NAMES": [
       "temp hp",
-      "temp_hp"
+      "temp_hp",
+      "pv_temporaires",
+      "pv temporaires"
     ],
     "DESCRIPTION": "Until end of combat, prevents damage to HP."
   },
   {
     "PROPER_NAME": "Pyre",
     "NAMES": [
-      "pyre"
+      "pyre",
+      "bûcher"
     ],
     "DESCRIPTION": "Requires exhausting a card in hand in addition to paying its energy cost."
   },
@@ -114,9 +131,11 @@
   {
     "NAMES": [
       "goop",
-      "gooped"
+      "gooped",
+      "bave",
+      "morve"
     ],
-    "PROPER_NAME": "Goop",
+    "PROPER_NAME": "Bave",
     "DESCRIPTION": "The next attack deals #b1 more damage per #yGoop [REMOVE_SPACE], removing all #yGoop and triggering any #yConsume effects."
   },
 
@@ -129,18 +148,20 @@
   },
 
   {
-    "PROPER_NAME": "Chant",
+    "PROPER_NAME": "Psalmodie",
     "NAMES": [
       "chant",
       "Chant",
-      "Chants"
+      "Chants",
+      "mélopée"
     ],
     "DESCRIPTION": "Chant effects on a card activate during play if you played a Power while it was in hand."},
   {
-    "PROPER_NAME": "Transform",
+    "PROPER_NAME": "Transformation",
     "ID": "transform",
     "NAMES": [
-      "transform"
+      "transform",
+      "transformez"
     ],
     "DESCRIPTION": "#yExhaust a card, replacing it with a different card."
   }

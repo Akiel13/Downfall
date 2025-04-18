@@ -14,7 +14,7 @@
     "NAME": "Rituel obscur",
     "DESCRIPTIONS": [
       "Gagnez #b",
-      " de #yForce si cet ennemi n'attaque pas pendant son tour."
+      " de #yForce si l'ennemi ciblé ne compte pas attaquer."
     ]
   },
   "expansioncontent:AwakenDeathPower": {
@@ -29,7 +29,7 @@
     "DESCRIPTIONS": [
       "Après avoir joué #b",
       " cartes de plus, gagnez #b",
-      " de #yForce."
+      " de #yForce [REMOVE_SPACE]."
     ]
   },
   "expansioncontent:ChronoBoostPlusPower": {
@@ -37,7 +37,7 @@
     "DESCRIPTIONS": [
       "Après avoir joué #b",
       " cartes de plus, gagnez #b",
-      " de #yForce."
+      " de #yForce [REMOVE_SPACE]."
     ]
   },
   "expansioncontent:DeEnergizedPower": {
@@ -58,7 +58,7 @@
   "expansioncontent:PolyBeamAgainPowerUpgraded": {
     "NAME": "Puissance",
     "DESCRIPTIONS": [
-      "#yMultilaser+ sera jouée lors de votre prochain tour. ",
+      "#yMultilaser+ sera joué au début de votre prochain tour. ",
       "#yMultilaser+ sera joué au début de vos #b",
       " prochains tours."
     ]
@@ -67,14 +67,14 @@
     "NAME": "Carte retardée",
     "DESCRIPTIONS": [
       "Ajoutez ",
-      " dans votre main au début de votre prochain tour."
+      " à votre main au début de votre prochain tour."
     ]
   },
   "expansioncontent:AddSameInstancePower": {
     "NAME": "Carte retardée",
     "DESCRIPTIONS": [
       "Ajoutez  ",
-      " dans votre main au début de votre prochain tour."
+      " à votre main au début de votre prochain tour."
     ]
   },
   "expansioncontent:NextTurnExhumePower": {
@@ -93,12 +93,45 @@
       " dégâts à un ennemi aléatoire #b6 fois."
     ]
   },
+  "expansioncontent:BeatOfDeathP": {
+    "NAME": "Battement de la mort",
+    "DESCRIPTIONS": [
+      "Lorsque vous jouez une carte, infligez #b",
+      " dégâts à TOUS les ennemis."
+    ]
+  },
+  "expansioncontent:PandemoniumPower":{
+    "NAME": "Pandémonium",
+    "DESCRIPTIONS": [
+      "Au début de votre tour, jouez une carte aléatoire de votre défausse.",
+      "Au début de votre tour, jouez #b",
+      " cartes aléatoires de votre défausse."
+    ]
+  },
+  "expansioncontent:EvilWithinPower":{
+    "NAME": "Mal intérieur",
+    "DESCRIPTIONS": [
+      "Infligez #b",
+      " dégâts à TOUS les ennemis quand vous aurez appliqué #b",
+      " débuffs.",
+      " débuff."
+    ]
+  },
+  "expansioncontent:ReveriePower":{
+  "NAME": "Rêverie",
+  "DESCRIPTIONS": [
+    "Au début de votre tour, ajoutez la première carte de votre défausse à votre main.",
+    "Au début de votre tour, choisissez une carte parmi les #b",
+    " premières cartes de votre défausse et ajoutez-la à votre main.",
+    "Choisissez une carte à ajouter à votre main."
+  ]
+},
   "expansioncontent:VexVinciblePower": {
     "NAME": "Invincibilité",
     "DESCRIPTIONS": [
-      "Limite tous les dégâts et les pertes de PV reçus de #b",
+      "Limite tous les dégâts et les pertes de PV reçus à #b",
       " dans un tour. Retiré après activation.",
-      "Limite tous les dégâts et les pertes de PV reçus de #b",
+      "Limite tous les dégâts et les pertes de PV reçus à #b",
       " dans un tour. Retiré après #b",
       " activations."
     ]
