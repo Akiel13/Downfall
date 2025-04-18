@@ -192,7 +192,7 @@
   "Guardian:ArmoredProtocolPower": {
     "NAME": "Protocole blindé",
     "DESCRIPTIONS": [
-      "Lorsque vous entrez en #yMode #yDéfensif [REMOVE_SPACE], gagnez #b",
+      "Si vous êtes en #yMode #yDéfensif [REMOVE_SPACE], gagnez #b",
       " #yd'Armure à la fin de votre tour."
     ]
   },
