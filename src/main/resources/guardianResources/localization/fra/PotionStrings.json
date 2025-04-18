@@ -2,7 +2,7 @@
   "Guardian:AcceleratePotion": {
     "NAME": "Potion temporelle",
     "DESCRIPTIONS": [
-      "Accélérez toutes les cartes en #yStase #b",
+      "#yAccélérez toutes les cartes en #yStase #b",
       " fois."
     ]
   },
@@ -10,7 +10,7 @@
     "NAME": "Huile de lustrage",
     "DESCRIPTIONS": [
       "Gagnez #b",
-      " d'Armure. Entrez en #yMode #Défensif"
+      " #yd'Armure [REMOVE_SPACE]. Entrez en #yMode #Défensif [REMOVE_SPACE]."
     ]
   },
   "Guardian:BlockOnCardUsePotion": {
@@ -23,9 +23,9 @@
   "Guardian:StasisDiscoveryPotion": {
     "NAME": "Élixir quantique",
     "DESCRIPTIONS": [
-      "Gagnez des emplacements de #yStase jusqu'à ce que vous en avez #b",
-      ". NL #b",
-      " fois, choisissez #b1 parmi #b3 cartes à placer en #yStase."
+      "Gagnez des emplacements de #yStase jusqu'à ce que vous en ayez #b",
+      " [REMOVE_SPACE]. NL #b",
+      " fois, choisissez #b1 carte parmi #b3 à placer en #yStase."
     ]
   }
 }
