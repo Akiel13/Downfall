@@ -122,6 +122,11 @@
   },
   {
     "NAMES": [
+      "slime baveux",
+      "slime_baveux",
+      "slimes baveux",
+      "slimes_baveux",
+      "slime baveux",
       "slime bourbier",
       "slime_bourbier",
       "slimes bourbier",
@@ -133,7 +138,7 @@
       "mire_slimes",
       "mire"
     ],
-    "PROPER_NAME": "Slime bourbier",
+    "PROPER_NAME": "Slime baveux",
     "DESCRIPTION": "Inflige #b2 dégâts et applique #b2 de #yBave chaque tour."
   },
   {
