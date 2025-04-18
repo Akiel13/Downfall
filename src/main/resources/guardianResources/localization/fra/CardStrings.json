@@ -33,47 +33,47 @@
     "UPGRADE_DESCRIPTION": "Gagnez [E]."
   },
   "Guardian:Gem_Cyan": {
-    "NAME": "Aquamarine",
-    "DESCRIPTION": "guardianmod:Gemme. NL Ajoutez un *Cristal *de *Protection dans votre main.",
-    "UPGRADE_DESCRIPTION": "Ajoutez un *Cristal *de *Protection dans votre main."
+    "NAME": "Aigue-marine",
+    "DESCRIPTION": "guardianmod:Gemme. NL Ajoutez un *Cristal *de *Protection à votre main.",
+    "UPGRADE_DESCRIPTION": "Ajoutez un *Cristal *de *Protection à votre main."
   },
   "Guardian:ChargeUp": {
     "NAME": "Recharge",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Au prochain tour, gagnez !M! de Force Temporaire."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Au prochain tour, gagnez !M! de Force temporaire."
   },
   "Guardian:DonusPower": {
     "NAME": "Surcharge",
-    "DESCRIPTION": "Piochez !M! cartes. NL Au prochain tour, piochez 2 cartes de moins.",
-    "UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Au prochain tour, piochez 2 cartes de moins. Réduisez chacun de vos Débuffs de 1."
+    "DESCRIPTION": "Piochez !M! cartes. NL Réduisez chacun de vos débuffs de 1.",
+    "UPGRADE_DESCRIPTION": "Piochez !M! cartes. NL Réduisez chacun de vos débuffs de 1."
   },
   "Guardian:DecasProtection": {
     "NAME": "Pouvoir antique",
-    "DESCRIPTION": "Gagnez !M! de Force Temporaire et de Dextérité Temporaire."
+    "DESCRIPTION": "Gagnez !M! de Force temporaire et de Dextérité temporaire."
   },
   "Guardian:FierceBash": {
-    "NAME": "Frappe féroce",
+    "NAME": "Heurt féroce",
     "DESCRIPTION": "Infligez !D! dégâts. NL Placez cette carte en guardianmod:Stase. NL guardianmod:Tic - Augmentez les dégâts de cette carte de !M!."
   },
   "Guardian:PolyBeam": {
-    "NAME": "Poly Laser",
+    "NAME": "Multilaser",
     "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire !M! fois."
   },
   "Guardian:TwinSlam": {
     "NAME": "Double claque",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez *Claque *secondaire dans votre main.",
-	"UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez *Claque *secondaire+ dans votre main."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez une *Deuxième *claque dans votre main.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Ajoutez *Deuxième *claque+ dans votre main."
   },
   "Guardian:GuardianWhirl": {
     "NAME": "Tourbillon du Gardien",
-    "DESCRIPTION": "Requiert 20 d'Armure ou plus. NL Infligez !D! dégâts à TOUS les ennemis !M! fois.",
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis 2 fois. Frappe !M! fois de plus si vous avez au moins 16 d'Armure.",
     "EXTENDED_DESCRIPTION": [
         "Requiert plus d'Armure."
     ]
   },
   "Guardian:VentSteam": {
     "NAME": "Vapeur d'eau",
-    "DESCRIPTION": "Appliquez !M! de Vulnérabilité.",
-    "UPGRADE_DESCRIPTION": "Appliquez !M! de Vulnérabilité."
+    "DESCRIPTION": "Appliquez !M! de Vulnérabilité à TOUS les ennemis.",
+    "UPGRADE_DESCRIPTION": "Appliquez !M! de Vulnérabilité à TOUS les ennemis."
   },
   "Guardian:CurlUp": {
     "NAME": "Recroquevillement",
@@ -91,7 +91,7 @@
   "Guardian:BronzeArmor": {
     "NAME": "Plaque résistante",
     "DESCRIPTION": "Réduisez chacun de vos Débuffs de !M!. NL guardianmod:Renforcez de 8. NL Épuisement.",
-	"UPGRADE_DESCRIPTION":"Réduisez chacun de vos Débuffs de !M!. NL guardianmod:Renforcez de 8."
+    "UPGRADE_DESCRIPTION":"Réduisez chacun de vos Débuffs de !M!. NL guardianmod:Renforcez de 8."
   },
   "Guardian:FloatingOrbs": {
     "NAME": "Orbes flottants",
@@ -114,7 +114,7 @@
   "Guardian:WalkerClaw": {
     "NAME": "Griffures profondes",
     "DESCRIPTION": "Infligez !D! dégâts !M! fois.",
-	"UPGRADE_DESCRIPTION": "Infligez !D! dégâts !M! fois."
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts !M! fois."
   },
   "Guardian:SphericShield": {
     "NAME": "Bouclier sphérique",
@@ -128,57 +128,57 @@
     ]
   },
   "Guardian:SentryBeam": {
-    "NAME": "Sentinelle laser",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Placez une *Sentinelle *onde en guardianmod:Stase. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Placez une *Sentinelle *onde+ en guardianmod:Stase. NL Épuisement."
+    "NAME": "Rayon de sentinelle",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Placez une *Onde *de *sentinelle en guardianmod:Stase. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Placez une *Onde *de *sentinelle+ en guardianmod:Stase. NL Épuisement."
   },
   "Guardian:SentryWave": {
-    "NAME": "Sentinelle onde",
-    "DESCRIPTION": "Appliquez !M! de Faiblesse. NL Placez une *Sentinelle *Laser en guardianmod:Stase. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Appliquez !M! de Faiblesse. NL guardianmod:Renforcez de 2. NL  Placez une *Sentinelle *Laser+ en guardianmod:Stase. NL Épuisement."
+    "NAME": "Onde de sentinelle",
+    "DESCRIPTION": "Appliquez !M! de Faiblesse. NL Placez un *Rayon *de *sentinelle en guardianmod:Stase. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Appliquez !M! de Faiblesse. NL guardianmod:Renforcez de 2. NL  Placez une *Rayon *de *sentinelle+ en guardianmod:Stase. NL Épuisement."
   },
   "Guardian:CompilePackage": {
     "NAME": "Paquets compilés",
-    "DESCRIPTION": "Choisissez un guardianmod:Colis parmi trois à ajouter dans votre main. NL Exhaust.",
-    "UPGRADE_DESCRIPTION": "Choisissez un guardianmod:Colis parmi trois à ajouter dans votre main. Les cartes que le guardianmod:Colis ajoute vont être Améliorées. NL Épuisement.",
+    "DESCRIPTION": "Choisissez un guardianmod:Paquet parmi trois à placer en guardianmod:Stase. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Choisissez un guardianmod:Paquet *Amélioré parmi trois à placer en guardianmod:Stase. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
-      "Choisissez un Colis."
+      "Choisissez un Paquet."
     ]
   },
   "Guardian:PackageShapes": {
-    "NAME": "Colis : Formes",
-    "DESCRIPTION": "Ajoutez *Bombe *à *Retardement, *Protocole *épineux, et *Répulseur dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoutez *Bombe *à *Retardement+, *Protocole *épineux+, et *Répulseur+ dans votre main. NL Épuisement."
+    "NAME": "Paquet : Formes",
+    "DESCRIPTION": "Ajoutez *Bombe *temporelle, *Protocole *épineux, et *Répulseur à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez *Bombe *temporelle+, *Protocole *épineux+, et *Répulseur+ à votre main. NL Épuisement."
   },
   "Guardian:PackageDonuDeca": {
-    "NAME": "Colis : Anciens",
-    "DESCRIPTION": "Ajoutez *Attaque *Antique, *Pouvoir *Antique, et *Construction *Antique dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoutez *Attaque *Antique+, *Pouvoir *Antique+, et *Construction *Antique+ dans votre main. NL Épuisement."
+    "NAME": "Paquet : Anciens",
+    "DESCRIPTION": "Ajoutez *Attaque *antique, *Pouvoir *antique, et *Construction *antique à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez *Attaque *antique+, *Pouvoir *antique+, et *Construction *antique+ à votre main. NL Épuisement."
   },
   "Guardian:PackageSphere": {
-    "NAME": "Colis : Sphérique",
-    "DESCRIPTION": "Ajoutez *Bouclier *sphérique, *Orbes *flottants et *Métallisation dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoutez *Sentinelle *Laser+ et deux *Sentinelle *Onde+ dans votre main. NL Épuisement."
+    "NAME": "Paquet : Sphérique",
+    "DESCRIPTION": "Ajoutez *Bouclier *sphérique, *Orbes *flottants et *Durcissement à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez *Bouclier *sphérique+, *Orbes *flottants+ et *Durcissement+ à votre main. NL Épuisement."
   },
   "Guardian:PackageSentry": {
-    "NAME": "Colis : Sentinelle",
-    "DESCRIPTION": "Ajoutez *Sentinelle *Laser et deux *Sentinelle *Onde dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoutez *Sentinelle *Laser et deux *Sentinelle *Onde dans votre main et Améliore-les. NL Épuisement."
+    "NAME": "Paquet : Sentinelle",
+    "DESCRIPTION": "Ajoutez *Rayon *de *sentinelle et deux *Onde *de *sentinelle à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez *Rayon *de *sentinelle+ et deux *Onde *de *sentinelle+ à votre main. NL Épuisement."
   },
   "Guardian:PackageWalker": {
-    "NAME": "Colis : Orbiste",
-    "DESCRIPTION": "Ajoutez une *Puissance *orbitale, *Griffures *profondes, et *Incinération dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoutez une *Puissance *orbitale+, *Griffures *profondes+, et *Incinération+ dans votre main. NL Épuisement."
+    "NAME": "Paquet : Orbiste",
+    "DESCRIPTION": "Ajoutez une *Puissance *orbitale, *Griffures *profondes, et *Incinération à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez une *Puissance *orbitale+, *Griffures *profondes+, et *Incinération+ à votre main. NL Épuisement."
   },
   "Guardian:PackageAutomaton": {
-    "NAME": "Colis : Bronze",
-    "DESCRIPTION": "Ajoutez *Ultra *Laser, *Faisceau *Orbital, et *Armure *de *Bronze dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoutez *Ultra *Laser+, *Faisceau *Orbital+, et *Armure *de *Bronze+ dans votre main. NL Épuisement."
+    "NAME": "Paquet : Bronze",
+    "DESCRIPTION": "Ajoutez *Ultralaser, *Faisceau *orbital, et *Armure *de *bronze à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez *Ultralaser+, *Faisceau *orbital+, et *Armure *de *bronze+ à votre main. NL Épuisement."
   },
   "Guardian:PackageDefect": {
-    "NAME": "Colis : Défectueux",
-    "DESCRIPTION": "Ajoutez *Détournement, *Préprogramme, et *Condensateur *de *temps dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Ajoutez *Détournement+, *Préprogramme+, et *Condensateur *de *temps+ dans votre main. NL Épuisement."
+    "NAME": "Paquet : Défectueux",
+    "DESCRIPTION": "Ajoutez *Détournement, *Préprogrammation, et *Condensateur *temporel à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez *Détournement+, *Préprogrammation+, et *Condensateur *temporel+ à votre main. NL Épuisement."
   },
   "Guardian:Planning": {
     "NAME": "Planning",
@@ -190,25 +190,29 @@
   },
   "Guardian:Emergency": {
     "NAME": "Cycle d'urgence",
-    "DESCRIPTION": "guardianmod:Accélérez jusqu'à ce qu'une carte en guardianmod:Stase retourne dans votre main. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "guardianmod:Accélérez jusqu'à ce qu'une carte en guardianmod:Stase retourne dans votre main."
+    "DESCRIPTION": "guardianmod:Accélérez TOUTES les cartes en guardianmod:Stase. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "guardianmod:Accélérez TOUTES les cartes en guardianmod:Stase deux fois. NL Épuisement."
   },
   "Guardian:Clone": {
     "NAME": "Clonage",
-    "DESCRIPTION": "Choisissez une carte dans votre main. Placez une copie de cette carte en guardianmod:Stase. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Choisissez une carte dans votre main. Placez une copie de cette carte en guardianmod:Stase. NL guardianmod:Accélérez. NL Épuisement."
+    "DESCRIPTION": "Choisissez une carte dans votre main. Placez-en une copie en guardianmod:Stase. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Choisissez une carte dans votre main. Placez-en une copie en guardianmod:Stase. NL guardianmod:Accélérez. NL Épuisement."
   },
   "Guardian:Preprogram": {
-    "NAME": "Préprogramme",
-    "DESCRIPTION": "Regardez aux !M! cartes du haut de votre pioche. Vous pouvez en choisir une à mettre en guardianmod:Stase."
+    "NAME": "Préprogrammation",
+    "DESCRIPTION": "Regardez les !M! cartes du haut de votre pioche. Vous pouvez placer une en guardianmod:Stase."
   },
   "Guardian:GemFinder": {
     "NAME": "Détecteur de gemmes",
-    "DESCRIPTION": "À la fin du combat, vous pouvez choisir une guardianmod:Gemme commune à ajouter dans votre deck."
+    "DESCRIPTION": "À la fin du combat, vous pouvez ajouter une guardianmod:Gemme aléatoire à votre deck."
   },
   "Guardian:StasisField": {
     "NAME": "Champ statique",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Placez cette carte en guardianmod:Stase. NL Quand cette carte quitte sa Stase, gagnez !B! d'Armure."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Placez cette carte en guardianmod:Stase."
+  },
+  "Guardian:Metallicize": {
+    "NAME": "Durcissement",
+    "DESCRIPTION": "Gagnez !M! expansioncontent:d'Armure *Plaquée."
   },
   "Guardian:StasisStrike": {
     "NAME": "Frappe statique",
@@ -221,8 +225,8 @@
   },
   "Guardian:Suspension": {
     "NAME": "Suspension",
-    "DESCRIPTION": "Placez une carte de votre main en guardianmod:Stase.",
-    "UPGRADE_DESCRIPTION": "Piochez une carte. NL Placez une carte de votre main en guardianmod:Stase."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Placez une carte de votre main en guardianmod:Stase.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure. NL Placez une carte de votre main en guardianmod:Stase."
   },
   "Guardian:FastForward": {
     "NAME": "Boost de vitesse",
@@ -230,13 +234,13 @@
     "UPGRADE_DESCRIPTION": "Retenue. NL guardianmod:Accélérez !M! fois."
   },
   "Guardian:TimeCapacitor": {
-    "NAME": "Condensateur de temps",
+    "NAME": "Condensateur temporel",
     "DESCRIPTION": "Gagnez !M! emplacement de guardianmod:Stase."
   },
   "Guardian:ConstructionForm": {
     "NAME": "Forme Constructive",
-    "DESCRIPTION": "Éthérée. NL Gagnez !M! guardianmod:Tampon. NL Au début de votre tour, si vous avez guardianmod:Tampon, gagnez 1 de Force.",
-    "UPGRADE_DESCRIPTION": "Gagnez !M! guardianmod:Tampon. NL Au début de votre tour, si vous avez guardianmod:Tampon, gagnez 1 de Force."
+    "DESCRIPTION": "Éthérée. NL Gagnez !M! guardianmod:Tampon. NL Au début de votre tour, si vous avez un guardianmod:Tampon, gagnez 1 de Force.",
+    "UPGRADE_DESCRIPTION": "Gagnez !M! guardianmod:Tampon. NL Au début de votre tour, si vous avez un guardianmod:Tampon, gagnez 1 de Force."
   },
   "Guardian:RollAttack": {
     "NAME": "Roulade",
@@ -244,20 +248,21 @@
   },
   "Guardian:GemFire": {
     "NAME": "Canon gemme",
-    "DESCRIPTION": "Épuisez toutes les guardianmod:Gemmes, également celles qui sont encastrées. Infligez !D! dégâts à un ennemi aléatoire pour chaque guardianmod:Gemme. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": " NL (Touche !M! fois.)"
+    "DESCRIPTION": "Infligez !D! dégâts. Activez les effets de TOUTES vos guardinmod:Gemmes NL Épuisement.",
+    "UPGRADE_DESCRIPTION": " NL (Vous en avez !M!.)"
   },
   "Guardian:ChargeCore": {
     "NAME": "Noyau chargé",
-    "DESCRIPTION": "Infligez !D! dégâts, puis placez cette carte en guardianmod:Stase. NL guardianmod:Tic - Piochez une carte. NL guardianmod:Volatile."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Placez cette carte en guardianmod:Stase. NL guardianmod:Tic - Piochez une carte. NL guardianmod:Volatile."
   },
   "Guardian:Reroute": {
     "NAME": "Détournement",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Placez la prochaine Attaque ou Compétence que vous jouez et qui ne s'Épuise pas en guardianmod:Stase."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Placez en guardianmod:Stase la prochaine Attaque ou Compétence que vous jouez ce tour et qui ne s'Épuise pas."
   },
   "Guardian:PiercingHide": {
     "NAME": "Armure perçante",
-    "DESCRIPTION": "Gagnez !B! d'Armure et !M! Épines temporaires. NL guardianmod:Renforcez de 3."
+    "DESCRIPTION": "Gagnez !B! d'Armure et !M! Épines temporaires. NL guardianmod:Renforcez de 3.",
+    "UPGRADE_DESCRIPTION": "Gagnez !B! d'Armure et !M! Épines temporaires. NL guardianmod:Renforcez de 4."
   },
   "Guardian:ShieldSpikes": {
     "NAME": "Bouclier de picots",
@@ -282,8 +287,7 @@
   },
   "Guardian:ExploitGems": {
     "NAME": "Exploitation de gemmes",
-    "DESCRIPTION": "Piochez une carte.",
-    "UPGRADE_DESCRIPTION": "Gagnez [E]. NL Piochez une carte."
+    "DESCRIPTION": "Piochez une carte."
   },
   "Guardian:RefractedBeam": {
     "NAME": "Rayon rétracté",
@@ -295,7 +299,7 @@
   },
   "Guardian:BaubleBeam": {
     "NAME": "Éclat de gemmes",
-    "DESCRIPTION": "Infligez !D! dégâts. NL NL Réalisez !M! fois ceci:"
+    "DESCRIPTION": "Infligez !D! dégâts. NL À !M! reprises :"
   },
   "Guardian:PrimingBeam": {
     "NAME": "Tir d'amorce",
@@ -303,15 +307,17 @@
   },
   "Guardian:EvasiveProtocol": {
     "NAME": "Protocole évasif",
-    "DESCRIPTION": "Lorsque vous êtes en guardianmod:Mode_Défensif, augmentez votre Dextérité de !M!. NL Au début de votre tour, guardianmod:Renforcez de 3."
+    "DESCRIPTION": "guardianmod:Renforcez de !GuardianSecondM!. NL Lorsque vous entrez en guardianmod:Mode_Défensif, réduisez chacun de vos débuffs de !M!.",
+    "UPGRADE_DESCRIPTION": "guardianmod:Renforcez de !GuardianSecondM!. NL Lorsque vous entrez en guardianmod:Mode_Défensif, réduisez chacun de vos débuffs de !M!."
   },
   "Guardian:SpikerProtocol": {
     "NAME": "Protocole épineux",
-    "DESCRIPTION": "Gagnez !M! d'Épines lorsque vous êtes en guardianmod:Mode_Défensif. NL Au début de votre tour, guardianmod:Renforcez de 3."
+    "DESCRIPTION": "guardianmod:Renforcez de !GuardianSecondM!. NL Lorsque vous entrez en guardianmod:Mode_Défensif, gagnez !M! d'Épines.",
+    "UPGRADE_DESCRIPTION": "guardianmod:Renforcez de !GuardianSecondM!. NL Lorsque vous entrez en guardianmod:Mode_Défensif, gagnez !M! d'Épines."
   },
   "Guardian:ArmoredProtocol": {
     "NAME": "Protocole blindé",
-    "DESCRIPTION": "Gagnez !M! d'Armure à la fin de votre tour lorsque vous êtes en guardianmod:Mode_Défensif. NL Au début de votre tour, guardianmod:Renforcez de 3."
+    "DESCRIPTION": "guardianmod:Renforcez de !GuardianSecondM!. NL Si vous êtes en guardianmod:Mode_Défensif, gagnez !M! d'Armure à la fin de votre tour."
   },
   "Guardian:TimeSifter": {
     "NAME": "Tamis temporel",
@@ -320,17 +326,17 @@
   },
   "Guardian:AncientConstruct": {
     "NAME": "Construction antique",
-    "DESCRIPTION": "Au début de votre tour, si vous n'avez pas d'Artéfact, gagnez !M! Artéfact.",
-    "UPGRADE_DESCRIPTION": "Gagnez 2 Artéfact. NL Au début de votre tour, si vous n'avez pas d'Artéfact, gagnez !M! Artéfact."
+    "DESCRIPTION": "Gagnez 1 Artéfact. NL Au début de votre tour, si vous n'avez pas d'Artéfact, gagnez !M! Artéfact.",
+    "UPGRADE_DESCRIPTION": "Gagnez 1 Artéfact. NL Au début de votre tour, si vous n'avez pas d'Artéfact, gagnez !M! Artéfact."
   },
   "Guardian:CrystalBeam": {
     "NAME": "Rayon cristallin",
-    "DESCRIPTION": "Infligez !D! dégâts. Les dégâts sont augmentés de !M! pour chaque guardianmod:Gemme guardianmod:Encastrées dans TOUTES vos cartes."
+    "DESCRIPTION": "Infligez !D! dégâts. NL Les dégâts de cette carte sont augmentés de !M! pour chaque guardianmod:Gemme dans votre deck."
   },
   "Guardian:Gem_Synthetic": {
     "NAME": "Onyx",
-    "DESCRIPTION": "guardianmod:Gemme. NL Réduisez chacun de vos Débuffs de 1.",
-    "UPGRADE_DESCRIPTION": "Réduisez chacun de vos Débuffs de 1."
+    "DESCRIPTION": "guardianmod:Gemme. NL Réduisez chacun de vos débuffs de 1.",
+    "UPGRADE_DESCRIPTION": "Réduisez chacun de vos débuffs de 1."
   },
   "Guardian:Gem_Yellow": {
     "NAME": "Ambre",
@@ -354,8 +360,8 @@
   },
   "Guardian:Gem_Fragmented": {
     "NAME": "Gemme fragmentée",
-    "DESCRIPTION": "guardianmod:Gemme. NL Ajoutez un *Surin *de *cristal to your hand.",
-    "UPGRADE_DESCRIPTION": "Ajoutez un *Surin *de *cristal to your hand."
+    "DESCRIPTION": "guardianmod:Gemme. NL Ajoutez un *Surin *de *cristal à votre main.",
+    "UPGRADE_DESCRIPTION": "Ajoutez un *Surin *de *cristal à votre main."
   },
   "Guardian:CrystalShiv": {
     "NAME": "Surin de cristal",
@@ -367,20 +373,20 @@
   },
   "Guardian:Repulse": {
     "NAME": "Répulseur",
-    "DESCRIPTION": "Quand vous piochez la première carte Statut ou Malédiction chaque tour, Épuisez-la et piochez une carte.",
-    "UPGRADE_DESCRIPTION": "Quand vous piochez la première carte Statut ou Malédiction chaque tour, Épuisez-la et piochez une carte."
+    "DESCRIPTION": "La première fois que vous piochez carte Statut ou Malédiction chaque tour, Épuisez-la et piochez une carte.",
+    "UPGRADE_DESCRIPTION": "La première fois que vous piochez carte Statut ou Malédiction chaque tour, Épuisez-la et piochez une carte."
   },
   "Guardian:BronzeOrb": {
     "NAME": "Support orbital",
-    "DESCRIPTION": "Inné. NL Infligez !D! dégâts. NL Mettez une carte aléatoire de votre pioche en guardianmod:Stase. NL Épuisement."
+    "DESCRIPTION": "Infligez !D! dégâts. NL guardianmod:Renforcez d'autant que le nombre de dégâts non-bloqués infligés. NL Épuisement."
   },
   "Guardian:RevengeProtocol": {
     "NAME": "Protocole de vengeance",
     "DESCRIPTION": "Lorsque vous êtes en guardianmod:Mode_Défensif, augmentez votre Force de !M!. NL Au début de votre tour, guardianmod:Renforcez de !GuardianSecondM!."
   },
   "Guardian:GatlingBeam": {
-    "NAME": "Tourelle laser",
-    "DESCRIPTION": "Infligez !D! dégâts. Placez cette carte en guardianmod:Stase. NL La guardianmod:Stase dure !M! tours. NL guardianmod:Tic - Infligez !D! dégâts à un ennemi aléatoire."
+    "NAME": "Tourelle automatique",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Placez cette carte en guardianmod:Stase. NL La guardianmod:Stase dure !M! tours. NL guardianmod:Tic - Infligez !D! dégâts à un ennemi aléatoire."
   },
   "Guardian:ShieldCharger": {
     "NAME": "Chargeur de bouclier",
@@ -392,40 +398,40 @@
     "UPGRADE_DESCRIPTION": "Inné. NL Lorsque vous jouez la 3ème carte qui coûte 0 dans un seul tour, gagnez [E] et piochez une carte."
   },
   "Guardian:HammerDown": {
-    "NAME": "Hammer Down",
-    "DESCRIPTION": "Deal !D! damage. NL Double your Strength and Dexterity. NL Épuisement."
+    "NAME": "Écrasement",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Doublez votre Force et votre Dextérité. NL Épuisement."
   },
   "Guardian:OmegaCannon": {
-    "NAME": "Omega Cannon",
-    "DESCRIPTION": "Deal !D! damage. NL Costs 1 less [E] for each Strength you have."
+    "NAME": "Canon Oméga",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Coûte [E] de moins pour chaque Force que vous avez."
   },
   "Guardian:ModeShift": {
-    "NAME": "Mode Shift",
-    "DESCRIPTION": "Swap your Strength and Dexterity. NL Draw a card.",
-    "UPGRADE_DESCRIPTION": "Retain. NL Swap your Strength and Dexterity. NL Draw a card."
+    "NAME": "Changement de mode",
+    "DESCRIPTION": "Échangez votre Force et votre Dextérité. NL Draw a card.",
+    "UPGRADE_DESCRIPTION": "Retenue. NL Échangez votre Force et votre Dextérité. NL Piochez une carte."
   },
   "Guardian:PackageConstruct": {
-    "NAME": "Package: Construct",
-    "DESCRIPTION": "Add a Hammer Down, Omega Cannon, and Mode Shift to your hand. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Add a Hammer Down, Omega Cannon, and Mode Shift to your hand and Upgrade them. NL Épuisement."
+    "NAME": "Paquet : Construct",
+    "DESCRIPTION": "Ajoutez *Écrasement, *Canon *Oméga et *Changement *de *mode à votre main. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Ajoutez *Écrasement+, *Canon *Oméga+ et *Changement *de *mode+ à votre main. NL Épuisement."
   },
   "Guardian:PackageMass": {
-    "NAME": "Package: Mass",
+    "NAME": "Paquet : Mass",
     "DESCRIPTION": "Add a Mass of Spikes, Mass of Bombs, and Group Slam to your hand. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Add a Mass of Spikes, Mass of Bombs, and Group Slam to your hand and Upgrade them. NL Épuisement."
   },
   "Guardian:MassOfThorns": {
     "NAME": "Mass Of Spikes",
-    "DESCRIPTION": "Gain !M! temporary Thorns. NL Exhaust if you have Artifact."
+    "DESCRIPTION": "Gagnez !M! d'Épines temporaires. NL Épuisez cette carte si vous avez de l'Artéfact."
   },
   "Guardian:MassTimeBomb": {
     "NAME": "Mass Of Bombs",
-    "DESCRIPTION": "In each empty guardianmod:Stasis slot, place a Time Bomb there. NL Exhaust if this created 2 or more Time Bombs.",
-    "UPGRADE_DESCRIPTION": "In each empty guardianmod:Stasis slot, place an Upgraded Time Bomb there. NL Exhaust if this created 2 or more Time Bombs."
+    "DESCRIPTION": "Placez une *Bombe *temporelle dans chaque emplacement de guardianmod:Stase vide. NL Épuisez cette carte si elle crée plusieurs cartes à la fois.",
+    "UPGRADE_DESCRIPTION": "Placez une *Bombe *temporelle+ dans chaque emplacement de guardianmod:Stase vide. NL Épuisez cette carte si elle crée plusieurs cartes à la fois."
   },
   "Guardian:MassSlam": {
-    "NAME": "Group Slam",
-    "DESCRIPTION": "Deal !D! damage !M! times. NL Exhaust if you have 3 or more Strength."
+    "NAME": "Claque massive",
+    "DESCRIPTION": "Infligez !D! dégâts !M! fois. NL Épuisez cette carte si vous avez au moins 3 de Force."
   },
   "Guardian:GemstoneGunCard": {
     "NAME": "Fusil à gemmes",
@@ -438,12 +444,12 @@
     "UPGRADE_DESCRIPTION": " NL (Inflige !D! dégâts.)"
   },
   "Guardian:SecondStrike": {
-    "NAME": "Claque secondaire",
+    "NAME": "Deuxième claque",
     "DESCRIPTION": "Éthérée. NL Infligez !D! dégâts. NL Épuisement."
   },
   "Guardian:SecondStrikePreviewCard": {
-    "NAME": "Claque secondaire",
-    "DESCRIPTION": "Éthérée. NL Infligez !D! dégâts. NL Copie les *Gemmes de *Claque *Double. NL Épuisement."
+    "NAME": "Deuxième claque",
+    "DESCRIPTION": "Éthérée. NL Infligez !D! dégâts. NL Copie les *Gemmes de *Double *claque. NL Épuisement."
   },
   "Guardian:StrikeForStrike": {
     "NAME": "Frappe pour Frappe",

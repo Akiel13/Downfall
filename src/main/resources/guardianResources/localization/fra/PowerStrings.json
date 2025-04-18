@@ -17,12 +17,12 @@
   "Guardian:FloatingOrbsPower": {
     "NAME": "Orbes flottants",
     "DESCRIPTIONS": [
-      "Lorsque vous jouez une carte #yCoûtant #y0, infligez #b",
-      "dégâts à un ennemi aléatoire"
+      "Lorsque vous jouez une carte qui coûte #y0, infligez #b",
+      " dégâts à un ennemi aléatoire"
     ]
   },
   "Guardian:OrbwalkPower": {
-    "NAME": "Orbwalk",
+    "NAME": "Puissance orbitale",
     "DESCRIPTIONS": [
       "Gagnez #b",
       " de #yForce au début de chaque tour."
@@ -31,55 +31,56 @@
   "Guardian:ClonePower": {
     "NAME": "Détournement",
     "DESCRIPTIONS": [
-      "Placez la prochaine carte que vous jouez en #yStase.",
+      "Placez la prochaine carte que vous jouez ce tour en #yStase.",
       "Placez les #b",
-      " prochaines cartes que vous jouez en #yStase."
+      " prochaines cartes que vous jouez ce tour en #yStase."
     ]
   },
   "Guardian:GemFinderPower": {
     "NAME": "Détecteur de gemmes",
     "DESCRIPTIONS": [
-      "À la fin du combat, choisissez une #yGemme Commune à ajouter à votre deck.",
+      "À la fin du combat, choisissez une #yGemme à ajouter à votre deck.",
       "À la fin du combat, choisissez #b",
-      "#yGemmes Communes à ajouter à votre deck."
+      " #yGemmes à ajouter à votre deck."
     ]
   },
   "Guardian:FuturePlansPower": {
     "NAME": "Plans futurs",
     "DESCRIPTIONS": [
       "À la fin de votre tour, vous pouvez placer #b",
-      "carte en #yStase.",
-      "cartes en #yStase."
+      " carte de votre main en #yStase.",
+      " cartes de votre main en #yStase."
     ]
   },
   "Guardian:DefenseModePower": {
     "NAME": "Mode défensif",
     "DESCRIPTIONS": [
       "Le #yMode #ydéfensif restera actif pour #b",
-      " tours. Le #yMode #ydéfensif accorde #b",
-      " #yd'Épines, réduit les dégâts de #b25%, et accorde #b2 #yd'Armure quand vous jouez une carte."
+      " tours. Dans cette #yPose, vous avez #b",
+      " #yd'Épines, les dégâts que vous infligez sont réduits de #b25% [REMOVE_SPACE], et vous gagnez #b2 #yd'Armure quand vous jouez une carte."
     ]
   },
   "Guardian:ConstructModePower": {
     "NAME": "Mode constructif",
     "DESCRIPTIONS": [
-      "Au début de chaque tour, si vous avez au moins 1 Tampon, gagnez #b",
-      " de Force."
+      "Au début de chaque tour, si vous avez au moins #b",
+      " #yTampon [REMOVE_SPACE], gagnez #b",
+      " de #yForce [REMOVE_SPACE]."
     ]
   },
   "Guardian:MultiBoostPower": {
-    "NAME": "MultiBoost",
+    "NAME": "Multi-boost",
     "DESCRIPTIONS": [
-      "#yAttacks that deal damage multiple times do so an additional time.",
-      "#yAttacks that deal damage multiple times do so #b",
-      " additional times."
+      "Les #yAttaques qui infligent des dégâts plusieurs fois frappent leur cible #b1 fois de plus.",
+      "Les #yAttaques qui infligent des dégâts plusieurs fois frappent leur cible #b",
+      " fois de plus."
     ]
   },
   "Guardian:TargetedPower": {
-    "NAME": "Targeted",
+    "NAME": "Cible verrouillée",
     "DESCRIPTIONS": [
-      "Each time this enemy takes damage, gain #b",
-      " #yStrength for this turn."
+      "Chaque fois que cet ennemi subit des dégâts, gagnez #b",
+      " de #yForce jusqu'à la fin du tour."
     ]
   },
   "Guardian:LoseThornsPower": {
@@ -90,31 +91,31 @@
     ]
   },
   "Guardian:BeamBuffPower": {
-    "NAME": "Primed",
+    "NAME": "Surréfracté",
     "DESCRIPTIONS": [
-      "Beam cards deal #b",
-      " more damage."
+      "Les cartes de Laser infligent #b",
+      " dégâts supplémentaires."
     ]
   },
   "Guardian:DefensiveModeBuffsPower": {
-    "NAME": "Defensive Mode+",
+    "NAME": "Mode défensif+",
     "DESCRIPTIONS": [
-      "En supplément de ses effets normaux, le #yMode #yDéfensif appliquera: NL #b",
+      "Tant que vous êtes en #yMode #ydéfensif : Gagnez NL #b",
       " #yd'Épines.",
-      "de #yDextérité.",
+      " de #yDextérité.",
       " #yd'Armure à la fin de votre tour.",
       "#yÉpuisez la première carte #yStatut ou #yMalédiction piochée chaque tour.",
       "#yÉpuisez les #b",
       " premières cartes #yStatut ou #yMalédiction piochées chaque tour.",
-      "Gagnez #b",
-      " de #yForce pour chaque tour que le #yMode #yDéfensif a été actif lorsqu'il se termine."
+      "Lorsque vous quittez le #yMode #ydéfensif, gagnez #b",
+      " de #yForce pour chaque tour passé dans cette #yPose [REMOVE_SPACE]."
     ]
   },
   "Guardian:AutomayhemPower": {
     "NAME": "Tamis temporel",
     "DESCRIPTIONS": [
       "Au début de votre tour, #yAccélérez.",
-      "Au début de votre tour, #yAccélérez ",
+      "Au début de votre tour, #yAccélérez #b",
       " fois."
     ]
   },
@@ -122,30 +123,30 @@
     "NAME": "Construction antique",
     "DESCRIPTIONS": [
       "Gagnez #b",
-      " #yd'Artéfact ",
-      " au début de votre tour si vous n'avez pas #yd'Artéfact."
+      " #yd'Artéfact",
+      " au début de votre tour si vous n'avez pas #yd'Artéfact [REMOVE_SPACE]."
     ]
   },
   "Guardian:ModeShiftPower": {
     "NAME": "Changement de mode",
     "DESCRIPTIONS": [
       "Si vous perdez encore #b",
-      " PV, gagnez #b10 #yd'Armure, entrez en #yMode #yDéfensif jusqu'au prochain tour until, et augmentez le nombre de PV perdus requis pour déclencher cet effet de 10, pour un maximum de 50."
+      " PV, gagnez #b16 #yd'Armure, entrez en #yMode #yDéfensif jusqu'à la fin de votre prochain tour, et augmentez le nombre de PV perdus requis pour déclencher cet effet de #b10 [REMOVE_SPACE], pour un maximum de #b50 [REMOVE_SPACE]."
     ]
   },
   "Guardian:ExhaustStatusesPower": {
     "NAME": "Répulseur",
     "DESCRIPTIONS": [
-      "La première carte #yStatut ou #yMalédiction que vous piochez chaque tour sera #yÉpuisée, piochez une carte si cet effet se réalise.",
+      "La première fois que vous piochez carte #yStatut ou #yMalédiction chaque tour, #yÉpuisez-la et piochez une carte.",
       "Les #b",
-      "premières cartes #yStatut ou #yMalédiction que vous piochez chaque tour seront #yÉpuisées, piochez une carte à chaque fois que cet effet se réalise."
+      " premières fois que vous piochez une carte #yStatut ou #yMalédiction chaque tour, #yÉpuisez-la et piochez une carte."
     ]
   },
   "Guardian:RevengePower": {
-    "NAME": "Revanchard",
+    "NAME": "Protocole de vengeance",
     "DESCRIPTIONS": [
-      "Lorsque vous êtes en #yMode #yDéfensif augmentez votre #yForce de #b",
-      " ."
+      "Lorsque vous entrez en #yMode #yDéfensif [REMOVE_SPACE], gagnez #b",
+      " de #yForce [REMOVE_SPACE]."
     ]
   },
   "Guardian:StasisEnginePower": {
@@ -177,22 +178,22 @@
   "Guardian:EvasiveProtocolPower": {
     "NAME": "Protocole évasif",
     "DESCRIPTIONS": [
-      "Gagnez #b",
-      " de #yDextérité lorsque vous êtes en #yMode #yDéfensif."
+      "Lorsque vous entrez en #yMode #yDéfensif [REMOVE_SPACE], réduisez chacun de vos débuffs de #b",
+      " [REMOVE_SPACE]."
     ]
   },
   "Guardian:SpikerProtocolPower": {
     "NAME": "Protocole épineux",
     "DESCRIPTIONS": [
-      "Gagnez #b",
-      " #yd'Épines lorsque vous êtes en #yMode #yDéfensif."
+      "Lorsque vous entrez en #yMode #yDéfensif [REMOVE_SPACE], gagnez #b",
+      " #yd'Épines [REMOVE_SPACE]."
     ]
   },
   "Guardian:ArmoredProtocolPower": {
     "NAME": "Protocole blindé",
     "DESCRIPTIONS": [
-      "Gagnez #b",
-      " #yd'Armure à la fin de votre tour lorsque vous êtes en #yMode #yDéfensif."
+      "Si vous êtes en #yMode #yDéfensif [REMOVE_SPACE], gagnez #b",
+      " #yd'Armure à la fin de votre tour."
     ]
   },
   "Guardian:DontLeaveDefensiveModePower": {
@@ -207,7 +208,7 @@
     "NAME": "Renforcement",
     "DESCRIPTIONS": [
       "Au début de votre tour, #yRenforcez de #b",
-      " ."
+      " [REMOVE_SPACE]."
     ]
   }
 }

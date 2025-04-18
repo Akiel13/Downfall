@@ -10,7 +10,7 @@
       "socketed"
     ],
     "PROPER_NAME": "Cavité",
-    "DESCRIPTION": "Une Gemme peut être placée dans une Cavité dans un Site de Repos pour combiner les effets de la carte et les effets de la Gemme."
+    "DESCRIPTION": "Une Gemme peut être placée dans une Cavité à un Feu de camp pour combiner les effets de la carte et les effets de la Gemme."
   },
   {
     "NAMES": [
@@ -18,7 +18,7 @@
       "stase"
     ],
     "PROPER_NAME": "Stase",
-    "DESCRIPTION": "Une carte en #yStase gagne un compteur de tour égal à son coût plus #b1. NL Le compteur de tour est réduit de #b1 au début de votre tour. NL Lorsque le compteur atteint #b0, elle retourne dans votre main et coûte #b0 jusqu'à ce qu'elle soit jouée."
+    "DESCRIPTION": "Une carte en #yStase y reste pour un nombre de tours égal à son coût plus #b1. NL Lorsqu'elle sort de stase, elle retourne dans votre main et coûte #b0 jusqu'à ce qu'elle soit jouée."
   },
   {
     "NAMES": [
@@ -28,7 +28,7 @@
       "gems"
     ],
     "PROPER_NAME": "Gemme",
-    "DESCRIPTION": "Des #yGemmes peuvent être placées dans des #yCavités dans certaines cartes dans un site de Repos. Ne peut pas être #yAméliorée."
+    "DESCRIPTION": "Une #yGemme peuvt être placée dans une #yCavité de carte à un Feu de camp. Ne peut pas être #yAméliorée."
   },
   {
     "PROPER_NAME": "Mode défensif",
@@ -40,30 +40,32 @@
       "défensif",
       "defensive"
     ],
-    "DESCRIPTION": "#yPose. NL Lorsque vous êtes en Mode défensif , vous avez #b3 #yd'Épines, gagnez #b10 #yd'Armure au début de votre tour, et votre #yArmure n'expire pas."  },
+    "DESCRIPTION": "Quand vous entrez dans cette #yPosition [REMOVE_SPACE], gagnez #b16 d'Armure. Dans cette #yPosition [REMOVE_SPACE], vous avez #b3 #yd'Épines et votre #yArmure n'expire pas. Si vous terminez votre tour dans cette #yPosition [REMOVE_SPACE], quiitez-la au début de votre prochain tour."
+  },
   {
     "NAMES": [
       "accelerate",
       "accélérez"
     ],
     "PROPER_NAME": "Accélérer",
-    "DESCRIPTION": "Réduisez le compteur de tours de 1 de la carte la plus à droite en #yStase de #b1. Si le compteur de la carte est maintenant à #b0, remettez-la dans votre main. Elle coûte #b0 jusqu'à ce qu'elle soit jouée."
+    "DESCRIPTION": "Réduisez de #b1 le compteur de tours de la carte en #yStase la plus à droite."
   },
   {
     "NAMES": [
+      "paquet",
       "colis",
       "package",
       "packages"
     ],
-    "PROPER_NAME": "Colis",
-    "DESCRIPTION": "Une #yCompétence #ys'Épuisant qui génère trois cartes inspirées d'un Gardien de la Tour."
+    "PROPER_NAME": "Paquet",
+    "DESCRIPTION": "Une #yCompétence coûtant 0, avec #yÉpuisement, qui génère trois cartes inspirées d'un Androïde de la Tour."
   },
   {
     "NAMES": [
       "volatile"
     ],
     "PROPER_NAME": "Volatile",
-    "DESCRIPTION": "Lorsque cette carte quitte son état de #yStase, #yÉpuisez-la au lieu de la remettre dans votre main."
+    "DESCRIPTION": "Lorsque cette carte sort de #yStase, #yÉpuisez-la au lieu de la reprendre en main."
   },
   {
     "NAMES": [
@@ -71,7 +73,7 @@
       "tick"
     ],
     "PROPER_NAME": "Tic",
-    "DESCRIPTION": "Cet effet se déclenche lorsque le compteur de tours de la carte est réduit lorsqu'elle est en #yStase."
+    "DESCRIPTION": "Cet effet se déclenche lorsque le compteur de tours de cette carte en #yStase diminue."
   },
   {
     "NAMES": [
@@ -87,7 +89,7 @@
       "brace"
     ],
     "PROPER_NAME": "Renforcement",
-    "DESCRIPTION": "Réduisez la perte de PV nécessaire pour déclencher le Changement de mode de X, déclenchant le Changement de mode si la perte de PV nécessaire est maintenant à 0."
+    "DESCRIPTION": "Réduisez la perte de PV nécessaire pour déclencher le Changement de mode. Si elle atteint 0, passez immédiatement en #yMode #yDéfensif."
   },
   {
     "NAMES": [

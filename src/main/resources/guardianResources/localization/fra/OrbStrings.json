@@ -2,15 +2,15 @@
   "Guardian:EmptyStasisSlot": {
     "NAME": "Emplacement de Stase",
     "DESCRIPTION": [
-      "Des cartes peuvent être placées dans cet emplacement à travers la #yStase."
+      "Des cartes peuvent y être placées en #yStase [REMOVE_SPACE]."
     ]
   },
   "Guardian:StasisOrb": {
     "NAME": "Stase: ",
     "DESCRIPTION": [
-      " reviendra dans votre main et coûtera 0 au début de votre prochain tour.",
-      " reviendra dans votre main et coûtera 0 dans #b",
-      " tours.",
+      " reviendra dans votre main au début de votre prochain tour et coûtera 0 jusqu'à être jouée.",
+      " reviendra dans votre main dans #b",
+      " tours et coûtera 0 jusqu'à être jouée.",
       " #ys'Épuisera au début de votre prochain tour.",
       " #ys'Épuisera dans #b",
       " tours."
