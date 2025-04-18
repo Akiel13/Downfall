@@ -91,10 +91,10 @@
     ]
   },
   "Guardian:BeamBuffPower": {
-    "NAME": "Primed",
+    "NAME": "Surréfracté",
     "DESCRIPTIONS": [
-      "Beam cards deal #b",
-      " more damage."
+      "Les cartes de Laser infligent #b",
+      " dégâts supplémentaires."
     ]
   },
   "Guardian:DefensiveModeBuffsPower": {
