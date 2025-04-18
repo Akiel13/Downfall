@@ -55,7 +55,7 @@
     "DESCRIPTION": "Infligez !D! dégâts. NL Placez cette carte en guardianmod:Stase. NL guardianmod:Tic - Augmentez les dégâts de cette carte de !M!."
   },
   "Guardian:PolyBeam": {
-    "NAME": "Poly-laser",
+    "NAME": "Multilaser",
     "DESCRIPTION": "Infligez !D! dégâts à un ennemi aléatoire !M! fois."
   },
   "Guardian:TwinSlam": {
