@@ -1,8 +1,8 @@
 {
   "Guardian:EnhanceBonfireOptions": {
     "TEXT": [
-      "Optimiser",
-      "(Action gratuite) Placez une Gemme dans une Cavité ouverte.",
+      "Sertir",
+      "(Action gratuite) Placez une Gemme dans une Cavité vide.",
       "Requiert une Gemme et une Cavité ouverte.",
       "Sélectionnez une Gemme.",
       "Sélectionnez une Carte pour recevoir la Gemme."
@@ -12,7 +12,7 @@
     "TEXT": [
       "Choisissez une Carte à placer en Stase.",
       "Choisissez une Gemme.",
-      "Ajoutez une Gemme Commune à mettre dans votre deck",
+      "Ajoutez une Gemme à votre deck",
       "placer en Stase.",
       "~ERREUR:~ Impossible #rd'Attaquer en Mode Construction.",
       "~ERREUR:~ #rStase en cours.",
