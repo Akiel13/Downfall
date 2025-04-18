@@ -73,8 +73,8 @@
   },
   "expansioncontent:QuickStudy": {
     "NAME": "Étude rapide",
-    "DESCRIPTION": "Choisissez 1 carte de *Boss parmi 3. NL Ajoutez-la à votre main. NL Elle coûte 0 jusqu'à ce qu'elle soit jouée. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Choisissez 1 carte de *Boss Améliorée parmi 3. NL Ajoutez-la à votre main. NL Elle coûte 0 jusqu'à ce qu'elle soit jouée. NL Épuisement.",
+    "DESCRIPTION": "Choisissez 1 carte de *Boss parmi 3. NL Ajoutez-la à votre main. NL Elle coûte 0 jusqu'à être jouée. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Choisissez 1 carte de *Boss Améliorée parmi 3. NL Ajoutez-la à votre main. NL Elle coûte 0 jusqu'à être jouée. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
       "Choisissez une carte de Boss."
     ]
@@ -146,7 +146,7 @@
   },
   "expansioncontent:Flail": {
     "NAME": "Fléau",
-    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis !DM! times. NL Gain !M! Artifact. NL Épuisement.",
+    "DESCRIPTION": "Infligez !D! dégâts à TOUS les ennemis !DM! fois. NL Gagnez !M! d'Artéfact. NL Épuisement.",
     "EXTENDED_DESCRIPTION": [
       "masse",
       "Agitée"
@@ -163,55 +163,55 @@
   },
   "expansioncontent:SuperEtherStep": {
     "NAME": "Ether Step",
-    "DESCRIPTION": "Exhaust 1 card. NL Draw !M! card. NL Infligez !D! dégâts.",
-    "UPGRADE_DESCRIPTION": "Exhaust 1 card. NL Draw !M! cards. NL Infligez !D! dégâts."
+    "DESCRIPTION": "Épuisez une carte de votre main. NL Piochez !M! carte. NL Infligez !D! dégâts.",
+    "UPGRADE_DESCRIPTION": "Épuisez une carte de votre main. NL Piochez !M! cartes. NL Infligez !D! dégâts."
   },
 
   "expansioncontent:Virus": {
     "NAME": "Virus",
-    "DESCRIPTION": "Exhaust up to !M! cards, shuffle a *Major *Beam into the draw pile for each card exhausted. NL Épuisement."
+    "DESCRIPTION": "Épuisez jusqu'à !M! cartes de votre main. NL Mélangez autant de *Mégalaser dans votre pioche. NL Épuisement."
   },
 
   "expansioncontent:MajorBeam": {
-    "NAME": "Major Beam",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Draw !M! card.",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Draw !M! cards."
+    "NAME": "Mégalaser",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Piochez !M! carte.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Piochez !M! cartes."
   },
 
   "expansioncontent:ManipulateTime": {
     "NAME": "Afterthought",
-    "DESCRIPTION": "Put a card from your discard pile to the bottom of your draw pile. It costs 0 until played.",
-    "UPGRADE_DESCRIPTION": "Put a card from your discard pile to the bottom of your draw pile. It costs 0 this combat."
+    "DESCRIPTION": "Placez une carte de votre défausse sous votre pioche. Elle coûte 0 jusqu'à être jouée.",
+    "UPGRADE_DESCRIPTION": "Placez une carte de votre défausse sous votre pioche. Elle coût 0 jusqu'à la fin du combat."
   },
   "expansioncontent:Pandemonium": {
-    "NAME": "Pandemonium",
-    "DESCRIPTION": "At the start of your turn, play a random card in your discard pile."
+    "NAME": "Pandémonium",
+    "DESCRIPTION": "Au début de votre tour, jouez une carte aléatoire de votre défausse."
   },
   "expansioncontent:Reverie": {
-    "NAME": "Reverie",
-    "DESCRIPTION": "At the start of your turn, put one of the top !M! cards of your discard pile into your hand."
+    "NAME": "Rêverie",
+    "DESCRIPTION": "Au début de votre tour, reprenez en main une des !M! premières cartes de votre défausse."
   },
   "expansioncontent:ExploitVulnerability": {
-    "NAME": "Donu Beam",
-    "DESCRIPTION": "Remove all Block from the enemy, then gain that much Block. NL Infligez !D! dégâts twice."
+    "NAME": "Laser de Donu",
+    "DESCRIPTION": "Retirez toute l'armure de la cible, et gagnez autant d'Armure. NL Infligez !D! dégâts deux fois."
   },
   "expansioncontent:PeekPages": {
     "NAME": "Peek Pages",
-    "DESCRIPTION": "Shuffle !M! *Insights into your draw pile. NL Épuisement."
+    "DESCRIPTION": "Mélangez !M! *Intuitions dans votre pioche. NL Épuisement."
   },
   "expansioncontent:BloodBarrage": {
-    "NAME": "Blood Barrage",
-    "DESCRIPTION": "Infligez !D! dégâts !M! times. NL Épuisement."
+    "NAME": "Déluge de sang",
+    "DESCRIPTION": "Infligez !D! dégâts !M! fois. NL Épuisement."
   },
   "expansioncontent:DoubleAct": {
     "NAME": "Double Act",
-    "DESCRIPTION": "At the start of your next turn, draw cards and gain [E] an additional time. NL Épuisement."
+    "DESCRIPTION": "Au début de votre prochain tour, piochez des cartes et gagnez votre [E] une fois supplémentaire. NL Épuisement."
   },
   "expansioncontent:BloodySacrifice": {
     "NAME": "Bloody Sacrifice",
-    "DESCRIPTION": "Éthérée. NL Lose !M! % of your Max HP. NL Gain 1 Ritual. Épuisement.",
+    "DESCRIPTION": "Éthérée. NL Perdez !M! % de vos PV max. NL Gagnez 1 de Rituel. NL Épuisement.",
     "EXTENDED_DESCRIPTION":[
-      " NL (Lose {amount} Max HP. )"
+      " NL (Perdez {amount} PV max.)"
     ]
   }
 }
