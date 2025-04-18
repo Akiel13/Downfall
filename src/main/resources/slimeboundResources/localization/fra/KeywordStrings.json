@@ -9,7 +9,7 @@
       "absorbed"
     ],
     "PROPER_NAME": "Absorber",
-    "DESCRIPTION": "Recombinez-vous avec votre #ySlime en tête, vous donnant 1 de #yForce."
+    "DESCRIPTION": "Se recombiner avec votre #ySlime en tête, ce qui vous donne 1 de #yForce."
   },
   {
     "NAMES": [
@@ -26,10 +26,12 @@
       "goop",
       "goopé",
       "goop",
-      "gooped"
+      "gooped",
+      "morve",
+      "bave"
     ],
-    "PROPER_NAME": "Goop",
-    "DESCRIPTION": "La prochaine attaque inflige #b1 dégât de plus par #yGoop, retirant alors tout le #yGoop et déclenchant les effets de #yConsumation."
+    "PROPER_NAME": "Bave",
+    "DESCRIPTION": "Lorsqu'une créature subit une attaque, les dégâts qu'elle reçoit sont augmentés de sa quantité de #yBave [REMOVE_SPACE], retirant alors toute sa #yBave et déclenchant les effets de #yConsommation."
   },
   {
     "NAMES": [
@@ -37,7 +39,7 @@
       "potentiel"
     ],
     "PROPER_NAME": "Potentiel",
-    "DESCRIPTION": "Augmente les dégâts qu'infligent vos #ySlimes. Leurs effets secondaires sont augmentés de la moitié de votre Potentiel."
+    "DESCRIPTION": "Augmente les dégâts qu'infligent vos #ySlimes. Leurs effets secondaires sont augmentés de la moitié de votre Potentiel (arrondie au supérieur)."
   },
   {
     "NAMES": [
@@ -74,7 +76,7 @@
       "bruiser"
     ],
     "PROPER_NAME": "Slime cogneur",
-    "DESCRIPTION": "Inflige #b5 dégâts chaque tour."
+    "DESCRIPTION": "Inflige #b3 dégâts deux fois, chaque tour."
   },
   {
     "NAMES": [
@@ -132,7 +134,7 @@
       "mire"
     ],
     "PROPER_NAME": "Slime bourbier",
-    "DESCRIPTION": "Inflige #b2 dégâts et applique #b2 de #yGoop chaque tour."
+    "DESCRIPTION": "Inflige #b2 dégâts et applique #b2 de #yBave chaque tour."
   },
   {
     "NAMES": [
@@ -150,7 +152,7 @@
       "lick"
     ],
     "PROPER_NAME": "Léchouille",
-    "DESCRIPTION": "Des cartes qui coûtent 0 et appliquent du #yGoop avec une varitété d'effets secondaires."
+    "DESCRIPTION": "Des cartes qui coûtent 0 et appliquent de la #yBave avec une varitété d'effets secondaires."
   },
   {
     "NAMES": [
@@ -160,14 +162,14 @@
       "ghostflame_slime"
     ],
     "PROPER_NAME": "Slime follet",
-    "DESCRIPTION": "Inflige #b3 dégâts et applique #b5 de #yBrûlure chaque tour."
+    "DESCRIPTION": "Inflige #b3 dégâts et applique #b6 de #yBrûlure chaque tour."
   },
   {
     "NAMES": [
       "morphez",
       "morph"
     ],
-    "PROPER_NAME": "Morpher",
+    "PROPER_NAME": "Muter",
     "DESCRIPTION": "Remplacez cette carte avec une carte aléatoire de votre classe, peu importe son type. Elle coûte #b1 énergie de moins."
   },
   {
@@ -176,7 +178,7 @@
       "slow"
     ],
     "PROPER_NAME": "Ralenti",
-    "DESCRIPTION": "Une créature ralentie reçoit #b10% de dégâts en plus par carte jouée dans un tour."
+    "DESCRIPTION": "Une créature ralentie reçoit #b10% de dégâts en plus par carte jouée ce tour."
   },
   {
     "NAMES": [
@@ -226,7 +228,7 @@
       "darkling_slime"
     ],
     "PROPER_NAME": "Slime ténébreux",
-    "DESCRIPTION": "Inflige #b3 dégâts chaque tour. Quand Commandé, les autres Slimes Ténébreux attaquent également."
+    "DESCRIPTION": "Inflige #b3 dégâts chaque tour. Quand vous Commandez, attaque même si ce n'est pas votre Slime en tête."
   },
   {
     "NAMES": [
@@ -251,10 +253,11 @@
   {
     "NAMES": [
       "consumez",
-      "consume"
+      "consume",
+      "consommez"
     ],
-    "PROPER_NAME": "Consumer",
-    "DESCRIPTION": "Effet bonus qui s'active quand une #yAttaque est utilisée sur un ennemi qui a du #yGoop."
+    "PROPER_NAME": "Consommation",
+    "DESCRIPTION": "Effet bonus qui s'active quand une #yAttaque est utilisée sur un ennemi qui a de la #Bave [REMOVE_SPACE]."
   },
   {
     "NAMES": [
@@ -264,14 +267,14 @@
       "specialist"
     ],
     "PROPER_NAME": "Spécialiste",
-    "DESCRIPTION": "Un slime unique avec des effets plus puissants que les slimes normaux."
+    "DESCRIPTION": "Un slime particulier avec des effets plus puissants que les slimes normaux."
   },
   {
     "NAMES": [
       "enterrée",
       "buried"
     ],
-    "PROPER_NAME": "Enterré",
+    "PROPER_NAME": "Enterrée",
     "DESCRIPTION": "Les cartes Enterrées seront toujours choisies en dernier pour les effets #yd'Exhumation aléatoires."
   }
 ]
