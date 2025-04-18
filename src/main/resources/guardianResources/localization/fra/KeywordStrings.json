@@ -40,7 +40,7 @@
       "défensif",
       "defensive"
     ],
-    "DESCRIPTION": "Gagnez #b16 d'Armure quand vous entrez dans cette #yPose. Tant que vous êtes en Mode défensif, vous avez #b3 #yd'Épines et votre #yArmure n'expire pas."
+    "DESCRIPTION": "Quand vous entrez dans cette #yPosition, gagnez #b16 d'Armure. Dans cette #yPosition [REMOVE_SPACE], vous avez #b3 #yd'Épines et votre #yArmure n'expire pas."
   },
   {
     "NAMES": [
@@ -89,7 +89,7 @@
       "brace"
     ],
     "PROPER_NAME": "Renforcement",
-    "DESCRIPTION": "Réduisez la perte de PV nécessaire pour déclencher le Changement de mode de X, déclenchant le Changement de mode si la perte de PV nécessaire est maintenant à 0."
+    "DESCRIPTION": "Réduisez la perte de PV nécessaire pour déclencher le Changement de mode. Passez immédiatement en Mode Défensif si elle atteint 0."
   },
   {
     "NAMES": [
