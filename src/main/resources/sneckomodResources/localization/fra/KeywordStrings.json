@@ -5,7 +5,24 @@
       "gekoproof",
       "snekproof"
     ],
-    "DESCRIPTION": "Les cartes Gekoproof ne sont pas affectées par la #yConfusion et ne peuvent pas être #yConfondues."
+    "DESCRIPTION": "Les cartes Gekoproof ne sont pas affectées par la #yConfusion et ne peuvent pas être #yConfondues [REMOVE_SPACE]."
+  },
+  {
+  "PROPER_NAME": "Suit",
+  "NAMES": [
+  "suit",
+  "suits"
+],
+  "DESCRIPTION": "Suits refer to card's color. Token cards do not count as Suits. NOTE FOR LOC: NOT USED DO NOT TRANSLATE."
+  },
+  {
+    "PROPER_NAME": "Dépassement",
+    "NAMES": [
+      "Overflow", 
+      "dépassement",
+      "overflow"
+    ],
+    "DESCRIPTION": "Les effets de Dépassement ne s'activent que si vous avez au moins #b6 cartes en main."
   },
   {
     "PROPER_NAME": "Confondre",
@@ -27,6 +44,14 @@
     "DESCRIPTION": "Une carte Hors-classe est n'importe quelle carte obtensible d'une classe autre que la vôtre (y compris les cartes Incolores, les Malédictions et les Statuts)."
   },
   {
+    "PROPER_NAME": "Cadeau",
+    "NAMES": [
+      "gift",
+      "cadeau"
+    ],
+    "DESCRIPTION": "Lorsque vous obtenez cette carte, gagnez une récompense supplémentaire du type indiqué."
+  },
+  {
     "PROPER_NAME": "Identification",
     "NAMES": [
       "identifiez-la",
@@ -36,12 +61,20 @@
     "DESCRIPTION": "Remplace une carte #yInconnue par sa carte aléatoire actuelle de façon permanente."
   },
   {
+    "PROPER_NAME": "Venin",
+    "NAMES": [
+      "venom",
+      "venin"
+    ],
+    "DESCRIPTION": "Une créature avec du #yVenin perd des PV chaque fois qu'elle subit un autre débuff."
+  },
+  {
     "PROPER_NAME": "Chanceux",
     "NAMES": [
       "lucky",
       "Chanceux",
       "chanceux"
     ],
-    "DESCRIPTION": "Les cartes qui génèrent un nombre aléatoire pour leurs effets choisissent le nombre maximal possible. (N'affecte pas l'action de Confondre)"
+    "DESCRIPTION": "Ce tour, les effets de Dépassement s'activent peu importe votre nombre de cartes en main."
   }
 ]
