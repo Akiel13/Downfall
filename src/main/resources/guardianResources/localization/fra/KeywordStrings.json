@@ -52,12 +52,13 @@
   },
   {
     "NAMES": [
+      "paquet",
       "colis",
       "package",
       "packages"
     ],
-    "PROPER_NAME": "Colis",
-    "DESCRIPTION": "Une #yCompétence coûtant 0, avec #yÉpuisement, qui génère trois cartes inspirées d'un Gardien de la Tour."
+    "PROPER_NAME": "Paquet",
+    "DESCRIPTION": "Une #yCompétence coûtant 0, avec #yÉpuisement, qui génère trois cartes inspirées d'un Androïde de la Tour."
   },
   {
     "NAMES": [
