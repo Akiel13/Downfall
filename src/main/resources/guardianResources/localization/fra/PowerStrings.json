@@ -178,8 +178,8 @@
   "Guardian:EvasiveProtocolPower": {
     "NAME": "Protocole évasif",
     "DESCRIPTIONS": [
-      "Réduisez vos débuffs de #b",
-      " lorsque vous entrez en #yMode #yDéfensif."
+      "Lorsque vous entrez en #yMode #yDéfensif [REMOVE_SPACE], réduisez chacun de vos débuffs de #b",
+      " [REMOVE_SPACE]."
     ]
   },
   "Guardian:SpikerProtocolPower": {
