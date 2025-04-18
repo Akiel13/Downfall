@@ -3,7 +3,7 @@
     "NAME": "Cœur de gelée",
     "FLAVOR": "Je me sens si funky.",
     "DESCRIPTIONS": [
-      "Lorsque vous #yslimeboundmod:Consumez, soignez-vous de #b2 PV, jusqu'à #b8 par combat."
+      "Lorsque vous #yslimeboundmod:Consommez [REMOVE_SPACE], soignez-vous de #b2 PV, jusqu'à #b8 par combat."
     ]
   },
   "Slimebound:AbsorbEndCombatUpgraded": {
@@ -11,36 +11,36 @@
     "FLAVOR": "Le secret de la Vase.",
     "DESCRIPTIONS": [
       "Remplace ",
-      ".[] NL Lorsque vous #yslimeboundmod:Consumez, soignez-vous de #b3 PV, jusqu'à #b15 par combat."
+      ".[] NL Lorsque vous #yslimeboundmod:Consommez [REMOVE_SPACE], soignez-vous de #b3 PV, jusqu'à #b15 par combat."
     ]
   },
   "Slimebound:SlimedTailRelic": {
     "NAME": "Queue de slime",
-    "FLAVOR": "Une fausse queue pour feinter les ennemis durant le combat, totalement recouverte de slime.",
+    "FLAVOR": "Une fausse queue pour feinter les ennemis durant le combat, totalement recouverte de gélatine.",
     "DESCRIPTIONS": [
-      "Lorsque vous vous slimeboundmod:Divisez, gagnez #b",
-      " #yd'Armure."
+      "Lorsque vous vous slimeboundmod:Divisez [REMOVE_SPACE], gagnez #b",
+      " #yd'Armure [REMOVE_SPACE]."
     ]
   },
   "Slimebound:PotencyRelic": {
     "NAME": "Pierre de Nomakk",
-    "FLAVOR": "Quand elle est présentée à un de vos sbires gluants, elle semble faire danser celui-ci.*.",
+    "FLAVOR": "Quand elle est présentée à un de vos sbires gluants, elle semble le faire danser.",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, gagnez #b1 de #yslimeboundmod:Potentiel."
+      "Au début de chaque combat, gagnez #b1 de #yslimeboundmod:Potentiel [REMOVE_SPACE]."
     ]
   },
   "Slimebound:DailySplitRelic": {
     "NAME": "Slime the Spire",
-    "FLAVOR": "TOUJOURS se diviser.  Pourquoi c'est une relique? Parce que je n'arrive pas à trouver comment ajouter le mod personnalisé à la liste des mods actifs de l'UI!",
+    "FLAVOR": "TOUJOURS se diviser. Pourquoi c'est une relique? Parce que je n'arrive pas à trouver comment ajouter le mod personnalisé à la liste des mods actifs de l'UI!",
     "DESCRIPTIONS": [
-      "#bModificateur #bde #bRun #bCustomisé NL Tous les ennemis forment deux ennemis Slime à moins de #b50% de PV."
+      "#bModificateur #bde #bRun #bCustomisé NL Tous les ennemis se scindent en deux Slimes à moins de #b50% de PV."
     ]
   },
   "Slimebound:ScrapOozeRelic": {
     "NAME": "Slime ferrailleux",
     "FLAVOR": "",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, faites apparaître le #ySlime #yferrailleux. Il est ranimable si #yAbsorbé. NL Aux feux de camp, vous pouvez donner une carte au Slime ferrailleux, modifiant ses dégâts : NL #b+1 dégât pour les #gPeu #gcommunes NL #b+2 dégâts pour les #yRares NL #b-1 dégât pour les Communes NL #b-2 dégâts pour les #rMalédictions",
+      "Commencez chaque combat avec le #ySlime #yferrailleux [REMOVE_SPACE]. Il est ranimable si #yAbsorbé [REMOVE_SPACE]. NL Aux feux de camp, vous pouvez donner une carte au Slime ferrailleux, modifiant ses dégâts : NL #b+1 dégât pour les #gPeu #gcommunes NL #b+2 dégâts pour les #yRares NL #b-1 dégât pour les Communes NL #b-2 dégâts pour les #rMalédictions",
       "Retirez une carte de votre deck et modifiez les dégâts du Slime ferrailleux.",
       "Rien à donner au Slime ferrailleux.",
       "Donner au Ferrailleux"
@@ -50,29 +50,29 @@
     "NAME": "Slime cupide",
     "FLAVOR": "Un ami trouvé dans la Tour qui adore les âmes et l'or.",
     "DESCRIPTIONS": [
-      "Au début du combat, faites apparaître le #ySlime #ycupide. Il est ranimable si #yAbsorbé. NL Aux feux de camp, le #ySlime #ycupide vous prendra #b50 de vos âmes, augmentant ses dégâts de #b1."
+      "Commencez chaque combat avec le #ySlime #ycupide [REMOVE_SPACE]. Il est ranimable si #yAbsorbé [REMOVE_SPACE]. NL Aux feux de camp, le #ySlime #ycupide vous prendra #b50 de vos âmes, augmentant ses dégâts de #b1 [REMOVE_SPACE]."
     ]
   },
   "Slimebound:PreparedRelic": {
     "NAME": "Soupe de slime",
     "FLAVOR": "Elle a un goût horrible, mais elle est incroyablement bonne pour la santé.",
     "DESCRIPTIONS": [
-      "Lorsque vous accédez à un feu de camp, commencez le prochain combat avec une carte #yPréparation qui coûte #b0."
+      "Lorsque vous accédez à un feu de camp, commencez le prochain combat avec une #yPréparation qui coûte #b0 [REMOVE_SPACE]."
     ]
   },
   "Slimebound:AggressiveSlimeRelic": {
     "NAME": "Squatteur visqueux",
     "FLAVOR": "Il m'a suivi jusqu'à la maison. Je peux le garder ?",
     "DESCRIPTIONS": [
-      "Au début de chaque combat, #yslimeboundmod:Divisez-vous en #yslimeboundmod:Slime_cogneur."
+      "Au début de chaque combat, #yslimeboundmod:Divisez-vous en #ySlime #yslimeboundmod:cogneur [REMOVE_SPACE]."
     ]
   },
   "Slimebound:SlimedSkullRelic": {
     "NAME": "Crâne gluant",
     "FLAVOR": "Un crâne de Geckobra dans un état absolument épouvantable. Dégoûtant et gluant, la saleté et la crasse s'y accrochent comme de la colle.",
     "DESCRIPTIONS": [
-      "Lorsque vous appliquez du #yslimeboundmod:Goop, appliquez #b",
-      " de #yslimeboundmod:Goop supplémentaire."
+      "Lorsque vous appliquez de la #yslimeboundmod:Bave [REMOVE_SPACE], appliquez #b",
+      " de #yslimeboundmod:Bave supplémentaire."
     ]
   },
   "Slimebound:MaxSlimesRelic": {
@@ -100,7 +100,7 @@
     "NAME": "Cube gélatineux",
     "FLAVOR": "Hé, ça s'est collé à ton corps.",
     "DESCRIPTIONS": [
-      "Lorsque vous piochez une carte #yStatut, piochez #b1 carte."
+      "Les deux premières que vous piochez une carte #yStatut ou #yMalédiction chaque tour, piochez #b1 carte. Si c'était un #yNéant, gagnez [E] [REMOVE_SPACE]."
     ]
   }
 }
