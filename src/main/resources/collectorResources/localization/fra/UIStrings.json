@@ -1,12 +1,12 @@
 {
   "collector:CollectionReward": {
     "TEXT": [
-      "Choisissez une carte à collectez."
+      "Choisissez une carte à collecter."
     ]
   },
   "collector:CollectibleCardTab": {
     "TEXT": [
-      "Objet de collection"
+      "Collectionnable"
     ]
   },
   "collector:CollectionScreen": {
@@ -24,15 +24,15 @@
   },
   "collector:CombatCollectionPileButton": {
     "TEXT": [
-      "Pile de collection",
-      "Contient les cartes collectées que vous n'avez pas encore piochées pour ce combat.. Vous piochez une carte au début de chaque tour.",
-      "Je n'ai aucune carte collectée!"
+      "Pile de Collection",
+      "Contient les cartes collectionnées que vous n'avez pas encore piochées pour ce combat. Vous piochez une carte au début de chaque tour.",
+      "Je n'ai aucune carte collectionnée!"
     ]
   },
   "collector:EssenceCount": {
     "TEXT": [
       "Essences",
-      "Dépensez des essences pour ajouter des cartes à votre collection. Les salle de combat donne #b1 #yEssence. Les Élites donne #b2 #yEssence, les boss en donne #b3! NL Vous avez #b",
+      "Dépensez des essences pour ajouter des cartes à votre collection. Un combat normal donne #b1 #yEssence. Les Élites donnent #b2 #yEssence, les boss en donnent #b3! NL Vous avez #b",
       " Essences."
     ]
   },
@@ -44,19 +44,19 @@
   "collector:PyreInfo": {
     "TEXT": [
       "Bûcher",
-      "Pour jouer cette carte, payez le coût supplémentaire des cartes a Épuisement de votre main.."
+      "Pour jouer cette carte, vous devez Épuiser une autre carte de votre main."
     ]
   },
   "collector:CollectedCardMod": {
     "TEXT": [
       "collecteur:MegaÉthérée. NL ",
-      "Collecté"
+      "Collectionnée"
     ]
   },
   "collector:CollectibleCardReward": {
     "TEXT": [
-      "Collecté: ",
-      "Vous pouvez obtenir ceci"
+      "Collectionnée : ",
+      "Vous pouvez obtenir cette carte"
     ]
   },
   "collector:HoardedMod": {
@@ -69,26 +69,26 @@
   "collector:SecondEnergyOrb": {
     "TEXT": [
       "Réserves",
-      "Un type spécial d'énergie qui persiste à travers les tours."
+      "Un type spécial d'énergie qui persiste au fil des tours."
     ]
   },
   "collector:PyreCostSpendScreen": {
     "TEXT": [
-      "Epuiser pour le Bûcher."
+      "Choisissez une carte à Épuiser pour le Bûcher."
     ]
   },
   "collector:PyreModText": {
     "TEXT": [
-      "Je n'ai pas de carte à Épuiser!"
+      "Je n'ai pas de carte à Épuiser !"
     ]
   },
   "collector:StashAwayCampfireOption": {
     "TEXT": [
       "Libérer",
-      "Enlevez une carte collecté. Gagnez ",
-      " Ames.",
-      "Nécessite une carte collectée.",
-      "Sélectionnez une carte collectée à enlevez."
+      "Retirez une carte de votre Collection. Gagnez ",
+      " Âmes.",
+      "Nécessite une carte collectionnée.",
+      "Choisissez une carte à retirer de votre Collection."
     ]
   },
   "collector:BonusEventOption": {
@@ -104,7 +104,7 @@
   },
   "collector:CharacterOption": {
     "TEXT": [
-      "Essences: "
+      "Essences : "
     ]
   }
 }
