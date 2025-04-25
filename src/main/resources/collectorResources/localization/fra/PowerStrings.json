@@ -2,23 +2,23 @@
   "collector:AddCopyNextTurn": {
     "NAME": "Gagner une carte",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoute ",
-      " dans votre main."
+      "Au début de votre tour, ajoutez ",
+      " à votre main."
     ]
   },
   "collector:BindingCall": {
     "NAME": "Appel contraignant",
     "DESCRIPTIONS": [
-      "Chaque fois que vous perdez tout vos #yPV #ytemporaire, applique #b de",
-      " #yMalédiction a TOUS les enemies.",
+      "Lorsque vous perdez votre dernier #yPV_#ytemporaire, appliquez #b",
+      " de #yMalédiction à TOUS les enemies.",
       "Translator Note: NOT USED"
     ]
   },
   "collector:CantTouchThis": {
     "NAME": "Intouchable",
     "DESCRIPTIONS": [
-      "Chaque fois que vous bloquez entièrement une attaque, applique #b de",
-      " #yMalédiction a l'attaquent."
+      "Lorsque vous bloquez entièrement une attaque, appliquez #b",
+      " de #yMalédiction a l'attaquent."
     ]
   },
   "collector:Crackle": {
@@ -32,53 +32,53 @@
   "collector:DarkLordForm": {
     "NAME": "Forme du Seigneur des Ténèbres",
     "DESCRIPTIONS": [
-      "Au début de votre tour, joue #yTu #yEst #yMien a un ennemi aléatoire.",
-      "Au début de votre tour, joue #b",
-      " copie de #yTu #yEst #yMien a un ennemi aléatoire."
+      "Au début de votre tour, jouez une copie de #yVous #yêtes #à #ymoi [REMOVE_SPACE].",
+      "Au début de votre tour, jouez #b",
+      " copies de #yVous #yêtes #à #ymoi [REMOVE_SPACE]."
     ]
   },
   "collector:DarkLordFormPlus": {
     "NAME": "Forme du Seigneur des Ténèbres+",
     "DESCRIPTIONS": [
-      "Au début de votre tour, joue #yTu #yEst #yMien+ a un ennemi aléatoire.",
-      "Au début de votre tour, joue #b",
-      " copie de #yTu #yEst #yMien+ a un ennemi aléatoire."
+      "Au début de votre tour, jouez une copie de #yVous #yêtes #à #ymoi+ [REMOVE_SPACE].",
+      "Au début de votre tour, jouez #b",
+      " copies de #yVous #yêtes #à #ymoi+ [REMOVE_SPACE]."
     ]
   },
   "collector:DoMayhem": {
-    "NAME": "Faire du chaos",
+    "NAME": "Provoquer le chaos",
     "DESCRIPTIONS": [
-      "Au début de votre tour, si un ennemi a #b",
-      " ou plus de #yMalédiction, vous jouez la carte au sommet de votre pioche.",
-      " ou plus de #yMalédiction, vous jouez les #b",
-      " cartes du sommet de votre pioche."
+      "Au début de votre tour, si un ennemi a au moins #b",
+      " de #yMalédiction, jouez la première carte votre pioche.",
+      " de #yMalédiction, jouez les #b",
+      " premières cartes de votre pioche."
     ]
   },
   "collector:Doom": {
     "NAME": "Malédiction",
     "DESCRIPTIONS": [
-      "Perds #b",
-      " PV au début de sont tour, Retirez toutes les #yMalédiction sauf si il est #yAffligé."
+      "Cette créature perd #b",
+      " PV au début de sont tour, puis, si elle n'est pas #yAffligée [REMOVE_SPACE], toute sa #yMalédiction se dissipe."
     ]
   },
   "collector:DoublePlayCollectibles": {
-    "NAME": "Objets de collection multi-utilisation",
+    "NAME": "Collection multi-usages",
     "DESCRIPTIONS": [
-      "Les cartes collecté sont jouez 2 fois.",
-      "Les cartes collecté sont jouez #b",
+      "Les cartes de votre Collection sont jouées #b1 fois de plus.",
+      "Les cartes de votre Collection sont jouées #b",
       " fois de plus."
     ]
   },
   "collector:DemisePower": {
     "NAME": "Décès inévitable",
     "DESCRIPTIONS": [
-      "Préviens la prochaine fois que la #yMalédiction de l'ennemi se retire.",
-      "Préviens les #b prochaine",
-      " fois que la #yMalédiction de l'ennemi se retire."
+      "La prochaine fois que cette créature devrait perdre sa #yMalédiction [REMOVE_SPACE], elle ne la perd pas.",
+      "Les #b",
+      " prochaines fois que cette créature devrait perdre sa #yMalédiction [REMOVE_SPACE], elle ne la perd pas."
     ]
   },
   "collector:FeelMyPain": {
-    "NAME": "Ressentir ma douleur",
+    "NAME": "Faire sentir la douleur",
     "DESCRIPTIONS": [
       "Chaque fois que vous #yÉpuisez une carte, un ennemi aléatoire perd #b",
       " PV."
@@ -87,8 +87,8 @@
   "collector:HealIfDieThisTurn": {
     "NAME": "Finalisé",
     "DESCRIPTIONS": [
-      "Quand ",
-      " meurts, soigne #b",
+      "Lorsque ",
+      " meurt, soignez-vous de #b",
       " PV."
     ]
   },
@@ -96,128 +96,128 @@
     "NAME": "Karma",
     "DESCRIPTIONS": [
       "A la fin de votre tour, si un ennemi est #yAffligé [REMOVE_SPACE], gagnez #b",
-      " #yd'Armure."
+      " #yd'Armure [REMOVE_SPACE]."
     ]
   },
   "collector:NextAttackAppliesDoom": {
     "NAME": "Attaque maudite",
     "DESCRIPTIONS": [
-      "Votre prochaine attaque durent se tour applique #b",
-      " #yMalédiction."
+      "Ce tour, votre prochaine attaque applique #b",
+      " de #yMalédiction [REMOVE_SPACE]."
     ]
   },
   "collector:AttacksApplyDoomPower": {
-    "NAME": "Attaques maudite",
+    "NAME": "Attaques maudites",
     "DESCRIPTIONS": [
-      "Vos attaque durent se tour applique #b",
-      " #yMalédiction."
+      "Ce tour, vos attaques appliquent #b",
+      " de #yMalédiction [REMOVE_SPACE]."
     ]
   },
   "collector:NextCollectedTwice": {
-    "NAME": "Doublez",
+    "NAME": "Double exemplaire",
     "DESCRIPTIONS": [
-      "Votre prochaine carte collecté durent se tour et jouez 2 fois.",
-      "Vos prochaine #b",
-      " carte collecté durent se tour sont jouez 2 fois."
+      "Ce tour, votre prochaine carte de Collection est jouée deux fois.",
+      "Ce tour, vos #b",
+      " prochaines cartes de Collection sont jouées deux fois."
     ]
   },
   "collector:NextTurnReserve": {
     "NAME": "Réserve du prochain tour",
     "DESCRIPTIONS": [
-      "Au début de votre prochain tour, gagnez #b1 #yRéserve.",
+      "Au début de votre prochain tour, gagnez #b1 #yRéserve [REMOVE_SPACE].",
       "Au début de votre prochain tour, gagnez #b",
-      " #yRéserves."
+      " #yRéserves [REMOVE_SPACE]."
     ]
   },
   "collector:Omen": {
     "NAME": "Présage",
     "DESCRIPTIONS": [
-      "Chaque fois que vous jouez une carte #yCollecté, gagnez #b",
-      " #yForce."
+      "Chaque fois que vous jouez une carte de #yCollection, gagnez #b",
+      " de #yForce [REMOVE_SPACE]."
     ]
   },
   "collector:ProtectingCall": {
     "NAME": "Appel de protection",
     "DESCRIPTIONS": [
-      "Au début de votre tour, si vous avez des #yPV #ytemporaire, gagnez #b",
-      " #yd'Armure.",
+      "Au début de votre tour, si vous avez des #yPV #ytemporaires [REMOVE_SPACE], gagnez #b",
+      " #yd'Armure [REMOVE_SPACE].",
       "Translator Note: NOT USED"
     ]
   },
   "collector:RagingCall": {
     "NAME": "Appel enragé",
     "DESCRIPTIONS": [
-      "A la fin de votre tour, si vous avez des #yPV #ytemporaire, infligez #b",
-      " dégats a TOUS les ennemis.",
+      "A la fin de votre tour, si vous avez des #yPV #ytemporaires, infligez #b",
+      " dégâts à TOUS les ennemis.",
       "Translator Note: NOT USED"
     ]
   },
   "collector:Reserve": {
     "NAME": "Réserves",
     "DESCRIPTIONS": [
-      "Vous avez #b1 #yRéserve.",
+      "Vous avez #b1 #yRéserve [REMOVE_SPACE].",
       "Vous avez #b",
-      " #yRéserves."
+      " #yRéserves [REMOVE_SPACE]."
     ]
   },
   "collector:Soulforge": {
     "NAME": "Forgeâme",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoute #b1 #yCharbon a votre main.",
-      "Au début de votre tour, ajoute #b",
-      " #yCharbons a votre main."
+      "Au début de votre tour, ajoutez #b1 #yCharbon à votre main.",
+      "Au début de votre tour, ajoutez #b",
+      " #yCharbons à votre main."
     ]
   },
   "collector:StrengthOverTurns": {
-    "NAME": "Potentiel",
+    "NAME": "Gain de puissance",
     "DESCRIPTIONS": [
-      "Au début de votre tour, gagnez #b",
-      " #yForce.",
+      "Au début de votre prochain tour, gagnez #b",
+      " de #yForce [REMOVE_SPACE].",
       "Au début de vos #b",
-      " tours, gagnez #b"
+      " prochains tours, gagnez #b"
     ]
   },
   "collector:Suffering": {
     "NAME": "Souffrance",
     "DESCRIPTIONS": [
-      "Chaque fois que vous appliquez #yFaiblesse or #yVulnérable, appliquez aussi #b",
-      " #yMalédiction."
+      "Lorsque vous appliquez de la #yFaiblesse ou de la #yVulnérabilité [REMOVE_SPACE], appliquez aussi #b",
+      " de #yMalédiction."
     ]
   },
   "collector:TorchHead": {
     "NAME": "Tête de torche",
     "DESCRIPTIONS": [
-      "Chaque fois que vous jouez une #yAttaque, si vous avez des #yPV #ytemporaire, Tête de torche: NL ",
+      "Chaque fois que vous jouez une #yAttaque, si vous avez des #yPV #ytemporaires [REMOVE_SPACE], la Tête de torche : NL ",
       "Applique #b",
-      " #yMalédiction a un ennemi aléatoire.",
-      "Infliges #b",
-      " dégats a TOUS les ennemis.",
+      " de #yMalédiction à un ennemi aléatoire.",
+      "Inflige #b",
+      " dégâts à TOUS les ennemis.",
       "Vous accorde #b",
       " #yd'Armure.",
-      " #yPoison a un ennemi aléatoire.",
-      "Vous pioche #b",
+      " de #yPoison à un ennemi aléatoire.",
+      "Vous fait piocher #b",
       " carte.",
       " cartes."
     ]
   },
   "collector:IncreasedCollectionDraw": {
-    "NAME": "Augmentation de la pile de collection",
+    "NAME": "Fouiller la Collection",
     "DESCRIPTIONS": [
-      "Piochez #b1 carte collecté additionnel.",
-      "Piochez #b",
-      " cartes collectées additionnel."
+      "Au début de votre tour, piochez #b1 carte de plus de votre pile de Collection.",
+      "Au début de votre tour, piochez #b",
+      " cartes de plus de votre pile de Collection.."
     ]
   },
   "collector:MastersCall": {
     "NAME": "L'appel du Maître",
     "DESCRIPTIONS": [
-      "Chaque fois que vous jouez une attaque, si vous avez des #yPV #ytemporaire, infligez #b",
-      " dégat a un ennemi aléatoire.",
+      "Chaque fois que vous jouez une attaque, si vous avez des #yPV #ytemporaires [REMOVE_SPACE], infligez #b",
+      " dégâts à un ennemi aléatoire.",
       "Translator Note: NOT USED"
     ]
   },
   "collector:LouseCard": {
-    "NAME": "Se détendre",
+    "NAME": "Se rouler en boule",
     "DESCRIPTIONS": [
       "La prochaine fois que vous subirez des dégâts non bloqués, gagnez #b",
       " #yd'Armure."
@@ -232,75 +232,75 @@
     ]
   },
   "collector:GremlinWizardCard": {
-    "NAME": "Recharger",
+    "NAME": "Accumulation de puissance",
     "DESCRIPTIONS": [
       "Au prochain tour, gagnez #b",
-      " #yVigueur."
+      " de #yVigueur."
     ]
   },
   "collector:ThievesCard": {
-    "NAME": "Ruse",
+    "NAME": "Esquive",
     "DESCRIPTIONS": [
-      "Prenez #b",
-      " dégâts en moins des attaques se tour."
+      "Ce tour, les attaques vous infligent #b",
+      " dégâts de moins."
     ]
   },
   "collector:BookOfStabbingCard": {
-    "NAME": "Poignardé",
+    "NAME": "Assassin",
     "DESCRIPTIONS": [
       "Chaque fois que vous infligez des dégâts non bloqués, appliquez #b",
-      " #yMalédiction."
+      " de #yMalédiction."
     ]
   },
   "collector:TransientCard": {
     "NAME": "Déclin",
     "DESCRIPTIONS": [
-      "A la fin de votre tour, #rmeurt.",
+      "A la fin de votre tour, #rmourez.",
       "Dans #b",
-      " tours, #rmeurt."
+      " tours, #rmourez."
     ]
   },
   "collector:ReptomancerCard": {
-    "NAME": "Appel toxique",
+    "NAME": "Sbire toxique",
     "DESCRIPTIONS": [
-      "A la fin de votre tour, si vous avez des #yPV #ytemporaire, appliquez #b",
-      " #yPoison a un ennemi aléatoire."
+      "A la fin de votre tour, si vous avez des #yPV #ytemporaires, appliquez #b",
+      " de #yPoison à un ennemi aléatoire."
     ]
   },
   "collector:MoreBlockWithTempHP": {
-    "NAME": "Heaume à dé à coudre",
+    "NAME": "Heaume en dé à coudre",
     "DESCRIPTIONS": [
-      "Quand vous avez des #yPV #ytemporaire, gagnez #b",
-      " #yd'Armure en plus des cartes."
+      "Si vous avez des #yPV #ytemporaires, les cartes vous donnent #b",
+      " #yd'Armure de plus."
     ]
   },
   "collector:NextTurnVigor": {
     "NAME": "Vigueur au prochain tour",
     "DESCRIPTIONS": [
       "Au début de votre prochain tour, gagnez #b",
-      " #yVigueur."
+      " de #yVigueur."
     ]
   },
   "collector:AcidSlimeCard": {
     "NAME": "Duplication visqueuse",
     "DESCRIPTIONS": [
-      "Votre prochaine #yAttaque ou #yCompétence durent ce tour et jouez 2 fois.",
-      "Vos prochaines #b",
-      " #yAttaque ou #yCompétence durent ce tour et jouez 2 fois."
+      "Ce tour, votre prochaine #yAttaque ou #yCompétence est jouée deux fois.",
+      "Ce tour, vos #b",
+      " prochaines #yAttaques ou #yCompétences sont jouées deux fois."
     ]
   },
   "collector:GremlinNobCard": {
     "NAME": "Colère",
     "DESCRIPTIONS": [
       "Chaque fois que vous jouez une #yCompétence, gagnez #b",
-      " #yVigueur."
+      " de #yVigueur."
     ]
   },
   "collector:LanternFlare": {
     "NAME": "Roussi",
     "DESCRIPTIONS": [
-      "A la fin de sont tour, gagnez #b",
-      " #yMalédiction."
+      "Cette créature gagne #b",
+      " de #yMalédiction à la fin de son tour."
     ]
   },
   "collector:WomanInBlueCard": {
@@ -312,16 +312,16 @@
   "collector:ShootingStar": {
     "NAME": "Étoile filante",
     "DESCRIPTIONS": [
-      "La première fois que vous mettez au #yBûcher une #yAttaque a chaque tour, retournez la dans votre main. Elle coûtera #b0 jusqu'à ce qu'elle soit jouée.",
-      "Les #b",
-      " première fois que vous mettez au #yBûcher une #yAttaque a chaque tour, retournez les dans votre main. Elles coûteront #b0 jusqu'à ce qu'elle soit jouée."
+      "Chaque tour, la première fois que vous mettez une #yAttaque au #yBûcher, reprenez-la en main. Elle coûte #b0 jusqu'à ce qu'elle soit jouée.",
+      "Chaque tour, les #b",
+      " premières fois que vous mettez une #yAttaque au #yBûcher, reprenez-la en main. Elle coûte #b0 jusqu'à ce qu'elle soit jouée."
     ]
   },
   "collector:LoseHpNextTurn": {
     "NAME": "Marqué par la mort",
     "DESCRIPTIONS": [
-      "A la fin de son tour, perd #b",
-      " PV."
+      "Perd #b",
+      " PV à la fin de son tour."
     ]
   }
 }
