@@ -17,7 +17,7 @@
     "NAME": "Haltères",
     "FLAVOR": "1000 pompes ? Pff. Je peux en faire 1001.",
     "DESCRIPTIONS": [
-      "Lorsque vous atteignez un feu de camp, si vous avez au moins #b", 
+      "Lorsque vous atteignez un #ySite #yde #yrepos [REMOVE_SPACE], si vous avez au moins #b", 
       " cartes #yAméliorables dans votre deck, #yAméliorez-en une aléatoirement."
     ]
   },
