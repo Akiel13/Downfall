@@ -2,8 +2,8 @@
   "champ:CounterPower": {
     "NAME": "Contre",
     "DESCRIPTIONS": [
-      "La prochaine fois que vous recevez des dégâts d'une #yAttaque, obtenez une #yFrappe #yRiposte #b",
-      " ces dégâts en retour."
+      "La prochaine fois qu'un ennemi vous attaque, ajoutez à votre main une #yFrappe #yRiposte qui inflige #b",
+      " dégâts."
     ]
   },
   "champ:FocusedDefPower": {
@@ -14,9 +14,9 @@
     ]
   },
   "champ:FocusedBerPower": {
-    "NAME": "Fancy Footwork",
+    "NAME": "Jeu de jambes élégant",
     "DESCRIPTIONS": [
-      "La prochaine fois que vous utilisez un #yFinisher ce tour, TOUS les ennemis perdent #b",
+      "La prochaine fois que vous jouez un #yFinisher ce tour, TOUS les ennemis perdent #b",
       " PV."
     ]
   },
@@ -30,8 +30,8 @@
   "champ:EntangleNextTurnPower": {
     "NAME": "Épée lancée",
     "DESCRIPTIONS": [
-      "Vous ne pouvez pas jouer #yd'Attaque au prochain tour.",
-      "Vous ne pouvez pas jouer #yd'Attaque our les #b",
+      "Vous ne pourrez pas jouer #yd'Attaque au prochain tour.",
+      "Vous ne pourrez pas jouer #yd'Attaque lors des #b",
       " prochains tours."
     ]
   },
@@ -55,28 +55,28 @@
     "NAME": "Rage sans fin",
     "DESCRIPTIONS": [
       "Lorsque vous perdez des PV lors de votre tour, gagnez #b",
-      " de #yForce temporaire [REMOVE_SPACE]."
+      " de #yForce temporaire."
     ]
   },
   "champ:ImprovisingPower": {
     "NAME": "Improvisation",
     "DESCRIPTIONS": [
-      "Au début de votre tour, si vous n'êtes pas dans une #yPose [REMOVE_SPACE], adoptez une #yPose aléatoire. Lorsque vous adoptez une #yPose [REMOVE_SPACE], déclenchez son #yBonus #yde #yCompétence #b",
+      "Lorsque vous entrez dans une #yPosition [REMOVE_SPACE], déclenchez son #yBonus #yde #yCompétence #b",
       " fois."
     ]
   },
   "champ:CalledShotPower": {
     "NAME": "Coup annoncé",
     "DESCRIPTIONS": [
-      "La prochaine fois que vous jouez un #yFinisher [REMOVE_SPACE], ne quittez pas votre #yPose [REMOVE_SPACE].",
+      "Le prochain #yFinisher que vous jouez ne vous fait pas quitter votre #yPosition [REMOVE_SPACE].",
       "Les #b",
-      " prochaines fois que vous jouez un #yFinisher [REMOVE_SPACE], ne quittez pas votre #yPose [REMOVE_SPACE]."
+      " prochains #yFinishers que vous jouez ne vous font pas quitter votre #yPosition [REMOVE_SPACE]."
     ]
   },
   "champ:DancingMasterPower": {
     "NAME": "Maître de la danse",
     "DESCRIPTIONS": [
-      "La troisième fois que vous adoptez une #yPose chaque tour, gagnez #b",
+      "La troisième fois que vous jouez un #yFinisher chaque tour, gagnez #b",
       " [E] et piochez #b",
       " cartes. ",
       "",
@@ -87,37 +87,37 @@
   "champ:StrikeOfGeniusPower": {
     "NAME": "Frappé de génie",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez un #yÉcho de \"Frappe\" aléatoire dans votre main [REMOVE_SPACE]. Elle coûte #b0 jusqu'à ce qu'elle soit jouée.",
-      "Au début de votre tour, ajoutez #b",
-      " #yÉchos de \"Frappe\" dans votre main [REMOVE_SPACE]. Elles coûtent #b0 jusqu'à ce qu'elle soit jouées."
+      "Au début de votre tour, ajoutez un #yÉcho d'une \"Frappe\" aléatoire dans votre main. Il coûte #b0 #b0 jusqu'à être joué.",
+      "Au début de votre tour, ajoutez des #yÉchos de #b",
+      " \"Frappes\" aléatoires à votre main. Ils coûtent #b0 jusqu'à être joués."
     ]
   },
   "champ:StrikeOfGeniusUpgradedPower": {
     "NAME": "Frappé de génie+",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez un #yÉcho #yamélioré de \"Frappe\" aléatoire dans votre main [REMOVE_SPACE]. Elle coûte #b0 jusqu'à ce qu'elle soit jouée.",
-      "Au début de votre tour, ajoutez #b",
-      " #yÉchos #yaméliorés de \"Frappe\" dans votre main [REMOVE_SPACE]. Elles coûtent #b0 jusqu'à ce qu'elle soit jouées."
+      "Au début de votre tour, ajoutez un #yÉcho #yAmélioré d'une \"Frappe\" aléatoire dans votre main. Il coûte #b0 #b0 jusqu'à être joué.",
+      "Au début de votre tour, ajoutez des #yÉchos #yAméliorés de #b",
+      " \"Frappes\" aléatoires à votre main. Ils coûtent #b0 jusqu'à être joués."
     ]
   },
   "champ:DefensiveStylePower": {
     "NAME": "Style défensif",
     "DESCRIPTIONS": [
-      "Les #yTechniques de la pose #yDéfensive donnent #b",
+      "Les #yBonus #yde #yCompétence de la #bPose #bDéfensive octroient #b",
       " de #yContre supplémentaire."
     ]
   },
   "champ:GladiatorStylePower": {
     "NAME": "Combat propre",
     "DESCRIPTIONS": [
-      "Si vous commencez votre tour sans #yPose, gagnez #b",
+      "Si vous commencez votre tour sans #yPosition [REMOVE_SPACE], gagnez #b",
       " de #yForce et de #yDextérité temporaires."
     ]
   },
   "champ:BerserkerStylePower": {
     "NAME": "Style du Destructeur",
     "DESCRIPTIONS": [
-      "Les #yTechniques de la pose du #yDestructeur donnent #b",
+      "Les #yBonus #yde #yCompétence de la #rPose #rdu #rDestructeur octroient #b",
       " de #yVigueur supplémentaires."
     ]
   },
@@ -141,14 +141,14 @@
   "champ:IronFortressPower": {
     "NAME": "Dispositif technique",
     "DESCRIPTIONS": [
-      "Lorsque vous adoptez une Pose, gagnez #b",
+      "Lorsque vous entrez dans une #yPosition [REMOVE_SPACE], gagnez #b",
       " #yd'Armure."
     ]
   },
   "champ:IronFortressVigorPower": {
     "NAME": "Dispositif technique : Destructeur",
     "DESCRIPTIONS": [
-      "Lorsque vous adoptez une Pose, déclenchez le #yBonus #yde #yCompétence de la Pose du Destructeur",
+      "Lorsque vous entrez dans une #yPosiyion [REMOVE_SPACE], déclenchez le #yBonus #yde #yCompétence de la #rPose #rdu #rDestructeur",
       " #b",
       " fois."
     ]
