@@ -54,7 +54,7 @@
   "champ:WorseRupturePower": {
     "NAME": "Rage sans fin",
     "DESCRIPTIONS": [
-      "Lorsque vous perdez des PV lors de votre tour, gagnez #b",
+      "Lorsque vous perdez des PV pendant votre tour, gagnez #b",
       " de #yForce temporaire."
     ]
   },
@@ -87,23 +87,23 @@
   "champ:StrikeOfGeniusPower": {
     "NAME": "Frappé de génie",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez un #yÉcho d'une \"Frappe\" aléatoire dans votre main. Il coûte #b0 #b0 jusqu'à être joué.",
-      "Au début de votre tour, ajoutez des #yÉchos de #b",
-      " \"Frappes\" aléatoires à votre main. Ils coûtent #b0 jusqu'à être joués."
+      "Au début de votre tour, ajoutez à votre main un #yÉcho d'une carte aléatoire contenant \"Frappe\". Il coûte #b0 #b0 jusqu'à être joué.",
+      "Au début de votre tour, ajoutez à votre main des #yÉchos de #b",
+      " cartes aléatoires contenant \"Frappe\". Ils coûtent #b0 jusqu'à être joués."
     ]
   },
   "champ:StrikeOfGeniusUpgradedPower": {
     "NAME": "Frappé de génie+",
     "DESCRIPTIONS": [
-      "Au début de votre tour, ajoutez un #yÉcho #yAmélioré d'une \"Frappe\" aléatoire dans votre main. Il coûte #b0 #b0 jusqu'à être joué.",
-      "Au début de votre tour, ajoutez des #yÉchos #yAméliorés de #b",
-      " \"Frappes\" aléatoires à votre main. Ils coûtent #b0 jusqu'à être joués."
+      "Au début de votre tour, ajoutez un #yÉcho d'une carte #yAméliorée aléatoire contenant \"Frappe\". Il coûte #b0 #b0 jusqu'à être joué.",
+      "Au début de votre tour, ajoutez à votre main des #yÉchos de #b",
+      " cartes #yAméliorées aléatoires contenant \"Frappe\". Ils coûtent #b0 jusqu'à être joués."
     ]
   },
   "champ:DefensiveStylePower": {
     "NAME": "Style défensif",
     "DESCRIPTIONS": [
-      "Les #yBonus #yde #yCompétence de la #bPose #bDéfensive octroient #b",
+      "Les #yBonus #yde #yCompétence de la #bPose #bDéfensive confèrent #b",
       " de #yContre supplémentaire."
     ]
   },
@@ -117,7 +117,7 @@
   "champ:BerserkerStylePower": {
     "NAME": "Style du Destructeur",
     "DESCRIPTIONS": [
-      "Les #yBonus #yde #yCompétence de la #rPose #rdu #rDestructeur octroient #b",
+      "Les #yBonus #yde #yCompétence de la #rPose #rdu #rDestructeur confèrent #b",
       " de #yVigueur supplémentaires."
     ]
   },
@@ -148,7 +148,7 @@
   "champ:IronFortressVigorPower": {
     "NAME": "Dispositif technique : Destructeur",
     "DESCRIPTIONS": [
-      "Lorsque vous entrez dans une #yPosiyion [REMOVE_SPACE], déclenchez le #yBonus #yde #yCompétence de la #rPose #rdu #rDestructeur",
+      "Lorsque vous entrez dans une #yPosition [REMOVE_SPACE], déclenchez le #yBonus #yde #yCompétence de la #rPose #rdu #rDestructeur",
       " #b",
       " fois."
     ]
@@ -156,14 +156,14 @@
   "champ:LastStandMod": {
     "NAME": "Last Stand",
     "DESCRIPTIONS": [
-      "Au début du tour, si vos PV sont à 50% ou moins, perdez tous vos débuffs et gagnez ",
+      "Au début du tour, si vous êtes à 50% de PV ou moins, perdez tous vos débuffs et gagnez ",
       " de Force."
     ]
   },
   "champ:GladiatorFormPower": {
     "NAME": "Forme gladiatrice",
     "DESCRIPTIONS": [
-      "Au début de votre tour, gagnez #b",
+      "Au début du tour, gagnez #b",
       " de #yVigueur pour chaque 3 points dépensés pendant ce tour, puis faites la même chose pour le #yContre."
     ]
   },
@@ -201,7 +201,7 @@
   "champ:ParryPower": {
     "NAME": "Parade",
     "DESCRIPTIONS": [
-      "Si votre Contre est utilisé ce tour, obtenez une #yFrappe #yRiposte supplémentaire."
+      "Si votre #yContre est utilisé ce tour, obtenez une #yFrappe #yRiposte supplémentaire."
     ]
   },
   "champ:BoomerangPower": {
