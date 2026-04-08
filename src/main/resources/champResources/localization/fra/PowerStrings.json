@@ -154,7 +154,7 @@
     ]
   },
   "champ:LastStandMod": {
-    "NAME": "Last Stand",
+    "NAME": "Baroud d'honneur",
     "DESCRIPTIONS": [
       "Au début du tour, si vous êtes à 50% de PV ou moins, perdez tous vos débuffs et gagnez ",
       " de Force."
@@ -226,10 +226,10 @@
     ]
   },
   "champ:LastStandPower": {
-    "NAME": "Last Stand",
+    "NAME": "Baroud d'honneur",
     "DESCRIPTIONS": [
-      "Une fois que vous êtes en dessous de 50% de vos PV, retirez tous vos Débuffs et gagnez #b",
-      " de #yForce.",
+      "Si vous êtes à 50% de PV ou moins, vous avez #b",
+      " de #yForce supplémentaire. Lorsque cet effet devient actif, retirez tous vos débuffs.",
       "~Vous~ ~allez~ ~le~ ~regretter...~",
       "@UNE@ @DÉFAITE??@ NL @IMPOSSIBLE!!@"
     ]
@@ -237,14 +237,14 @@
     "champ:HonePower": {
     "NAME": "Lame affûtée",
     "DESCRIPTIONS": [
-      "Vos cartes #y\"Frappe\" infligent #b",
+      "Vos cartes contenant #y\"Frappe\" infligent #b",
       " dégâts supplémentaires."
     ]
   },
   "champ:DoubleStyleThisTurnPower": {
     "NAME": "Fouet de chaînes",
     "DESCRIPTIONS": [
-      "Pendant ce tour, les #yBonus #yde #yCompétence accordent #b",
+      "Pendant ce tour, les #yBonus #yde #yCompétence confèrent #b",
       " d'effets supplémentaires."
     ]
   }
