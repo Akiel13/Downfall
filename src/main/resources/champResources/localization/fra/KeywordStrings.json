@@ -9,14 +9,14 @@
       "champ:[crown_icon]",
       "[crown_icon]"
     ],
-    "DESCRIPTION": "Un effet appliqué par votre #yPosition les trois premières fois que vous jouez une #yCompétence [REMOVE_SPACE]. Le #yBonus de la #rPose #rdu #rDestructeur est « Gagnez #b2 de #yVigueur ». NL Le #yBonus de la #bPose #bDéfensive est « Gagnez #b3 de #yContre »."
+    "DESCRIPTION": "Un effet appliqué par votre #yPosition les trois premières fois que vous jouez une #yCompétence [REMOVE_SPACE]. NL Celui de la #rPose #rdu #rDestructeur est \"Gagnez #b2 de #yVigueur [REMOVE_SPACE]\". NL Celui de la #bPose #bDéfensive est \"Gagnez #b3 de #yContre [REMOVE_SPACE]\"."
   },
   {
     "PROPER_NAME": "Combo",
     "NAMES": [
       "combo"
     ],
-    "DESCRIPTION": "Un effet supplémentaire qu'a une carte si jouée en étant dans la #yPosition correspondante [REMOVE_SPACE]."
+    "DESCRIPTION": "Un effet supplémentaire qu'a une carte si jouée en étant dans la #yPosition associée [REMOVE_SPACE]."
   },
   {
     "PROPER_NAME": "Frappe",
@@ -36,7 +36,7 @@
       "[fist_icon]",
       "champ:[fist_icon]"
     ],
-    "DESCRIPTION": "#yInjouable si vous n'êtes pas dans une #yPosition [REMOVE_SPACE]. Après avoir joué un Finisher, quittez votre #yPosition [REMOVE_SPACE], et appliquez les effets suivants si vous étiez dans la #yPosition correspondante : NL #rPose #rdu #rDestructeur : Gagnez #b1 de #yForce [REMOVE_SPACE]. NL #bPose #bDéfensive : Gagnez #b6 #bd'Armure [REMOVE_SPACE]."
+    "DESCRIPTION": "#yInjouable si vous n'êtes pas dans une #yPosition [REMOVE_SPACE]. Après avoir joué un #yFinisher, quittez votre #yPosition [REMOVE_SPACE]. NL Si vous jouez un #yFinisher en étant en #rPose #rdu #rDestructeur [REMOVE_SPACE], gagnez #b1 de #yForce [REMOVE_SPACE]. NL Si vous jouez un #yFinisher en étant en #bPose #bDéfensive [REMOVE_SPACE], gagnez #b6 #yd'Armure [REMOVE_SPACE]."
   },
   {
     "PROPER_NAME": "Contre",
@@ -54,7 +54,7 @@
       "defensive",
       "defensive."
     ],
-    "DESCRIPTION": "Les trois premières fois que vous jouez une #yCompétence en étant dans cette #yPosition [REMOVE_SPACE], appliquez le #yBonus « Gagnez #b3 de #yContre »."
+    "DESCRIPTION": "Les trois premières fois que vous jouez une #yCompétence en étant dans cette #yPosition [REMOVE_SPACE], appliquez le #yBonus \"Gagnez #b3 de #yContre [REMOVE_SPACE]\"."
   },
   {
     "PROPER_NAME": "Destructeur",
@@ -64,7 +64,7 @@
       "berserker",
       "berserker."
     ],
-      "DESCRIPTION": "Les trois premières fois que vous jouez une #yCompétence en étant dans cette #yPosition [REMOVE_SPACE], appliquez le #yBonus « Gagnez #b2 de #yVigueur »."
+      "DESCRIPTION": "Les trois premières fois que vous jouez une #yCompétence en étant dans cette #yPosition [REMOVE_SPACE], appliquez le #yBonus \"Gagnez #b2 de #yVigueur [REMOVE_SPACE]\"."
   },
   {
     "PROPER_NAME": "Gladiateur",
@@ -74,7 +74,7 @@
       "gladiator",
       "gladiator."
     ],
-    "DESCRIPTION": "Les trois premières fois que vous jouez une #yCompétence en étant dans cette #yPosition [REMOVE_SPACE], appliquez le #yBonus « Piochez #b1 carte ». NL Après avoir joué un #yFinisher en étant dans cette #yPosition : terminez immédiatement votre tour, et au début de votre prochain tour, gagnez [E] puis piochez #b1 carte."
+    "DESCRIPTION": "Les trois premières fois que vous jouez une #yCompétence en étant dans cette #yPosition [REMOVE_SPACE], appliquez le #yBonus « Piochez #b1 carte ». NL Après avoir joué un #yFinisher en étant dans cette #yPosition : terminez votre tour, et au début de votre prochain tour, gagnez [E] puis piochez #b1 carte."
   },
   {
     "PROPER_NAME": "Pose ultime",
@@ -84,7 +84,7 @@
       "ultimate",
       "ultimate."
     ],
-    "DESCRIPTION": "Dans cette #yPosition, vous êtes en #rPose #rdu #rDestructeur et en #bPose #bDéfensive en même temps. NL Quittez cette #yPosition à la fin de votre tour. Si vous la quittez prématurément, revenez-y immédiatement [REMOVE_SPACE]. Si un effet devrait vous faire entrer dans cette #yPosition alors que vous y êtes déjà, repoussez d'un tour le moment où vous la quitterez"
+    "DESCRIPTION": "Dans cette #yPosition, vous êtes en #rPose #rdu #rDestructeur et en #bPose #bDéfensive en même temps. NL Quittez cette #yPosition à la fin de votre tour. Si vous la quittez prématurément, revenez-y immédiatement [REMOVE_SPACE]. NL Si un effet devrait vous faire entrer dans cette #yPosition alors que vous y êtes déjà, repoussez d'un tour le moment où vous la quitterez"
   },
   {
     "PROPER_NAME": "Fatigue",
