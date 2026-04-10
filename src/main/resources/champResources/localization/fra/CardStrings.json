@@ -8,7 +8,7 @@
     "DESCRIPTION": "Gagnez !B! d'Armure."
   },
   "champ:Taunt": {
-    "NAME": "Provoc",
+    "NAME": "Provoc'",
     "DESCRIPTION": "Appliquez !M! de Faiblesse et de Vulnérabilité.",
     "UPGRADE_DESCRIPTION": "Appliquez !M! de Faiblesse et de Vulnérabilité à TOUS les ennemis."
   },
@@ -19,11 +19,11 @@
   },
   "champ:StanceDance": {
     "NAME": "Danse des poses",
-    "DESCRIPTION": "Choisissez une Pose à Adopter. NL Déclenchez son champ:Bonus de *Compétence.",
-    "UPGRADE_DESCRIPTION": "Choisissez une Pose à Adopter. NL Déclenchez son champ:Bonus de *Compétence deux fois.",
+    "DESCRIPTION": "Entrez en #yPose champ:Défensive ou #ydu champ:Destructeur. NL Appliquez son champ:Bonus *de *Compétence.",
+    "UPGRADE_DESCRIPTION": "Entrez en #yPose champ:Défensive ou #ydu champ:Destructeur. NL Appliquez son champ:Bonus de *Compétence deux fois.",
     "EXTENDED_DESCRIPTION": [
-      "Adoptez la Pose du champ:Destructeur.",
-      "Adoptez la Pose champ:Défensive."
+      "Entrez en *Pose *du champ:Destructeur.",
+      "Entrez en *Pose champ:Défensive."
     ]
   },
   "champ:StanceDanceCrown": {
@@ -32,8 +32,8 @@
     "UPGRADE_DESCRIPTION": "Retenue. Choisissez une Pose à Adopter."
   },
   "champ:SwordSigil": {
-    "NAME": "Sigle de la victoire",
-    "DESCRIPTION": "Déclenchez le *Bonus de *Compétence de votre *Pose !M! fois."
+    "NAME": "Sceau de la victoire",
+    "DESCRIPTION": "Déclenchez le *Bonus de *Compétence de votre *Position !M! fois."
   },
   "champ:FaceSlap": {
     "NAME": "Gifle",
@@ -45,7 +45,7 @@
   },
   "champ:DefensiveShout": {
     "NAME": "Cri défensif",
-    "DESCRIPTION": "Gagnez !M! de champ:Contre. NL Adoptez la pose champ:Défensive."
+    "DESCRIPTION": "Gagnez !M! de champ:Contre. NL Entrez en pose champ:Défensive."
   },
   "champ:ShieldSigil": {
     "NAME": "Fouet de chaînes",
@@ -53,7 +53,7 @@
   },
   "champ:FocusedDefense": {
     "NAME": "Feinte brutale",
-    "DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! de Vigueur. NL Adoptez la pose du champ:Destructeur."
+    "DESCRIPTION": "Gagnez !B! d'Armure. NL Gagnez !M! de Vigueur. NL Entrez en pose du champ:Destructeur."
   },
   "champ:FocusedBerserking": {
     "NAME": "Tout donner",
@@ -69,15 +69,15 @@
   },
   "champ:BerserkersShout": {
     "NAME": "Cri du Destructeur",
-    "DESCRIPTION": "Gagnez !M! de Vigueur. NL Adoptez la Pose du champ:Destructeur."
+    "DESCRIPTION": "Gagnez !M! de Vigueur. NL Entrez en Pose du champ:Destructeur."
   },
   "champ:RageSigil": {
     "NAME": "Plan de bataille",
-    "DESCRIPTION": "Adoptez la Pose champ:Défensive. Gagnez !B! d'Armure. NL Scrutez !M! cartes."
+    "DESCRIPTION": "Entrez en Pose champ:Défensive. Gagnez !B! d'Armure. NL Scrutez !M! cartes."
   },
   "champ:GutPunch": {
     "NAME": "Coup à l'estomac",
-    "DESCRIPTION": "Infligez !D! dégâts. NL champ:Combo de *n'importe *quelle *Pose: Adoptez la Pose champ:Ultime pour un tour. Épuisement."
+    "DESCRIPTION": "Infligez !D! dégâts. NL champ:Combo de *n'importe *quelle *Pose: Entrez en Pose champ:Ultime pour un tour. Épuisement."
   },
   "champ:FanOfKnives": {
     "NAME": "Fan de lames",
@@ -252,8 +252,8 @@
   },
   "champ:RecklessLeap": {
     "NAME": "Frappe téméraire",
-    "DESCRIPTION": "Infligez !D! dégâts. NL Gagnez !M! de Force. NL Adoptez la Pose du champ:Destructeur. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Gagnez !M! de Force. NL Adoptez la Pose du champ:Destructeur.",
+    "DESCRIPTION": "Infligez !D! dégâts. NL Gagnez !M! de Force. NL Entrez en Pose du champ:Destructeur. NL Épuisement.",
+    "UPGRADE_DESCRIPTION": "Infligez !D! dégâts. NL Gagnez !M! de Force. NL Entrez en Pose du champ:Destructeur.",
     "EXTENDED_DESCRIPTION": [
       "Un mauvais moment pour cette carte."
     ]
@@ -337,8 +337,8 @@
   },
   "champ:Endure": {
     "NAME": "Endurance",
-    "DESCRIPTION": "Adoptez la Pose champ:Défensive. Gagnez !B! d'Armure, augmentée par la Force au lieu de la Dextérité.",
-    "UPGRADE_DESCRIPTION": "Adoptez la Pose champ:Défensive. Gagnez !B! d'Armure, augmentée par la Force."
+    "DESCRIPTION": "Entrez en Pose champ:Défensive. Gagnez !B! d'Armure, augmentée par la Force au lieu de la Dextérité.",
+    "UPGRADE_DESCRIPTION": "Entrez en Pose champ:Défensive. Gagnez !B! d'Armure, augmentée par la Force."
   },
   "champ:PreemptiveStrike": {
     "NAME": "Frappe préventive",
@@ -367,7 +367,7 @@
   "champ:UltimateStance": {
     "NAME": "Pose ultime",
     "DESCRIPTION": "Jusqu'à votre prochain tour, vous êtes en Pose champ:Ultime. NL Épuisement.",
-    "UPGRADE_DESCRIPTION": "Requiert la Pose *Défensive ou du *Destructeur. NL Adoptez la Pose champ:Ultime pour !M! tours.",
+    "UPGRADE_DESCRIPTION": "Requiert la Pose *Défensive ou du *Destructeur. NL Entrez en Pose champ:Ultime pour !M! tours.",
     "EXTENDED_DESCRIPTION": [
       "Je ne suis pas dans une Pose."
     ]
@@ -386,8 +386,8 @@
     "DESCRIPTION": "Choisissez une Pose à Adopter. NL Récupérez un champ:Finisher de votre pioche. NL Épuisement.",
     "UPGRADE_DESCRIPTION": "Choisissez une Pose à Adopter. NL Récupérez un champ:Finisher de votre pioche.",
     "EXTENDED_DESCRIPTION": [
-      "Adoptez la pose du champ:Destructeur.",
-      "Adoptez la pose champ:Défensive."
+      "Entrez en pose du champ:Destructeur.",
+      "Entrez en pose champ:Défensive."
     ]
    },
   "champ:Headbutt": {
