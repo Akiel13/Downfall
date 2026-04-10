@@ -2,7 +2,7 @@
   "champ:ChampTalk": {
     "NAME": "",
     "DESCRIPTIONS": [
-      "TU VEUX RÉCUPÉRER CETTE CEINTURE?",
+      "TU VEUX RÉCUPÉRER CETTE CEINTURE ?",
       "VIENS-LA CHERCHER !"
     ],
     "OPTIONS": [
@@ -36,7 +36,7 @@
     ],
     "OPTIONS": [
       "[Chercher] #gLocalisez #gun #gLivre #gsur #gle #gCombat.",
-      "[Verrouillé] Déjà possédé tous les tomes de Combat."
+      "[Verrouillé] Vous possédez déjà tous les tomes de Combat."
     ]
   },
   "champ:TechniqueTome": {
